@@ -1,0 +1,10 @@
+.DS_Store
+.playwright-mcp/
+data/.live-sheet.xlsx
+data/.live-sheet*
+data/.odysee-token
+.cache.json
+token*.json
+client_secret*.json
+node_modules/
+data/live-sheet-id.txt

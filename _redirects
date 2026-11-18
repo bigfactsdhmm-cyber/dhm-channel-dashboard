@@ -1,0 +1,12 @@
+# Short links to each tab (kept in netlify-site/, deployed by dashboard-website.sh)
+/fan         /#fan-channels                 302
+/gist        /#christian-gist-channels      302
+/flow        /#flow-prayer-meeting-channels 302
+/association /#association-channels         302
+/camps       /#camps-channels               302
+/people      /#people-channels              302
+/languages   /#other-languages              302
+/men         /#men-of-god-channels          302
+/platforms   /#alternative-platforms        302
+/all         /#all                          302
+/tv          /?tv                           302

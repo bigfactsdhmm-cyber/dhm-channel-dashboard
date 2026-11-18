@@ -1,0 +1,135 @@
+# Channel categories. The home page shows these sections in this order.
+# Start each category with "## Name", then list its channels one per line, spelled as on the page.
+# Channels not listed here are Fan channels (shown last). Rebuild with ./update.sh after editing.
+
+## Christian Gist channels
+# The news channels (added 2026-10-08).
+Breaking World News
+News Central 24
+NewsFront Global
+The Global Desk
+World News Now
+Global Brief
+Global Focus 24
+The World Desk
+WorldPoint News
+WorldWatch Daily
+Global Pulse 24
+Global Report Network
+WorldLine News
+WorldScope News
+WorldView Today
+Daily World Report
+NewsHub Global
+NewsPulse 24
+NewsSphere
+The News Room
+
+## FLOW Prayer Meeting channels
+Flow Church Teachings
+# From the "01 FLOW CHANNELS" folder (screenshot, 2026-10-01).
+Deep Calls to Deep
+Fire on the Altar
+Gates of Praise
+Glory to Glory
+Heaven's Perspective
+Hidden Manna
+Holy Fire Nation
+Holy Ground Moments
+Living Waters TV
+Mercy Endures
+Morning Glory Word
+Mount Carmel Fire
+Overflowing Cup
+Peace Like a River
+Refiner's Fire
+Rivers of Revival
+Spirit Led Living
+Streams in the Desert
+The Anointed Word
+The Burning Bush
+The Golden Lampstand
+The Prayer Closet
+The Watchman's Call
+Upper Room Fire
+Wells of Salvation
+Let It Flow
+
+## Association channels
+
+## Camps channels
+# Channels named after a camp meeting theme (playlists on the Dag Heward-Mills Camps Channel).
+Not A Novice
+Warfare Keys
+Why Are You Not A Missionary
+Attempt Great Things
+# Camp themes not live yet (in Grok's log or on hold); they join the section once live.
+100 Million Souls
+Awake O Sleeper
+Bag Of Seeds
+Barrenness And Fruitfulness
+Be Thou Faithful Unto Death
+Choose Me, Use Me
+Fight The Good Fight
+Finish What You Started
+Gods Banquet
+I Come Seeking Fruits
+If You Love The Lord
+Kings And Priests
+Kruptos Man
+Lay Power
+Lord I Know You Need Somebody
+Mighty Foundations
+Moses And Associates
+Obedience Unto Death
+Predestination
+Preparation of The Gospel
+Stir It Up
+Sufferings Of Christ
+Sweet Influence Of The Holy Spirit
+Tasters And Partakers
+Tell Them
+That My House May Be Filled
+The Blessings Of Abraham
+The Church Must Send Or It Will End
+The Lords Anointed
+The Message Of Sacrifice
+The Perfect Mantle
+The Word Of My Patience
+Warning Of Purpose
+Wise As Serpents
+
+## People channels
+# Channels named after people.
+Aisha Ibrahim Musa
+Amina Hassan Ali
+Chinedu Okafor
+Fatima Bello
+Kofi Asante
+Kwame Mensah
+Lim Jia Hui
+Ngozi Eze
+Otieno Ochieng
+Tan Wei Ming
+Tunde Adeyemi
+Wanjiku Njeri
+Yaw Ofori
+Zawadi Muthoni
+
+## Other Languages
+# Channels in languages other than English. List channel names one per line, as on the page.
+
+## Men of God channels
+# Fan channels that feature other men of God (ministers/focus in data/ministers.json).
+World Connect
+Impact Zone TV
+World Pulse TV
+Viral Horizon
+The Media Hub
+Vision Hub
+Prime Spotlight
+Next Wave TV
+Pulse Nation
+The Daily Wave
+TrendSphere
+Impact World

@@ -1,0 +1,535 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#14263f">
+<title>Channels</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Channels">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2028%2020%22%3E%3Crect%20width%3D%2228%22%20height%3D%2220%22%20rx%3D%225%22%20fill%3D%22%23FF0033%22%2F%3E%3Cpath%20d%3D%22M11%205.6%2019%2010l-8%204.4z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E">
+<style>
+  :root {
+    --glass: rgba(255,255,255,.13);
+    --edge: rgba(255,255,255,.22);
+    --ink: #f2f6ff;
+    --dim: rgba(226,236,255,.62);
+    --gap: clamp(12px, 1.2vw, 18px);
+    --shadow: 0 2px 10px rgba(6,18,34,.45);
+    --helvetica: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    min-height: 100vh;
+    padding: clamp(32px, 5vw, 76px) max(clamp(20px, 5vw, 72px), env(safe-area-inset-right))
+             calc(96px + env(safe-area-inset-bottom)) max(clamp(20px, 5vw, 72px), env(safe-area-inset-left));
+    -webkit-tap-highlight-color: transparent;
+    font: 400 16px/1.45 -apple-system, "SF Pro Text", var(--helvetica);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    background: #14263f radial-gradient(120% 90% at 18% -10%, #4b7fb5 0%, #2a4f7c 38%, #14263f 78%) fixed;
+  }
+  /* soft out-of-focus orbs, like the reference photo */
+  body::before, body::after {
+    content: ""; position: fixed; z-index: -1; border-radius: 50%; filter: blur(80px);
+  }
+  body::before { width: 46vw; height: 46vw; top: -14vw; right: -8vw; background: rgba(125,178,230,.38); }
+  body::after  { width: 38vw; height: 38vw; bottom: -14vw; left: -10vw; background: rgba(58,104,160,.55); }
+
+  header { max-width: 1320px; margin: 0 auto clamp(30px, 4vw, 56px); text-align: center; }
+  h1 {
+    font-family: var(--helvetica);
+    text-wrap: balance;
+    font-size: clamp(34px, 6.4vw, 72px); font-weight: 700; letter-spacing: -.028em; line-height: 1.04;
+    text-shadow: 0 2px 14px rgba(6,18,34,.42);
+  }
+  /* Inline rather than a flex child, so it stays glued to the number when the heading wraps. */
+  h1 svg {
+    display: inline-block; width: .95em; height: auto; vertical-align: -.14em; margin-right: .16em;
+    filter: drop-shadow(0 2px 10px rgba(6,18,34,.42));
+  }
+
+  .stats {
+    display: flex; flex-wrap: wrap; justify-content: center; gap: var(--gap);
+    margin-top: clamp(22px, 2.6vw, 34px);
+  }
+  .stat {
+    display: flex; flex-direction: column; justify-content: center;
+    min-width: clamp(150px, 15vw, 210px); padding: clamp(14px, 1.5vw, 20px) clamp(18px, 2vw, 28px);
+    border-radius: 18px; background: var(--glass); border: 1px solid var(--edge);
+    backdrop-filter: blur(24px) saturate(150%); -webkit-backdrop-filter: blur(24px) saturate(150%);
+    box-shadow: var(--shadow), inset 0 1px 0 rgba(255,255,255,.16);
+  }
+  .stat b {
+    display: block; font-family: var(--helvetica);
+    font-size: clamp(28px, 3.4vw, 44px); font-weight: 700; letter-spacing: -.03em; line-height: 1.1;
+    text-shadow: 0 2px 10px rgba(6,18,34,.35);
+  }
+  .stat span { display: block; font-size: clamp(12px, 1vw, 14px); color: var(--dim); letter-spacing: .02em; }
+  .stat em {
+    display: block; margin-top: 6px; padding-top: 6px; border-top: 1px solid rgba(255,255,255,.14);
+    font-style: normal; font-size: clamp(12px, 1vw, 13.5px); font-weight: 500; color: var(--ink);
+  }
+
+  .controls {
+    display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px;
+    margin-top: clamp(22px, 2.6vw, 32px);
+  }
+  #q {
+    font: inherit; font-size: 16px; color: var(--ink);
+    width: min(320px, 100%); padding: 11px 18px; border-radius: 999px;
+    background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.18);
+    backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  }
+  #q::placeholder { color: var(--dim); }
+  #q:focus { outline: none; border-color: rgba(255,255,255,.55); background: rgba(255,255,255,.16); }
+
+  .controls button {
+    font: inherit; font-size: 14px; color: var(--dim); cursor: pointer;
+    padding: 10px 18px; border-radius: 999px;
+    background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.14);
+    backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    transition: color .18s, background .18s;
+  }
+  .controls button[aria-pressed="true"] {
+    color: #163150; background: rgba(255,255,255,.92); border-color: transparent; font-weight: 600;
+  }
+
+  .sorts { display: contents; }
+
+  .grid {
+    max-width: 1320px; margin: 0 auto; display: grid; gap: var(--gap);
+    grid-template-columns: repeat(auto-fill, minmax(clamp(160px, 15vw, 200px), 1fr));
+  }
+  .tile {
+    display: flex; flex-direction: column; align-items: center; gap: clamp(10px, 1vw, 14px);
+    padding: clamp(22px, 2.2vw, 30px) 16px clamp(18px, 1.8vw, 24px);
+    border-radius: 22px; text-align: center; text-decoration: none; color: inherit;
+    background: var(--glass); border: 1px solid var(--edge);
+    backdrop-filter: blur(26px) saturate(160%); -webkit-backdrop-filter: blur(26px) saturate(160%);
+    box-shadow: 0 10px 30px rgba(8,22,40,.22), inset 0 1px 0 rgba(255,255,255,.18);
+    transition: transform .22s cubic-bezier(.2,.8,.3,1), background .22s, box-shadow .22s;
+  }
+  @media (hover: hover) {
+    .tile:hover { transform: translateY(-4px); background: rgba(255,255,255,.2); box-shadow: 0 18px 44px rgba(8,22,40,.34), inset 0 1px 0 rgba(255,255,255,.28); }
+    }
+  .tile:active { transform: scale(.97); background: rgba(255,255,255,.2); }
+  .tile:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+  .tile img {
+    width: clamp(64px, 6vw, 84px); aspect-ratio: 1; border-radius: 50%; object-fit: cover;
+    background: rgba(255,255,255,.14); box-shadow: 0 4px 16px rgba(8,22,40,.3);
+  }
+  .tile .name { font-size: clamp(14px, 1.15vw, 16px); font-weight: 600; letter-spacing: -.01em; }
+  .tile .subs { margin-top: 4px; font-size: clamp(13px, 1.05vw, 14px); font-weight: 500; }
+  .tile .meta { margin-top: 2px; font-size: clamp(11px, .95vw, 12.5px); color: var(--dim); }
+
+  .soon {
+    display: inline-block; margin-top: 6px; padding: 2px 9px; border-radius: 99px;
+    font-size: 12px; font-weight: 600; color: #ffe8a3;
+    background: rgba(255,196,60,.16); border: 1px solid rgba(255,208,100,.38);
+  }
+  .soon.held { color: #ffc2c2; background: rgba(255,90,90,.16); border-color: rgba(255,120,120,.4); }
+  #held { max-width: 1320px; margin: clamp(36px, 4vw, 56px) auto 0; }
+  #held h2 { font: 700 20px/1.2 var(--helvetica); margin-bottom: 14px; }
+  #held ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+  #held li {
+    padding: 10px 14px; border-radius: 14px; background: var(--glass); border: 1px solid var(--edge);
+    font-size: 14px; line-height: 1.3; max-width: 100%;
+  }
+  #held li span { display: block; margin-top: 3px; font-size: 12px; color: #ffc2c2; }
+  /* Official Dag Heward-Mills channels: live from the "Official DHM" tabs of the upload log sheet. */
+  #official { max-width: 1320px; margin: 0 auto clamp(26px, 3vw, 40px); }
+  #official .group, #platforms .group { margin-bottom: var(--gap); }
+  #platforms { max-width: 1320px; margin: 0 auto clamp(26px, 3vw, 40px); }
+  #platforms .grid + .group { margin-top: clamp(22px, 2.6vw, 34px); }
+  .soon.pf { color: #fff; border: none; }
+  .soon.wk { color: #d6f5ff; background: rgba(80,180,255,.18); border-color: rgba(120,200,255,.45); }
+  .soon.pf.odysee { background: #e50054; }
+  .soon.pf.rumble { background: #3c8d2f; }
+  .soon.pf.bitchute { background: #ef4137; }
+  #updated { margin-top: 14px; font-size: 13px; color: var(--dim); }
+  #empty { text-align: center; color: var(--dim); padding: 48px 0; }
+
+  /* iPhone: three stats across, search on its own row, sort pills swipe sideways. */
+  @media (max-width: 560px) {
+    h1 { font-size: clamp(28px, 8.2vw, 38px); }
+    .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    .stat { min-width: 0; padding: 13px 10px; border-radius: 15px; }
+    .stat b { font-size: clamp(22px, 6.4vw, 30px); letter-spacing: -.02em; }
+    .stat span { font-size: 11.5px; line-height: 1.25; }
+    .stat em { font-size: 11.5px; margin-top: 5px; padding-top: 5px; }
+    .controls { flex-direction: column; align-items: stretch; gap: 10px; }
+    #q { width: 100%; padding: 13px 18px; }
+    .sorts {
+      display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none;
+      margin: 0 calc(-1 * clamp(20px, 5vw, 72px)); padding: 2px clamp(20px, 5vw, 72px);
+    }
+    .sorts::-webkit-scrollbar { display: none; }
+    .sorts button { flex: none; padding: 11px 16px; }
+    .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+    .tile { padding: 18px 10px 16px; border-radius: 18px; }
+  }
+  @media (prefers-reduced-motion: reduce) { .tile { transition: none; } }
+
+  /* Category chips, and section headings that stay pinned while you scroll their section. */
+  .views { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px; }
+  .views[hidden] { display: none; }
+  .group {
+    grid-column: 1 / -1; position: sticky; top: 0; z-index: 2;
+    margin: 14px calc(-1 * var(--gap)) 0; padding: 12px var(--gap);
+    font: 700 clamp(18px, 1.8vw, 24px)/1.2 var(--helvetica); letter-spacing: -.01em;
+    background: rgba(20,38,63,.78); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px);
+    border-bottom: 1px solid var(--edge);
+  }
+  .group:first-child { margin-top: 0; }
+  .tile.wait { opacity: .62; border-style: dashed; }
+  .tile.wait .ph {
+    width: clamp(64px, 6vw, 84px); aspect-ratio: 1; border-radius: 50%; display: grid; place-items: center;
+    background: rgba(255,255,255,.1); font: 700 22px var(--helvetica); color: var(--dim);
+  }
+  .none { grid-column: 1 / -1; color: var(--dim); font-size: 14px; padding: 4px 0 8px; }
+  .group small { font-size: .7em; font-weight: 500; color: var(--dim); margin-left: 8px; }
+
+  /* Office TV: ?tv in the address. No controls, bigger type, scrolls itself. */
+  .tv .controls, .tv .views, .tv #held { display: none; }
+  .tv { font-size: 19px; }
+  .tv .grid { grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+</style>
+</head>
+<body>
+<header>
+  <h1>
+    <svg viewBox="0 0 28 20" aria-hidden="true"><rect width="28" height="20" rx="5" fill="#FF0033"/><path d="M11 5.6 19 10l-8 4.4z" fill="#fff"/></svg>The YouTube Channels
+  </h1>
+  <div class="stats" id="stats"></div>
+  <p id="updated"></p>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search channels…" aria-label="Search channels" autocomplete="off">
+    <div class="sorts" role="group" aria-label="Sort channels">
+      <button data-sort="week" aria-pressed="false">Most this week</button>
+      <button data-sort="sched" aria-pressed="false">Most scheduled</button>
+      <button data-sort="views" aria-pressed="false">Most views</button>
+      <button data-sort="subs" aria-pressed="false">Most subscribers</button>
+      <button data-sort="name" aria-pressed="true">A–Z</button>
+    </div>
+  </div>
+  <div class="controls views" id="views" role="group" aria-label="Category" hidden></div>
+</header>
+<section id="official" hidden></section>
+<section id="platforms" hidden></section>
+<main class="grid" id="grid"></main>
+<p id="empty" hidden></p>
+
+<script src="channels.js"></script>
+<script>
+  let chs, liveAt = 0;
+  const n = x => x.toLocaleString('en-US');
+  const plural = (x, word) => `${n(x)} ${word}${x === 1 ? '' : 's'}`;
+
+  const summarize = () => {
+  chs = window.CHANNELS || [];
+  const created = window.CREATED || chs.length;
+  // The live and created counts are in the first stat box; the headline is just the title.
+  // Totals cover the network channels and the official channels, each channel counted once
+  // (an official channel that is also in the network list, like Loyalty, is counted as official).
+  const off = window.OFFICIAL || [];
+  const offNames = new Set(off.map(o => o.name.trim().toLowerCase()));
+  const counted = [...chs.filter(c => !offNames.has(c.name.trim().toLowerCase())), ...off];
+  const total = k => counted.reduce((a, c) => a + (c[k] || 0), 0);
+  const altFollowers = (window.PLATFORMS || []).reduce((a, p) => a + (p.followers || 0), 0);
+  const altViews = (window.PLATFORMS || []).reduce((a, p) => a + (p.views || 0), 0);
+  // which platforms the extra views / followers come from, e.g. "Rumble & BitChute"
+  const altFrom = k => [...new Set((window.PLATFORMS || []).filter(p => p[k]).map(p => p.platform))].join(' & ');
+  stats.innerHTML = [
+    [created, 'YouTube channels created', `${n(chs.length)} of ${n(created)} live`],
+    [total('views') + altViews, 'total views', altViews ? `incl. ${n(altViews)} ${altFrom('views')} views` : ''],
+    // Subscribers include the followers of the official channels on other platforms (Rumble; Odysee
+    // does not publish follower counts).
+    [total('subs') + altFollowers, 'total subscribers', altFollowers ? `incl. ${n(altFollowers)} ${altFrom('followers')} followers` : ''],
+    [total('videos'), 'videos published'],
+    [total('week') + (window.PLATFORMS || []).reduce((a, p) => a + (p.week || 0), 0), 'videos this week', 'last 7 days'],
+    [chs.reduce((a, c) => a + scheduledCount(c), 0), 'videos scheduled', `on ${n(chs.filter(c => scheduledCount(c)).length)} channels`],
+  ].map(([v, label, note]) =>
+    `<div class="stat"><b>${n(v)}</b><span>${label}</span>${note ? `<em>${note}</em>` : ''}</div>`).join('');
+  updated.textContent = [
+    liveAt ? `Live · updated ${new Date(liveAt).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`
+      : window.UPDATED && `Updated ${new Date(window.UPDATED).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' })}`,
+    window.LOG_UPDATED && `Grok upload log ${window.LOG_UPDATED}`,
+  ].filter(Boolean).join(' · ');
+  };
+
+  // Within one build every channel's key has the same type, so a raw < / > compare is safe:
+  // "added" is a channel-creation ISO date when the API filled it in, else position in videos.txt.
+  const key = { added: c => c.added, views: c => c.views, subs: c => c.subs, week: c => c.week || 0,
+    sched: c => scheduledCount(c), name: c => c.name.toLowerCase() };
+  const cmp = (a, b) => a < b ? -1 : a > b ? 1 : 0;
+  let mode = 'name';
+  // 'official' (the 8 official channels only, the home page), 'all' (one flat list), a category
+  // name, or 'grouped' (every category under its own heading; used by the office TV mode).
+  let view = 'official';
+  const TV = new URLSearchParams(location.search).has('tv');
+  if (TV) { document.documentElement.classList.add('tv'); view = 'grouped'; }
+  // The open tab lives in the address hash, e.g. #christian-gist-channels or #all.
+  const slug = v => String(v).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const tabFromHash = () => {
+    const h = decodeURIComponent(location.hash.slice(1));
+    if (!h) return null;
+    const all = ['official', 'all', 'Alternative Platforms', 'Fan channels', ...(window.CATEGORIES || [])];
+    return all.find(v => slug(v) === h) || null;
+  };
+  if (!TV && tabFromHash()) view = tabFromHash();
+  addEventListener('hashchange', () => { const v = tabFromHash(); if (v && v !== view) { view = v; drawViews(); render(); } });
+  const OTHER = 'Fan channels';  // every channel not filed under a category in data/categories.txt
+
+  // Go-live times from the upload log, Accra time (= UTC), e.g. "29 Sep 17:15, Short 29 Sep 12:15"
+  // or "1 Oct 17:30, Short 12:30" (a Short without a date shares the main's date). Compared with
+  // the viewer's clock, so a passed time is never shown as "Scheduled", even on an old deploy.
+  const MON = { Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5, Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11 };
+  const parseWhen = text => {
+    let day, mon;
+    return text.split(/,\s*/).flatMap(part => {
+      const m = /^(Short\s+)?(?:(\d{1,2}) ([A-Z][a-z]{2}) )?(\d{1,2}):(\d{2})$/.exec(part.trim());
+      if (!m) return [];
+      if (m[2]) { day = +m[2]; mon = MON[m[3]]; }
+      if (day === undefined) return [];
+      return [{ text: part.trim(), t: Date.UTC(new Date().getUTCFullYear(), mon, day, +m[4], +m[5]) }];
+    });
+  };
+  const scheduledCount = c => (c.scheduled || []).flatMap(parseWhen).filter(p => p.t > Date.now()).length;
+  const scheduleTag = c => {
+    if (!c.scheduled) return '';
+    const parts = c.scheduled.flatMap(parseWhen);
+    const ahead = parts.filter(p => p.t > Date.now());
+    if (ahead.length) {
+      const next = ahead.reduce((a, b) => (b.t < a.t ? b : a));
+      return `<div class="soon">${plural(ahead.length, 'video')} scheduled · next ${esc(next.text.replace(/^Short\s+/, ''))}</div>`;
+    }
+    // Passed times show nothing (no "Overdue" tag, at the user's request).
+    return '';
+  };
+
+  // ---- Official Dag Heward-Mills channels --------------------------------------------------------
+  // Read by tab name from the upload log sheet (rebuilt about every 15 min). JSONP via the gviz
+  // endpoint so it also works when the page is opened from disk, not just from the web.
+  const FEED_SHEET = 'YOUR_GOOGLE_SHEET_ID';
+  const esc = t => String(t ?? '').replace(/[&<>"]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[ch]);
+  const gviz = tab => new Promise((ok, fail) => {
+    const cb = `dhm${Math.random().toString(36).slice(2)}`, s = document.createElement('script');
+    const done = () => { delete window[cb]; s.remove(); };
+    window[cb] = r => { done(); r.status === 'ok' ? ok(r.table.rows.map(row => row.c.map(c => c?.v ?? ''))) : fail(r); };
+    s.onerror = () => { done(); fail(new Error(tab)); };
+    s.src = `https://docs.google.com/spreadsheets/d/${FEED_SHEET}/gviz/tq?tqx=out:json;responseHandler:${cb}`
+      + `&sheet=${encodeURIComponent(tab)}&headers=1&_=${Date.now()}`;
+    document.head.append(s);
+  });
+  const gmt = t => { const m = /(\d{4})-(\d\d)-(\d\d) (\d\d):(\d\d)/.exec(t); return m ? Date.UTC(m[1], m[2] - 1, m[3], m[4], m[5]) : NaN; };
+  const ago = t => {
+    const m = Math.round((Date.now() - t) / 60e3);
+    if (!(m >= 0)) return '';
+    if (m < 60) return `${m} min ago`;
+    if (m < 48 * 60) return `${Math.round(m / 60)} h ago`;
+    return `${Math.round(m / 1440)} days ago`;
+  };
+  const short = name => name === 'Dag Heward-Mills' ? 'Dag Heward-Mills (main)'
+    : name.replace(/^Dag Heward-Mills\s+/, '').replace(/\s+Channel$/, '') || name;
+  const vid = link => /(?:youtu\.be\/|v=|shorts\/)([\w-]{11})/.exec(link || '')?.[1];
+  let official = { summary: [], videos: [], at: 0 };
+
+  const drawOfficial = () => {
+    const list = window.OFFICIAL || [];
+    const box = document.getElementById('official');
+    box.hidden = !(['official', 'grouped', 'all'].includes(view) && list.length && !document.getElementById('q').value.trim());
+    if (box.hidden) return;
+    // Live latest-post data, matched to each channel by its id in the channel link.
+    const live = new Map(official.summary.map(r => [/channel\/(UC[\w-]+)/.exec(r[1])?.[1], r]));
+    const tiles = list.map(o => {
+      const r = live.get(o.id), posted = r && gmt(r[2]), n24 = r ? +r[4] || 0 : 0;
+      return `<a class="tile" href="${esc(o.url)}" target="_blank" rel="noopener">
+        <img src="${esc(o.icon)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+        <div>
+          <div class="name">${esc(o.name)}</div>
+          <div class="subs">${plural(o.subs, 'subscriber')}</div>
+          <div class="meta">${plural(o.videos, 'video')} · ${plural(o.views, 'view')}</div>
+          ${posted ? `<div class="soon">Posted ${esc(ago(posted))}${n24 ? ` · ${plural(n24, 'post')} today` : ''}</div>` : ''}
+        </div>
+      </a>`;
+    }).join('');
+    box.innerHTML = `<h2 class="group">Official Dag Heward-Mills channels<small>${plural(list.length, 'channel')}</small></h2>
+      <div class="grid">${tiles}</div>`;
+  };
+  // Official channels on Odysee and Rumble: the "Alternative Platforms" tab, and a section of
+  // "All channels". Numbers come from each platform at the last refresh (fetch-platforms.py).
+  const ALT = 'Alternative Platforms';
+  const pday = d => d ? new Date(d + 'T00:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }) : '';
+  const platformTile = p => `<a class="tile" href="${esc(p.url)}" target="_blank" rel="noopener">
+      ${p.icon ? `<img src="${esc(p.icon)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : ''}
+      <div>
+        <div class="name">${esc(p.name)}</div>
+        <div class="subs">${p.followers != null ? plural(p.followers, 'follower') : plural(p.videos || 0, 'video')}</div>
+        ${p.views != null ? `<div class="meta">${plural(p.videos || 0, 'video')} · ${plural(p.views, 'view')}</div>` : ''}
+        ${p.latest ? `<div class="meta">Latest post ${esc(pday(p.latest))}</div>` : ''}
+        ${p.week ? `<div class="soon wk">${plural(p.week, 'video')} this week</div>` : ''}
+        <div class="soon pf ${p.platform.toLowerCase()}">${esc(p.platform)}</div>
+      </div>
+    </a>`;
+  const drawPlatforms = () => {
+    const list = window.PLATFORMS || [];
+    const box = document.getElementById('platforms');
+    const q = document.getElementById('q').value.trim().toLowerCase();
+    const hits = list.filter(p => p.name.toLowerCase().includes(q));
+    box.hidden = !((view === ALT || view === 'all' || view === 'grouped') && hits.length);
+    if (box.hidden) return;
+    const groups = ['Rumble', 'Odysee', 'BitChute'].map(pf => [pf, hits.filter(p => p.platform === pf)]).filter(g => g[1].length);
+    box.innerHTML = groups.map(([pf, l]) =>
+      `<h2 class="group">${pf}<small>${plural(l.length, 'channel')}</small></h2><div class="grid">${l.map(platformTile).join('')}</div>`).join('');
+  };
+
+  const loadOfficial = () => Promise.all([gviz('Official DHM summary'), gviz('Official DHM channels')])
+    .then(([summary, videos]) => {
+      // The videos tab comes grouped by channel; sort across all of them, newest first.
+      official = { summary: summary.filter(r => r[0]),
+        videos: videos.filter(r => r[2]).sort((a, b) => (gmt(b[3]) || 0) - (gmt(a[3]) || 0)), at: Date.now() };
+      drawOfficial();
+    }).catch(() => {});  // keep the last good data if Google is unreachable
+
+  const render = () => {
+    const q = document.getElementById('q').value.trim().toLowerCase();
+    const dir = mode === 'name' ? 1 : -1;
+    // "All channels" shows the official channels in their own section on top, so an official channel
+    // that is also in the network list (Loyalty) is left out of the sections below.
+    const officialNames = new Set((window.OFFICIAL || []).map(o => o.name.trim().toLowerCase()));
+    const pool = view === 'all' ? chs.filter(c => !officialNames.has(c.name.trim().toLowerCase())) : chs;
+    const hits = pool
+      .filter(c => c.name.toLowerCase().includes(q))
+      .sort((a, b) => dir * cmp(key[mode](a), key[mode](b)));
+    const cats = window.CATEGORIES || [];
+    const tile = c => `<a class="tile" href="${c.url}" target="_blank" rel="noopener">
+      <img src="${c.icon}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+      <div>
+        <div class="name">${c.name}</div>
+        <div class="subs">${plural(c.subs, 'subscriber')}</div>
+        <div class="meta">${plural(c.videos, 'video')} · ${plural(c.views, 'view')}</div>
+        ${c.week ? `<div class="soon wk">${plural(c.week, 'video')} this week</div>` : ''}
+        ${c.ministers ? `<div class="meta"><b>${esc(c.ministers)}</b>${c.focus ? ` · ${esc(c.focus)}` : ''}</div>` : ''}
+        ${c.official ? '<div class="soon">Official</div>' : ''}
+        ${scheduleTag(c)}
+        ${c.processing ? `<div class="soon">Processing · ${plural(c.processing, 'video')}</div>` : ''}
+        ${c.held ? Object.entries(c.held).map(([why, k]) => `<div class="soon held">On hold · ${plural(k, 'upload')} (${why})</div>`).join('') : ''}
+      </div>
+    </a>`;
+    // Typing in the search box searches every channel (official, other platforms, network), from any tab.
+    if (q) {
+      document.getElementById('official').hidden = true;
+      document.getElementById('platforms').hidden = true;
+      const found = [
+        ...(window.OFFICIAL || []).filter(o => o.name.toLowerCase().includes(q)).map(o => ({ ...o, official: true })),
+        ...chs.filter(c => !officialNames.has(c.name.trim().toLowerCase()) && c.name.toLowerCase().includes(q)),
+      ].sort((a, b) => dir * cmp(key[mode](a), key[mode](b)));
+      const alt = (window.PLATFORMS || []).filter(p => p.name.toLowerCase().includes(q));
+      grid.innerHTML = found.map(tile).join('') + alt.map(platformTile).join('');
+      empty.hidden = found.length + alt.length > 0;
+      empty.textContent = `No channel matches “${document.getElementById('q').value.trim()}”.`;
+      return;
+    }
+    const shown = view === OTHER ? hits.filter(c => !c.category)
+      : cats.includes(view) ? hits.filter(c => c.category === view) : hits;
+    // Not-live channels filed under a category: shown in category views only, after the live ones.
+    const waits = (window.PENDING || []).filter(p => p.name.toLowerCase().includes(q))
+      .sort((a, b) => a.name.localeCompare(b.name));
+    const waitTile = p => `<div class="tile wait">
+      <div class="ph">${p.name.split(/\s+/).slice(0, 2).map(w => w[0]).join('').toUpperCase()}</div>
+      <div><div class="name">${p.name}</div>
+      ${Object.entries(p.why).map(([why, k]) => `<div class="soon held">${why === 'not live yet' ? 'Not live yet' : `On hold · ${why}`}</div>`).join('')}</div>
+    </div>`;
+    const inCat = t => waits.filter(p => p.category === t);
+    const groupHtml = (t, list, w) => `<h2 class="group">${t}<small>${plural(list.length + w.length, 'channel')}${
+      w.length ? ` · ${n(list.length)} live` : ''}</small></h2>${
+      list.length + w.length ? list.map(tile).join('') + w.map(waitTile).join('') : '<p class="none">No channels in this category yet.</p>'}`;
+    drawPlatforms();
+    if (view === 'official' || view === ALT) {
+      grid.innerHTML = '';
+      empty.hidden = true;
+      drawOfficial();
+      return;
+    }
+    if (view === 'grouped' || view === 'all') {
+      // Every category gets its heading and count, even before any channel is filed under it.
+      const groups = [OTHER, ...cats].map(t => [t, shown.filter(c => (c.category || OTHER) === t), inCat(t)])
+        .filter(([t, list, w]) => list.length || w.length || (cats.includes(t) && !q));
+      grid.innerHTML = groups.map(([t, list, w]) => groupHtml(t, list, w)).join('');
+    } else if (view === OTHER || cats.includes(view)) grid.innerHTML = groupHtml(view, shown, inCat(view));
+    else grid.innerHTML = shown.map(tile).join('');
+    empty.hidden = shown.length > 0 || ((view === 'grouped' || view === 'all') && !q);
+    drawOfficial();
+    empty.textContent = `No channel matches “${q}”.`;
+  };
+
+  document.querySelector('.sorts').onclick = e => {
+    const b = e.target.closest('button'); if (!b) return;
+    document.querySelectorAll('.sorts button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    mode = b.dataset.sort;
+    render();
+  };
+  // Chips: All · Grouped · one per category. Hidden until data/categories.txt has a category.
+  const drawViews = () => {
+    const cats = window.CATEGORIES || [];
+    if (!['all', 'grouped', 'official', ALT, OTHER, ...cats].includes(view)) view = 'official';
+    views.hidden = !cats.length;
+    views.innerHTML = [['official', 'Official YouTube Channels'], [ALT, ALT], [OTHER, OTHER], ...cats.map(c => [c, c]), ['all', 'All channels']]
+      .map(([v, label]) => `<button data-view="${v}" aria-pressed="${v === view}">${label}</button>`).join('');
+  };
+  views.onclick = e => {
+    const b = e.target.closest('button'); if (!b) return;
+    view = b.dataset.view; drawViews(); render();
+    history.replaceState(null, '', view === 'official' ? location.pathname + location.search : `#${slug(view)}`);
+  };
+  document.getElementById('q').oninput = render;
+  summarize();
+  drawViews();
+  render();
+  loadOfficial();
+  setInterval(loadOfficial, 15 * 60e3);
+
+  // Live numbers from /api/stats (a Netlify function; YouTube API + Rumble, cached 5 min). Patches
+  // subscribers / views / videos on every tile and in the totals. Without it (opened from disk, or
+  // no API key yet) the numbers from the last build stay.
+  const loadLive = () => fetch('/api/stats', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(d => {
+    if (!d?.channels) return;
+    const patch = c => { const x = d.channels[c.id]; if (x) Object.assign(c, x); };
+    (window.CHANNELS || []).forEach(patch);
+    (window.OFFICIAL || []).forEach(patch);
+    (window.PLATFORMS || []).forEach(p => { if (d.rumble?.[p.url] != null) p.followers = d.rumble[p.url]; });
+    liveAt = Date.parse(d.at) || Date.now();
+    summarize(); render();
+  }).catch(() => {});
+  if (location.protocol.startsWith('http')) { loadLive(); setInterval(loadLive, 5 * 60e3); }
+  setInterval(drawOfficial, 60e3);  // keep the "x min ago" labels current
+
+  // TV: scroll down slowly, rest at the bottom, start again from the top.
+  if (TV) {
+    let last = 0, rest = 0;
+    const step = t => {
+      const dt = Math.min(t - last, 100); last = t;
+      const end = scrollY + innerHeight >= document.documentElement.scrollHeight - 2;
+      if (rest > t) {} else if (end) { rest = t + 8000; setTimeout(() => scrollTo(0, 0), 7000); }
+      else scrollBy(0, dt * 0.03);
+      requestAnimationFrame(step);
+    };
+    setTimeout(() => requestAnimationFrame(step), 8000);
+  }
+
+  // Pick up fresh numbers every few minutes without a reload (keeps search and sort).
+  // A <script> tag rather than fetch so it also works when opened straight from disk.
+  setInterval(() => {
+    const s = document.createElement('script');
+    s.src = `channels.js?${Date.now()}`;
+    s.onload = () => { s.remove(); summarize(); drawViews(); render(); loadLive(); };
+    s.onerror = () => s.remove();
+    document.body.append(s);
+  }, 5 * 60e3);
+</script>
+</body>
+</html>

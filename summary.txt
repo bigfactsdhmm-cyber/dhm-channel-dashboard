@@ -1,0 +1,75 @@
+DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
+Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
+Generated: 2026-11-18T13:28:37.710Z   Numbers refreshed: 2026-11-18T13:28:37.567Z   Upload log: 2026-11-18 08:53 Accra
+
+TOTALS
+  Channels tracked: 277 (258 on YouTube)
+  Subscribers/followers: 541,824
+  Views: 20,293,932
+  Videos on YouTube: 11,285
+  Videos posted in the last 7 days: 507
+  Videos scheduled (go-live time still ahead): 62
+
+SECTIONS
+  Official YouTube channels: 8 channels, 487,680 subscribers, 18,667,271 views, 12 videos this week
+  Alternative Platforms: 19 channels, 2,295 subscribers, 88,306 views, 0 videos this week
+  Fan channels: 147 channels, 48,650 subscribers, 1,410,082 views, 330 videos this week
+  Men of God channels: 12 channels, 114 subscribers, 34,184 views, 8 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,019 subscribers, 52,746 views, 125 videos this week
+  Camps channels: 38 channels, 13 subscribers, 1,319 views, 0 videos this week
+  Christian Gist channels: 13 channels, 53 subscribers, 40,024 views, 32 videos this week
+  People channels: 14 channels, 0 subscribers, 0 views, 0 videos this week
+
+TOP 10 BY SUBSCRIBERS
+  1. Dag Heward-Mills (Official YouTube channels): 389,000
+  2. Dag Heward-Mills Camps Channel (Official YouTube channels): 26,800
+  3. Dag Heward-Mills Conference (GTWC) Channel (Official YouTube channels): 15,700
+  4. Dag Heward-Mills Church Channel (Fan channels): 14,400
+  5. Dag Heward-Mills Crusades (Official YouTube channels): 14,100
+  6. Dag Heward-Mills Nations Channel (Official YouTube channels): 13,300
+  7. Dag Heward-Mills Docufilms Channel (Official YouTube channels): 10,900
+  8. Dag Heward-Mills Loyalty Channel (Official YouTube channels): 9,450
+  9. Dag Heward-Mills Books Channel (Official YouTube channels): 8,430
+  10. Glorious Impartation (Fan channels): 7,760
+
+TOP 10 BY VIEWS
+  1. Dag Heward-Mills (Official YouTube channels): 16,064,363
+  2. Dag Heward-Mills Camps Channel (Official YouTube channels): 1,685,270
+  3. Dag Heward-Mills Conference (GTWC) Channel (Official YouTube channels): 536,494
+  4. Dag Heward-Mills Church Channel (Fan channels): 223,442
+  5. Dag Heward-Mills Nations Channel (Official YouTube channels): 147,356
+  6. Quiet Fire (Fan channels): 131,564
+  7. Glorious Impartation (Fan channels): 124,257
+  8. Dag Heward-Mills Crusades (Official YouTube channels): 108,282
+  9. Pastors and Leaders Channel (Fan channels): 74,536
+  10. Dag Heward-Mills Books Channel (Official YouTube channels): 70,819
+
+MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
+  1. Lovely Diamond (Fan channels): 24
+  2. Dag Heward-Mills (Official YouTube channels): 12
+  3. Holy Ground Moments (FLOW Prayer Meeting channels): 11
+  4. Hidden Manna (FLOW Prayer Meeting channels): 9
+  5. Mercy Endures (FLOW Prayer Meeting channels): 9
+  6. Faith Foundations (Fan channels): 8
+  7. Grace Unfolding (Fan channels): 8
+  8. Good Soil Teachings (Fan channels): 8
+  9. Kingdom Builders (Fan channels): 8
+  10. Pillars of Faith (Fan channels): 8
+
+MEN OF GOD CHANNELS
+  Next Wave TV: Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)
+  Pulse Nation: Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)
+  The Daily Wave: Grace Lubega + Robert Kayanja (East Africa — revival, healing, devotion)
+  The Media Hub: Paul Enenche (destiny, purpose, practical holiness)
+  TrendSphere: Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)
+  Vision Hub: David Oyedepo + Oyedepo Jr (faith, prosperity, kingdom advancement)
+  World Connect: Joshua Selman (deep teaching, pursuit of God)
+  Impact Zone TV: Jerry Eze (prayer, breakthrough, morning declarations)
+  Prime Spotlight: E.A. Adeboye (holiness, grace, generational faith)
+  Viral Horizon: Kingsley Okonkwo (marriage, relationships, singleness)
+  World Pulse TV: Femi Lazarus (teaching for a younger church)
+
+NOTES
+  - YouTube figures are exact lifetime numbers from the YouTube Data API.
+  - Rumble, Odysee and BitChute subscribers are followers.
+  - Each row of channels.csv is one channel with its section, platform, link and numbers.
