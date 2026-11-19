@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-19T16:18:18.093Z",
- "data_updated": "2026-11-19T16:18:17.927Z",
+ "generated": "2026-11-19T18:05:05.535Z",
+ "data_updated": "2026-11-19T18:05:05.387Z",
  "upload_log_updated": "2026-11-19 08:00 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542019,
   "views": 20327396,
-  "videos": 11430,
-  "videos_this_week": 563,
-  "videos_scheduled": 1
+  "videos": 11432,
+  "videos_this_week": 562,
+  "videos_scheduled": 0
  },
  "channels": [
   {
@@ -21,8 +21,8 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16076351,
-   "videos": 2188,
-   "videos_this_week": 11,
+   "videos": 2189,
+   "videos_this_week": 12,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2242,7 +2242,7 @@
    "subscribers": 0,
    "views": 406,
    "videos": 22,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2278,7 +2278,7 @@
    "subscribers": 1,
    "views": 357,
    "videos": 24,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2290,7 +2290,7 @@
    "subscribers": 1,
    "views": 62,
    "videos": 24,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2397,9 +2397,9 @@
    "url": "https://www.youtube.com/@WorldPointNews-b6p",
    "subscribers": 2,
    "views": 448,
-   "videos": 24,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 25,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
