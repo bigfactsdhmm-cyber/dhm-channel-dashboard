@@ -31,3 +31,5 @@ cd $N
 DID=$(npx --yes netlify-cli deploy --dir . --functions netlify/functions --site $SITE --message "Update $(date '+%Y-%m-%d %H:%M')" --json 2>/dev/null | python3 -c 'import json,sys;print(json.load(sys.stdin)["deploy_id"])')
 npx --yes netlify-cli api restoreSiteDeploy --data "{\"site_id\":\"$SITE\",\"deploy_id\":\"$DID\"}" >/dev/null
 echo "Published: https://dhmm-youtube-channels.netlify.app  (deploy $DID)"
+# same update to GitHub, which youtube.flowlive.org is built from
+~/1000-channels/github-sync.sh || echo "!! GitHub not updated - the .org site will catch up on the next run"

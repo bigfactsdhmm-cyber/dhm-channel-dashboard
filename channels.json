@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-19T10:38:41.028Z",
- "data_updated": "2026-11-19T10:38:40.887Z",
+ "generated": "2026-11-19T12:57:31.092Z",
+ "data_updated": "2026-11-19T12:57:30.911Z",
  "upload_log_updated": "2026-11-19 08:00 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542013,
   "views": 20323533,
-  "videos": 11419,
-  "videos_this_week": 554,
-  "videos_scheduled": 11
+  "videos": 11426,
+  "videos_this_week": 559,
+  "videos_scheduled": 4
  },
  "channels": [
   {
@@ -2097,9 +2097,9 @@
    "url": "https://www.youtube.com/@100MillionSoulsus",
    "subscribers": 0,
    "views": 136,
-   "videos": 6,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 7,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2229,9 +2229,9 @@
    "url": "https://www.youtube.com/@WorldScopeNews-h9f",
    "subscribers": 40,
    "views": 35244,
-   "videos": 27,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 28,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2241,9 +2241,9 @@
    "url": "https://www.youtube.com/@WorldViewToday-j5q",
    "subscribers": 0,
    "views": 405,
-   "videos": 21,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 22,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2254,7 +2254,7 @@
    "subscribers": 1,
    "views": 222,
    "videos": 21,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2325,9 +2325,9 @@
    "url": "https://www.youtube.com/@NewsFrontGlobal-l1s",
    "subscribers": 0,
    "views": 58,
-   "videos": 13,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 14,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2362,7 +2362,7 @@
    "subscribers": 0,
    "views": 90,
    "videos": 7,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2385,9 +2385,9 @@
    "url": "https://www.youtube.com/@GlobalPulse24-r4d",
    "subscribers": 6,
    "views": 2015,
-   "videos": 28,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 29,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2422,7 +2422,7 @@
    "subscribers": 0,
    "views": 49,
    "videos": 14,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2434,7 +2434,7 @@
    "subscribers": 1,
    "views": 267,
    "videos": 23,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2494,7 +2494,7 @@
    "subscribers": 0,
    "views": 4,
    "videos": 3,
-   "videos_this_week": 1,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2505,9 +2505,9 @@
    "url": "https://www.youtube.com/@Volanteusma",
    "subscribers": 0,
    "views": 0,
-   "videos": 1,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 2,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2517,9 +2517,9 @@
    "url": "https://www.youtube.com/@TheWordOfMyPatience",
    "subscribers": 0,
    "views": 0,
-   "videos": 1,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 2,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2542,7 +2542,7 @@
    "subscribers": 0,
    "views": 1,
    "videos": 2,
-   "videos_this_week": 0,
+   "videos_this_week": 1,
    "scheduled": 1,
    "ministers": ""
   },

@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-19T10:38:40.887Z";
+window.UPDATED = "2026-11-19T12:57:30.911Z";
 window.LOG_UPDATED = "2026-11-19 08:00 Accra";
 window.CHANNELS = [
  {
@@ -4226,10 +4226,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@100MillionSoulsus",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 6,
+  "videos": 7,
   "views": 136,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 146,
   "scheduled": [
    "18 Oct 18:10",
@@ -4471,10 +4471,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldScopeNews-h9f",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nbrwlophLjcFrG9bwBSSd70JVu6Nq0ijnyQA3vq7VNBUgDOOuLnjqxdsLnrZ6OWgNPhw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 27,
+  "videos": 28,
   "views": 35244,
   "subs": 40,
-  "week": 3,
+  "week": 4,
   "added": 157,
   "scheduled": [
    "10 Nov 12:00",
@@ -4493,10 +4493,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldViewToday-j5q",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mSNCewYuvZ4m9_UB72NZFUF4Ge2_7Va3TDJyun7tD7Bn7Pel_CGJwrYXZHQT8cGIRc6Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 21,
+  "videos": 22,
   "views": 405,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 158,
   "scheduled": [
    "9 Nov 07:25",
@@ -4517,7 +4517,7 @@ window.CHANNELS = [
   "videos": 21,
   "views": 222,
   "subs": 1,
-  "week": 4,
+  "week": 3,
   "added": 159,
   "scheduled": [
    "9 Nov 07:28",
@@ -4640,10 +4640,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsFrontGlobal-l1s",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_l3w5pHbAbv1UvTOPK0opzB0B7dPW0ZNUdarnydvhKgG4l6j3Av59TtPzgAeNOLj7pxDQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 13,
+  "videos": 14,
   "views": 58,
   "subs": 0,
-  "week": 3,
+  "week": 4,
   "added": 165,
   "scheduled": [
    "9 Nov 18:00",
@@ -4699,7 +4699,7 @@ window.CHANNELS = [
   "videos": 7,
   "views": 90,
   "subs": 0,
-  "week": 3,
+  "week": 2,
   "added": 168,
   "scheduled": [
    "10 Nov 07:00",
@@ -4732,10 +4732,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@GlobalPulse24-r4d",
   "icon": "https://yt3.googleusercontent.com/gbqp9yBVeDjyEvXGAZ4YnWV-SPUYC-XhRjaxKtV312X8-pvZg7r5DhQ9CQqM_IufrERsdRnGsQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 28,
+  "videos": 29,
   "views": 2015,
   "subs": 6,
-  "week": 3,
+  "week": 4,
   "added": 170,
   "scheduled": [
    "10 Nov 10:00",
@@ -4801,7 +4801,7 @@ window.CHANNELS = [
   "videos": 14,
   "views": 49,
   "subs": 0,
-  "week": 4,
+  "week": 3,
   "added": 173,
   "scheduled": [
    "12 Nov 12:00",
@@ -4821,7 +4821,7 @@ window.CHANNELS = [
   "videos": 23,
   "views": 267,
   "subs": 1,
-  "week": 4,
+  "week": 3,
   "added": 174,
   "scheduled": [
    "12 Nov 12:00",
@@ -4907,7 +4907,7 @@ window.CHANNELS = [
   "videos": 3,
   "views": 4,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 180,
   "scheduled": [
    "19 Nov 07:30, Short 19 Nov 10:30"
@@ -4919,10 +4919,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@Volanteusma",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kT0IqtOmXpdtFie8P0x98qrJz9kcldmCupNPOvWp9a2UN8863NdoSc1f-MBxFQkj9lBQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 1,
+  "videos": 2,
   "views": 0,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 181,
   "scheduled": [
    "19 Nov 08:00, Short 19 Nov 11:00"
@@ -4934,10 +4934,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@TheWordOfMyPatience",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nU2YD2Z--lTM_gdrvauZL95c14lMizI3TCYnoHVH-z3cvFi5RKknXfib9wghzEocwihg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 1,
+  "videos": 2,
   "views": 0,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 182,
   "scheduled": [
    "19 Nov 08:30, Short 19 Nov 11:30"
@@ -4967,7 +4967,7 @@ window.CHANNELS = [
   "videos": 2,
   "views": 1,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 184,
   "scheduled": [
    "19 Nov 10:30, Short 19 Nov 13:30"
