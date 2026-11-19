@@ -1,17 +1,17 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-19T14:43:11.143Z   Numbers refreshed: 2026-11-19T14:43:10.996Z   Upload log: 2026-11-19 08:00 Accra
+Generated: 2026-11-19T16:18:18.093Z   Numbers refreshed: 2026-11-19T16:18:17.927Z   Upload log: 2026-11-19 08:00 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,019
   Views: 20,327,396
-  Videos on YouTube: 11,429
-  Videos posted in the last 7 days: 562
+  Videos on YouTube: 11,430
+  Videos posted in the last 7 days: 563
   Videos scheduled (go-live time still ahead): 1
 
 SECTIONS
-  Official YouTube channels: 8 channels, 487,830 subscribers, 18,684,059 views, 10 videos this week
+  Official YouTube channels: 8 channels, 487,830 subscribers, 18,684,059 views, 11 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,337 views, 0 videos this week
   Fan channels: 144 channels, 48,680 subscribers, 1,425,333 views, 329 videos this week
   Men of God channels: 12 channels, 116 subscribers, 34,843 views, 15 videos this week
@@ -48,7 +48,7 @@ TOP 10 BY VIEWS
 MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   1. Lovely Diamond (Lovely Diamond channels): 36
   2. Lovely Diamond Camps (Lovely Diamond channels): 23
-  3. Dag Heward-Mills (Official YouTube channels): 10
+  3. Dag Heward-Mills (Official YouTube channels): 11
   4. Holy Ground Moments (FLOW Prayer Meeting channels): 9
   5. Faith Foundations (Fan channels): 8
   6. Word Signs Wonders (Fan channels): 8
