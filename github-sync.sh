@@ -9,7 +9,7 @@ cd $G
 git pull -q --rebase || true
 rsync -a --delete \
   --exclude .git --exclude README.md --exclude HOSTING.md --exclude netlify \
-  --exclude '.live-sheet*' --exclude .odysee-token --exclude .cache.json --exclude update.sh \
+  --exclude '.live-sheet*' --exclude .odysee-token --exclude update.sh \
   --exclude data/live-sheet-id.txt --exclude .DS_Store --exclude '.playwright-mcp' \
   $R/ $G/
 mkdir -p netlify/functions
