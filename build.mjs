@@ -271,7 +271,7 @@ const shown = new Set(names.filter(n => cache.channels[n]));
 const heldOnly = Object.entries(held.channels).filter(([n]) => !shown.has(n)).map(([name, why]) => ({ name, why }));
 
 await writeFile(new URL('./channels.js', import.meta.url),
-  `window.CREATED = ${created};\nwindow.PLATFORMS = ${JSON.stringify(platformList)};\nwindow.OFFICIAL = ${JSON.stringify(officialList)};\nwindow.PENDING = [];\nwindow.CATEGORIES = ${JSON.stringify(categories)};\nwindow.HELD = ${JSON.stringify(heldOnly)};\nwindow.UPDATED = ${JSON.stringify(new Date().toISOString())};\nwindow.LOG_UPDATED = ${JSON.stringify(held.updated || '')};\nwindow.CHANNELS = ${JSON.stringify(channels, null, 1)};\n`);
+  `window.CREATED = ${Math.max(created, channels.length)};\nwindow.PLATFORMS = ${JSON.stringify(platformList)};\nwindow.OFFICIAL = ${JSON.stringify(officialList)};\nwindow.PENDING = [];\nwindow.CATEGORIES = ${JSON.stringify(categories)};\nwindow.HELD = ${JSON.stringify(heldOnly)};\nwindow.UPDATED = ${JSON.stringify(new Date().toISOString())};\nwindow.LOG_UPDATED = ${JSON.stringify(held.updated || '')};\nwindow.CHANNELS = ${JSON.stringify(channels, null, 1)};\n`);
 const waiting = new Set([...order, ...Object.keys(held.channels)].map(norm));
 const unfiled = [...categoryOf.keys()].filter(k => !channels.some(c => norm(c.name) === k) && !waiting.has(k));
 if (unfiled.length) console.error(`  ! categories.txt names not on the page: ${unfiled.join(', ')}`);

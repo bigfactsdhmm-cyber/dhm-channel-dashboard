@@ -395,6 +395,7 @@
       drawOfficial();
     }).catch(() => {});  // keep the last good data if Google is unreachable
 
+  const PINNED = new Set(['Lovely Diamond']);
   const render = () => {
     const q = document.getElementById('q').value.trim().toLowerCase();
     const dir = mode === 'name' ? 1 : -1;
@@ -404,7 +405,8 @@
     const pool = view === 'all' ? chs.filter(c => !officialNames.has(c.name.trim().toLowerCase())) : chs;
     const hits = pool
       .filter(c => c.name.toLowerCase().includes(q))
-      .sort((a, b) => dir * cmp(key[mode](a), key[mode](b)));
+      // A tab's main channel (e.g. Lovely Diamond) always comes first, whatever the sort.
+      .sort((a, b) => (PINNED.has(b.name.trim()) - PINNED.has(a.name.trim())) || dir * cmp(key[mode](a), key[mode](b)));
     const cats = window.CATEGORIES || [];
     const tile = c => `<a class="tile" href="${c.url}" target="_blank" rel="noopener">
       <img src="${c.icon}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">

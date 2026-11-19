@@ -58,6 +58,8 @@ Let It Flow
 ## Association channels
 
 ## Camps channels
+Volante
+Expect Great Things
 # Channels named after a camp meeting theme (playlists on the Dag Heward-Mills Camps Channel).
 Not A Novice
 Warfare Keys
@@ -133,3 +135,9 @@ Pulse Nation
 The Daily Wave
 TrendSphere
 Impact World
+
+## Lovely Diamond channels
+# Lovely Diamond (@lovelydiamond-l9e) is the main channel and is pinned first on the tab (index.html PINNED).
+Lovely Diamond
+Lovely Diamond Nations
+Lovely Diamond Camps
