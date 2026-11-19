@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-19T13:31:09.938Z";
+window.UPDATED = "2026-11-19T14:04:29.075Z";
 window.LOG_UPDATED = "2026-11-19 08:00 Accra";
 window.CHANNELS = [
  {
@@ -4226,10 +4226,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@100MillionSoulsus",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kb8d9MQcHiggmCBAHVEPHRB94fVm1iFLop1vtYP3Gy7YGzDIs=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 7,
+  "videos": 8,
   "views": 136,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 146,
   "scheduled": [
    "18 Oct 18:10",
@@ -4964,10 +4964,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@TheLordsAnointedgh",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mZ5cC5_Py34HlwaSKTcmTpJOZMjqXUqQMI-cjjiwz7rKS0tHZRXgxNlq0RrJ-Ja5ccQg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 1,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 184,
   "scheduled": [
    "19 Nov 10:30, Short 19 Nov 13:30"
