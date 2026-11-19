@@ -270,8 +270,15 @@ const pendingTiles = [...categoryOf].filter(([k]) => !channels.some(c => norm(c.
 const shown = new Set(names.filter(n => cache.channels[n]));
 const heldOnly = Object.entries(held.channels).filter(([n]) => !shown.has(n)).map(([name, why]) => ({ name, why }));
 
+// Channels created = Grok's count plus live channels missing from Grok's channel list
+// (e.g. Lovely Diamond Nations / Camps added by hand, Fire on the Altar which Grok skips).
+const grokKeys = new Set((grok.match(/youtube\.com\/(@[^\s/?]+|channel\/UC[\w-]{22})/g) || []).map(u => u.replace(/^youtube\.com\/(channel\/)?/, '').toLowerCase()));
+const keysOf = c => [c.id, (c.url.match(/@[^/?]+/) || [''])[0]].filter(Boolean).map(k => k.toLowerCase());
+const notInGrok = createdCount(grok) ? channels.filter(c => !keysOf(c).some(k => grokKeys.has(k))) : [];
+const createdTotal = Math.max(created + notInGrok.length, channels.length);
+if (notInGrok.length) console.error(`  + ${notInGrok.length} channels not in Grok's list counted as created: ${notInGrok.map(c => c.name.trim()).join(', ')}`);
 await writeFile(new URL('./channels.js', import.meta.url),
-  `window.CREATED = ${Math.max(created, channels.length)};\nwindow.PLATFORMS = ${JSON.stringify(platformList)};\nwindow.OFFICIAL = ${JSON.stringify(officialList)};\nwindow.PENDING = [];\nwindow.CATEGORIES = ${JSON.stringify(categories)};\nwindow.HELD = ${JSON.stringify(heldOnly)};\nwindow.UPDATED = ${JSON.stringify(new Date().toISOString())};\nwindow.LOG_UPDATED = ${JSON.stringify(held.updated || '')};\nwindow.CHANNELS = ${JSON.stringify(channels, null, 1)};\n`);
+  `window.CREATED = ${createdTotal};\nwindow.PLATFORMS = ${JSON.stringify(platformList)};\nwindow.OFFICIAL = ${JSON.stringify(officialList)};\nwindow.PENDING = [];\nwindow.CATEGORIES = ${JSON.stringify(categories)};\nwindow.HELD = ${JSON.stringify(heldOnly)};\nwindow.UPDATED = ${JSON.stringify(new Date().toISOString())};\nwindow.LOG_UPDATED = ${JSON.stringify(held.updated || '')};\nwindow.CHANNELS = ${JSON.stringify(channels, null, 1)};\n`);
 const waiting = new Set([...order, ...Object.keys(held.channels)].map(norm));
 const unfiled = [...categoryOf.keys()].filter(k => !channels.some(c => norm(c.name) === k) && !waiting.has(k));
 if (unfiled.length) console.error(`  ! categories.txt names not on the page: ${unfiled.join(', ')}`);
