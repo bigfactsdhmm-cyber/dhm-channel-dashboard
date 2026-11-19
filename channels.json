@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-19T12:57:31.092Z",
- "data_updated": "2026-11-19T12:57:30.911Z",
+ "generated": "2026-11-19T13:31:10.070Z",
+ "data_updated": "2026-11-19T13:31:09.938Z",
  "upload_log_updated": "2026-11-19 08:00 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542013,
   "views": 20323533,
-  "videos": 11426,
-  "videos_this_week": 559,
-  "videos_scheduled": 4
+  "videos": 11427,
+  "videos_this_week": 560,
+  "videos_scheduled": 2
  },
  "channels": [
   {
@@ -2529,9 +2529,9 @@
    "url": "https://www.youtube.com/@SufferingsOfChrist",
    "subscribers": 0,
    "views": 0,
-   "videos": 1,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 2,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2543,7 +2543,7 @@
    "views": 1,
    "videos": 2,
    "videos_this_week": 1,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
