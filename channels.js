@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-20T21:12:12.707Z";
+window.UPDATED = "2026-11-20T21:48:44.618Z";
 window.LOG_UPDATED = "2026-11-20 14:46 Accra";
 window.CHANNELS = [
  {
@@ -2923,10 +2923,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@SpiritLedLiving-p5q",
   "icon": "https://yt3.googleusercontent.com/WabIssQWgTqm7mAn0bOIKKZZHvABDfhI8oyC6FNhO3sgfAqry3nu_vVg7sf9faZTqMiG7xl9xA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 41,
+  "videos": 42,
   "views": 4683,
   "subs": 11,
-  "week": 7,
+  "week": 8,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -5262,10 +5262,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@ChooseMeUseMe",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_ldQNCJoqb2ACiWS5tI0fa5OHsUN-DbrYZMr0kII7wBc0yO3d9TcCxQjkS5SREDdYZ3kA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 0,
+  "videos": 1,
   "views": 0,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 197,
   "scheduled": [
    "Short 20 Nov 21:30"
@@ -5277,10 +5277,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@FightTheGoodFightgh",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mMRF-rcRa9b_yXNV-hvxnhOm6TnYsgR_H4o8INMq8xI4X1RzG0FqBQ7ldbX62yXqGQeA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 0,
+  "videos": 1,
   "views": 0,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 198,
   "scheduled": [
    "Short 20 Nov 21:30"
@@ -5292,10 +5292,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@IComeSeekingFruits",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_l01BbL5lABX-SbH32JPbtxYFTw0q_8IG6OWmxVRCh7FG4ikXjaFwgCw3dicMdaW20FGg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 0,
+  "videos": 1,
   "views": 0,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 199,
   "scheduled": [
    "Short 20 Nov 21:30"

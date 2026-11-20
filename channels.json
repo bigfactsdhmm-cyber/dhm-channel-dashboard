@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T21:12:12.833Z",
- "data_updated": "2026-11-20T21:12:12.707Z",
+ "generated": "2026-11-20T21:48:44.737Z",
+ "data_updated": "2026-11-20T21:48:44.618Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542190,
   "views": 20355483,
-  "videos": 11566,
-  "videos_this_week": 631,
-  "videos_scheduled": 80
+  "videos": 11570,
+  "videos_this_week": 635,
+  "videos_scheduled": 76
  },
  "channels": [
   {
@@ -1557,9 +1557,9 @@
    "url": "https://www.youtube.com/@SpiritLedLiving-p5q",
    "subscribers": 11,
    "views": 4683,
-   "videos": 41,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 42,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2697,9 +2697,9 @@
    "url": "https://www.youtube.com/@ChooseMeUseMe",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 1,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2709,9 +2709,9 @@
    "url": "https://www.youtube.com/@FightTheGoodFightgh",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 1,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2721,9 +2721,9 @@
    "url": "https://www.youtube.com/@IComeSeekingFruits",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 1,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
