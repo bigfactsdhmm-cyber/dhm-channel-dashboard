@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T15:28:49.626Z",
- "data_updated": "2026-11-20T15:28:49.507Z",
+ "generated": "2026-11-20T16:02:22.131Z",
+ "data_updated": "2026-11-20T16:02:22.022Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542155,
-  "views": 20343124,
-  "videos": 11489,
-  "videos_this_week": 541,
-  "videos_scheduled": 86
+  "views": 20343127,
+  "videos": 11495,
+  "videos_this_week": 548,
+  "videos_scheduled": 77
  },
  "channels": [
   {
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47895,
+   "views": 47898,
    "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -371,7 +371,7 @@
    "views": 3706,
    "videos": 31,
    "videos_this_week": 1,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1221,9 +1221,9 @@
    "url": "https://www.youtube.com/@HeavensPerspective-p5s",
    "subscribers": 2,
    "views": 1025,
-   "videos": 26,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 27,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1295,7 +1295,7 @@
    "views": 9036,
    "videos": 46,
    "videos_this_week": 6,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1533,9 +1533,9 @@
    "url": "https://www.youtube.com/@ScriptureandDust",
    "subscribers": 2,
    "views": 320,
-   "videos": 12,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 13,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1581,9 +1581,9 @@
    "url": "https://www.youtube.com/@SundayWasntEnough",
    "subscribers": 5,
    "views": 586,
-   "videos": 11,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1725,9 +1725,9 @@
    "url": "https://www.youtube.com/@TheNarrowWay-j1w",
    "subscribers": 38,
    "views": 6427,
-   "videos": 40,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 41,
+   "videos_this_week": 5,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1773,9 +1773,9 @@
    "url": "https://www.youtube.com/@TheRedLetterRoom3",
    "subscribers": 7,
    "views": 771,
-   "videos": 7,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 8,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1930,7 +1930,7 @@
    "subscribers": 7,
    "views": 3754,
    "videos": 34,
-   "videos_this_week": 4,
+   "videos_this_week": 5,
    "scheduled": 1,
    "ministers": ""
   },
@@ -2505,9 +2505,9 @@
    "url": "https://www.youtube.com/@Volanteusma",
    "subscribers": 0,
    "views": 62,
-   "videos": 2,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 3,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2663,7 +2663,7 @@
    "views": 0,
    "videos": 0,
    "videos_this_week": 0,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
