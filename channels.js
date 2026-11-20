@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-20T09:45:00.687Z";
+window.UPDATED = "2026-11-20T10:18:38.358Z";
 window.LOG_UPDATED = "2026-11-20 02:24 Accra";
 window.CHANNELS = [
  {
@@ -4499,7 +4499,7 @@ window.CHANNELS = [
   "videos": 28,
   "views": 35272,
   "subs": 40,
-  "week": 4,
+  "week": 3,
   "added": 157,
   "scheduled": [
    "10 Nov 12:00",
@@ -4646,7 +4646,7 @@ window.CHANNELS = [
   "videos": 24,
   "views": 634,
   "subs": 1,
-  "week": 3,
+  "week": 2,
   "added": 164,
   "scheduled": [
    "9 Nov 18:00",
@@ -4687,7 +4687,7 @@ window.CHANNELS = [
   "videos": 8,
   "views": 200,
   "subs": 0,
-  "week": 4,
+  "week": 3,
   "added": 166,
   "scheduled": [
    "10 Nov 07:00",
@@ -4707,7 +4707,7 @@ window.CHANNELS = [
   "videos": 5,
   "views": 13,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 167,
   "scheduled": [
    "10 Nov 07:00",
@@ -4899,7 +4899,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 47,
+  "videos": 48,
   "views": 47,
   "subs": 1,
   "week": 28,
@@ -4913,7 +4913,8 @@ window.CHANNELS = [
    "20 Nov 08:35",
    "20 Nov 09:15",
    "20 Nov 09:20",
-   "20 Nov 09:35"
+   "20 Nov 09:35",
+   "20 Nov 09:50"
   ]
  },
  {
@@ -5013,10 +5014,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@KingsAndPriestsGH",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kedlxAby9tBfPJkXZ8EQhn6bmlgHTDhb0RGpWJWrn_Xk7rZowkOmPXdaOCOCTpsF7fXg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 0,
+  "videos": 1,
   "views": 0,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 185,
   "scheduled": [
    "Short 20 Nov 10:00"
@@ -5760,7 +5761,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@lovelydiamond-l9e",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 38,
+  "videos": 42,
   "views": 114,
   "subs": 2,
   "week": 36,
