@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T22:58:59.885Z",
- "data_updated": "2026-11-20T22:58:59.739Z",
+ "generated": "2026-11-20T23:31:43.804Z",
+ "data_updated": "2026-11-20T23:31:43.663Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 542101,
   "views": 20354189,
-  "videos": 11570,
-  "videos_this_week": 635,
+  "videos": 11571,
+  "videos_this_week": 636,
   "videos_scheduled": 76
  },
  "channels": [
@@ -537,8 +537,8 @@
    "url": "https://www.youtube.com/@KruptosChannel",
    "subscribers": 305,
    "views": 70130,
-   "videos": 18,
-   "videos_this_week": 4,
+   "videos": 19,
+   "videos_this_week": 5,
    "scheduled": 2,
    "ministers": ""
   },
