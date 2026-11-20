@@ -1,22 +1,22 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-20T14:55:34.766Z   Numbers refreshed: 2026-11-20T14:55:34.642Z   Upload log: 2026-11-20 14:46 Accra
+Generated: 2026-11-20T15:28:49.626Z   Numbers refreshed: 2026-11-20T15:28:49.507Z   Upload log: 2026-11-20 14:46 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
-  Subscribers/followers: 542,075
-  Views: 20,341,207
-  Videos on YouTube: 11,480
-  Videos posted in the last 7 days: 533
+  Subscribers/followers: 542,155
+  Views: 20,343,124
+  Videos on YouTube: 11,489
+  Videos posted in the last 7 days: 541
   Videos scheduled (go-live time still ahead): 86
 
 SECTIONS
   Official YouTube channels: 8 channels, 487,950 subscribers, 18,685,601 views, 12 videos this week
-  Alternative Platforms: 19 channels, 2,222 subscribers, 86,429 views, 0 videos this week
-  Fan channels: 144 channels, 48,695 subscribers, 1,438,242 views, 295 videos this week
+  Alternative Platforms: 19 channels, 2,302 subscribers, 88,346 views, 0 videos this week
+  Fan channels: 144 channels, 48,695 subscribers, 1,438,242 views, 301 videos this week
   Men of God channels: 12 channels, 116 subscribers, 35,119 views, 17 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,353 views, 91 videos this week
-  Camps channels: 40 channels, 15 subscribers, 2,128 views, 30 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,353 views, 92 videos this week
+  Camps channels: 40 channels, 15 subscribers, 2,128 views, 31 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 161 views, 64 videos this week
   Christian Gist channels: 13 channels, 53 subscribers, 40,174 views, 24 videos this week
   People channels: 14 channels, 0 subscribers, 0 views, 0 videos this week
@@ -49,8 +49,8 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   1. Lovely Diamond (Lovely Diamond channels): 36
   2. Lovely Diamond Camps (Lovely Diamond channels): 28
   3. Dag Heward-Mills (Official YouTube channels): 12
-  4. Holy Ground Moments (FLOW Prayer Meeting channels): 9
-  5. Hidden Manna (FLOW Prayer Meeting channels): 8
+  4. Hidden Manna (FLOW Prayer Meeting channels): 9
+  5. Holy Ground Moments (FLOW Prayer Meeting channels): 9
   6. Word Signs Wonders (Fan channels): 7
   7. Mercy Endures (FLOW Prayer Meeting channels): 7
   8. Faith Foundations (Fan channels): 6
