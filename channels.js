@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-20T09:11:16.585Z";
+window.UPDATED = "2026-11-20T09:45:00.687Z";
 window.LOG_UPDATED = "2026-11-20 02:24 Accra";
 window.CHANNELS = [
  {
@@ -4899,7 +4899,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 44,
+  "videos": 47,
   "views": 47,
   "subs": 1,
   "week": 28,
@@ -4910,7 +4910,10 @@ window.CHANNELS = [
    "20 Nov 08:02",
    "20 Nov 08:15",
    "20 Nov 08:25",
-   "20 Nov 08:35"
+   "20 Nov 08:35",
+   "20 Nov 09:15",
+   "20 Nov 09:20",
+   "20 Nov 09:35"
   ]
  },
  {
@@ -5757,7 +5760,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@lovelydiamond-l9e",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 37,
+  "videos": 38,
   "views": 114,
   "subs": 2,
   "week": 36,
