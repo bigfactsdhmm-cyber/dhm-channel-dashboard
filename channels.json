@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-19T21:07:02.779Z",
- "data_updated": "2026-11-19T21:07:02.661Z",
+ "generated": "2026-11-20T00:44:04.583Z",
+ "data_updated": "2026-11-20T00:44:04.440Z",
  "upload_log_updated": "2026-11-19 08:00 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542019,
-  "views": 20327397,
+  "views": 20327399,
   "videos": 11432,
-  "videos_this_week": 562,
+  "videos_this_week": 558,
   "videos_scheduled": 0
  },
  "channels": [
@@ -272,7 +272,7 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5553,
+   "views": 5555,
    "videos": 131,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -1402,7 +1402,7 @@
    "subscribers": 6,
    "views": 1811,
    "videos": 32,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1414,7 +1414,7 @@
    "subscribers": 13,
    "views": 5805,
    "videos": 38,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
