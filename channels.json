@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T20:05:05.484Z",
- "data_updated": "2026-11-20T20:05:05.356Z",
+ "generated": "2026-11-20T20:38:44.984Z",
+ "data_updated": "2026-11-20T20:38:44.839Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542190,
-  "views": 20355481,
-  "videos": 11562,
-  "videos_this_week": 627,
-  "videos_scheduled": 7
+  "views": 20355483,
+  "videos": 11565,
+  "videos_this_week": 630,
+  "videos_scheduled": 5
  },
  "channels": [
   {
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11451,
+   "views": 11453,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -381,9 +381,9 @@
    "url": "https://www.youtube.com/@FaithFoundations-n6d",
    "subscribers": 31,
    "views": 7740,
-   "videos": 47,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 48,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1293,8 +1293,8 @@
    "url": "https://www.youtube.com/@KingdomBuilders-d1p",
    "subscribers": 37,
    "views": 9053,
-   "videos": 46,
-   "videos_this_week": 7,
+   "videos": 47,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1821,9 +1821,9 @@
    "url": "https://www.youtube.com/@TheVineandBranches-f6s",
    "subscribers": 10,
    "views": 3880,
-   "videos": 38,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 39,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
