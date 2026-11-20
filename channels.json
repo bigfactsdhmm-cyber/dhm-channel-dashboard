@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T10:18:38.491Z",
- "data_updated": "2026-11-20T10:18:38.358Z",
+ "generated": "2026-11-20T10:52:11.785Z",
+ "data_updated": "2026-11-20T10:52:11.652Z",
  "upload_log_updated": "2026-11-20 02:24 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542155,
   "views": 20343123,
-  "videos": 11447,
-  "videos_this_week": 504,
-  "videos_scheduled": 64
+  "videos": 11449,
+  "videos_this_week": 505,
+  "videos_scheduled": 63
  },
  "channels": [
   {
@@ -2565,9 +2565,9 @@
    "url": "https://www.youtube.com/@LayPowergh",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 1,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 114,
-   "videos": 42,
+   "videos": 43,
    "videos_this_week": 36,
    "scheduled": 0,
    "ministers": ""
