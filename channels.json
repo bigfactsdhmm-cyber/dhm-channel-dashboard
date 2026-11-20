@@ -1,8 +1,8 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T00:44:04.583Z",
- "data_updated": "2026-11-20T00:44:04.440Z",
- "upload_log_updated": "2026-11-19 08:00 Accra",
+ "generated": "2026-11-20T03:10:48.454Z",
+ "data_updated": "2026-11-20T03:10:48.308Z",
+ "upload_log_updated": "2026-11-20 02:24 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
@@ -10,8 +10,8 @@
   "subscribers": 542019,
   "views": 20327399,
   "videos": 11432,
-  "videos_this_week": 558,
-  "videos_scheduled": 0
+  "videos_this_week": 525,
+  "videos_scheduled": 59
  },
  "channels": [
   {
@@ -382,7 +382,7 @@
    "subscribers": 31,
    "views": 7617,
    "videos": 46,
-   "videos_this_week": 8,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -407,7 +407,7 @@
    "views": 1593,
    "videos": 16,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -419,7 +419,7 @@
    "views": 764,
    "videos": 10,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -455,7 +455,7 @@
    "views": 2569,
    "videos": 15,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -491,7 +491,7 @@
    "views": 705,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -502,7 +502,7 @@
    "subscribers": 61,
    "views": 33016,
    "videos": 42,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -599,7 +599,7 @@
    "views": 23,
    "videos": 9,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -815,7 +815,7 @@
    "views": 2160,
    "videos": 22,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "David Oyedepo + Oyedepo Jr (faith, prosperity, kingdom advancement)"
   },
   {
@@ -826,7 +826,7 @@
    "subscribers": 20,
    "views": 7025,
    "videos": 47,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -839,7 +839,7 @@
    "views": 8,
    "videos": 4,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -851,7 +851,7 @@
    "views": 654,
    "videos": 5,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -911,7 +911,7 @@
    "views": 1081,
    "videos": 11,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -983,7 +983,7 @@
    "views": 1309,
    "videos": 25,
    "videos_this_week": 3,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1006,8 +1006,8 @@
    "subscribers": 13,
    "views": 2355,
    "videos": 31,
-   "videos_this_week": 4,
-   "scheduled": 0,
+   "videos_this_week": 2,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1066,7 +1066,7 @@
    "subscribers": 9,
    "views": 3173,
    "videos": 41,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1150,7 +1150,7 @@
    "subscribers": 12,
    "views": 5478,
    "videos": 36,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1235,7 +1235,7 @@
    "views": 3264,
    "videos": 45,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1294,8 +1294,8 @@
    "subscribers": 37,
    "views": 8980,
    "videos": 46,
-   "videos_this_week": 8,
-   "scheduled": 0,
+   "videos_this_week": 6,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1451,7 +1451,7 @@
    "views": 3703,
    "videos": 39,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1499,7 +1499,7 @@
    "views": 27248,
    "videos": 44,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1558,7 +1558,7 @@
    "subscribers": 11,
    "views": 4663,
    "videos": 40,
-   "videos_this_week": 8,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1630,8 +1630,8 @@
    "subscribers": 16,
    "views": 6163,
    "videos": 43,
-   "videos_this_week": 6,
-   "scheduled": 0,
+   "videos_this_week": 4,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1642,7 +1642,7 @@
    "subscribers": 5,
    "views": 3499,
    "videos": 36,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1666,7 +1666,7 @@
    "subscribers": 31,
    "views": 5600,
    "videos": 42,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1726,8 +1726,8 @@
    "subscribers": 37,
    "views": 6328,
    "videos": 40,
-   "videos_this_week": 6,
-   "scheduled": 0,
+   "videos_this_week": 4,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1739,7 +1739,7 @@
    "views": 1061,
    "videos": 13,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1750,7 +1750,7 @@
    "subscribers": 15,
    "views": 5302,
    "videos": 35,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1786,7 +1786,7 @@
    "subscribers": 12,
    "views": 3416,
    "videos": 42,
-   "videos_this_week": 8,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1799,7 +1799,7 @@
    "views": 6178,
    "videos": 44,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1822,8 +1822,8 @@
    "subscribers": 10,
    "views": 3787,
    "videos": 37,
-   "videos_this_week": 7,
-   "scheduled": 0,
+   "videos_this_week": 5,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1918,7 +1918,7 @@
    "subscribers": 0,
    "views": 544,
    "videos": 34,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1930,7 +1930,7 @@
    "subscribers": 7,
    "views": 3738,
    "videos": 33,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2038,8 +2038,8 @@
    "subscribers": 11,
    "views": 4053,
    "videos": 37,
-   "videos_this_week": 8,
-   "scheduled": 0,
+   "videos_this_week": 6,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2051,7 +2051,7 @@
    "views": 389,
    "videos": 6,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2507,7 +2507,7 @@
    "views": 4,
    "videos": 2,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2544,6 +2544,186 @@
    "videos": 3,
    "videos_this_week": 2,
    "scheduled": 0,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Kings And Priests",
+   "url": "https://www.youtube.com/@KingsAndPriestsGH",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Lay Power",
+   "url": "https://www.youtube.com/@LayPowergh",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Mighty Foundations",
+   "url": "https://www.youtube.com/@MightyFoundations",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Moses And Associates",
+   "url": "https://www.youtube.com/@MosesAndAssociates",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Predestination",
+   "url": "https://www.youtube.com/@Predestinationus",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Sweet Influence Of The Holy Spirit",
+   "url": "https://www.youtube.com/@SweetInfluenceOfTheHolySpirit",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Tell Them",
+   "url": "https://www.youtube.com/@TellThemSA",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Barrenness And Fruitfulness",
+   "url": "https://www.youtube.com/@BarrenessAndFruitfulness",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Obedience Unto Death",
+   "url": "https://www.youtube.com/@ObedienceUntoDeath",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Warning Of Purpose",
+   "url": "https://www.youtube.com/@WarningOfPurpose",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Awake O Sleeper",
+   "url": "https://www.youtube.com/@AwakeOSleeperSA",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Be Thou Faithful Unto Death",
+   "url": "https://www.youtube.com/@BeThouFaithfulUntoDeath",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Choose Me, Use Me",
+   "url": "https://www.youtube.com/@ChooseMeUseMe",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "Fight The Good Fight",
+   "url": "https://www.youtube.com/@FightTheGoodFightgh",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
+   "ministers": ""
+  },
+  {
+   "section": "Camps channels",
+   "platform": "YouTube",
+   "name": "I Come Seeking Fruits",
+   "url": "https://www.youtube.com/@IComeSeekingFruits",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2909,56 +3089,8 @@
   {
    "section": "Camps channels",
    "platform": "YouTube",
-   "name": "Awake O Sleeper",
-   "url": "https://www.youtube.com/@AwakeOSleeperSA",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
    "name": "Bag Of Seeds",
    "url": "https://www.youtube.com/@BagOfSeedsuk",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Barrenness And Fruitfulness",
-   "url": "https://www.youtube.com/@BarrenessAndFruitfulness",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Be Thou Faithful Unto Death",
-   "url": "https://www.youtube.com/@BeThouFaithfulUntoDeath",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Choose Me, Use Me",
-   "url": "https://www.youtube.com/@ChooseMeUseMe",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
@@ -2974,18 +3106,6 @@
    "subscribers": 0,
    "views": 2,
    "videos": 1,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Fight The Good Fight",
-   "url": "https://www.youtube.com/@FightTheGoodFightgh",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -3017,42 +3137,6 @@
   {
    "section": "Camps channels",
    "platform": "YouTube",
-   "name": "I Come Seeking Fruits",
-   "url": "https://www.youtube.com/@IComeSeekingFruits",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Kings And Priests",
-   "url": "https://www.youtube.com/@KingsAndPriestsGH",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Lay Power",
-   "url": "https://www.youtube.com/@LayPowergh",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
    "name": "Lord I Know You Need Somebody",
    "url": "https://www.youtube.com/@LordIKnowYouNeedSomebody",
    "subscribers": 0,
@@ -3065,80 +3149,8 @@
   {
    "section": "Camps channels",
    "platform": "YouTube",
-   "name": "Mighty Foundations",
-   "url": "https://www.youtube.com/@MightyFoundations",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Moses And Associates",
-   "url": "https://www.youtube.com/@MosesAndAssociates",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Obedience Unto Death",
-   "url": "https://www.youtube.com/@ObedienceUntoDeath",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Predestination",
-   "url": "https://www.youtube.com/@Predestinationus",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
    "name": "Preparation of The Gospel",
    "url": "https://www.youtube.com/@PreparationofTheGospel",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Sweet Influence Of The Holy Spirit",
-   "url": "https://www.youtube.com/@SweetInfluenceOfTheHolySpirit",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Tell Them",
-   "url": "https://www.youtube.com/@TellThemSA",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
@@ -3187,18 +3199,6 @@
    "platform": "YouTube",
    "name": "The Message Of Sacrifice",
    "url": "https://www.youtube.com/@TheMessageOfSacrifice",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Camps channels",
-   "platform": "YouTube",
-   "name": "Warning Of Purpose",
-   "url": "https://www.youtube.com/@WarningOfPurpose",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
