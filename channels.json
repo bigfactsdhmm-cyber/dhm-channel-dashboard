@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T19:31:24.095Z",
- "data_updated": "2026-11-20T19:31:23.958Z",
+ "generated": "2026-11-20T20:05:05.484Z",
+ "data_updated": "2026-11-20T20:05:05.356Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542190,
   "views": 20355481,
-  "videos": 11558,
-  "videos_this_week": 623,
-  "videos_scheduled": 12
+  "videos": 11562,
+  "videos_this_week": 627,
+  "videos_scheduled": 7
  },
  "channels": [
   {
@@ -801,9 +801,9 @@
    "url": "https://www.youtube.com/@UnseenThings321",
    "subscribers": 9,
    "views": 2049,
-   "videos": 15,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 16,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1041,9 +1041,9 @@
    "url": "https://www.youtube.com/@DoersoftheWord-u4y",
    "subscribers": 23,
    "views": 8008,
-   "videos": 38,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 39,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1293,8 +1293,8 @@
    "url": "https://www.youtube.com/@KingdomBuilders-d1p",
    "subscribers": 37,
    "views": 9053,
-   "videos": 47,
-   "videos_this_week": 8,
+   "videos": 46,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1497,9 +1497,9 @@
    "url": "https://www.youtube.com/@RootedinChrist-i8x",
    "subscribers": 57,
    "views": 27436,
-   "videos": 45,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 46,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1797,9 +1797,9 @@
    "url": "https://www.youtube.com/@TheShepherdsStaff-p3s",
    "subscribers": 37,
    "views": 6238,
-   "videos": 45,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 46,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2133,9 +2133,9 @@
    "url": "https://www.youtube.com/@DagHeward-MillsChurch",
    "subscribers": 14400,
    "views": 224679,
-   "videos": 334,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 335,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
