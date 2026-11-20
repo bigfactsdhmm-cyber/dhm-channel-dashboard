@@ -1,24 +1,24 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-20T03:54:29.992Z   Numbers refreshed: 2026-11-20T03:54:29.850Z   Upload log: 2026-11-20 02:24 Accra
+Generated: 2026-11-20T09:11:16.731Z   Numbers refreshed: 2026-11-20T09:11:16.585Z   Upload log: 2026-11-20 02:24 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
-  Subscribers/followers: 542,019
-  Views: 20,327,399
-  Videos on YouTube: 11,432
-  Videos posted in the last 7 days: 519
-  Videos scheduled (go-live time still ahead): 59
+  Subscribers/followers: 542,155
+  Views: 20,343,123
+  Videos on YouTube: 11,437
+  Videos posted in the last 7 days: 507
+  Videos scheduled (go-live time still ahead): 65
 
 SECTIONS
-  Official YouTube channels: 8 channels, 487,830 subscribers, 18,684,059 views, 12 videos this week
-  Alternative Platforms: 19 channels, 2,302 subscribers, 88,340 views, 0 videos this week
-  Fan channels: 144 channels, 48,680 subscribers, 1,425,333 views, 295 videos this week
-  Men of God channels: 12 channels, 116 subscribers, 34,843 views, 15 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,118 views, 91 videos this week
-  Camps channels: 40 channels, 14 subscribers, 1,455 views, 18 videos this week
-  Lovely Diamond channels: 3 channels, 4 subscribers, 139 views, 59 videos this week
-  Christian Gist channels: 13 channels, 53 subscribers, 40,112 views, 29 videos this week
+  Official YouTube channels: 8 channels, 487,950 subscribers, 18,685,601 views, 12 videos this week
+  Alternative Platforms: 19 channels, 2,302 subscribers, 88,345 views, 0 videos this week
+  Fan channels: 144 channels, 48,695 subscribers, 1,438,242 views, 281 videos this week
+  Men of God channels: 12 channels, 116 subscribers, 35,119 views, 15 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,353 views, 89 videos this week
+  Camps channels: 40 channels, 15 subscribers, 2,128 views, 18 videos this week
+  Lovely Diamond channels: 3 channels, 4 subscribers, 161 views, 64 videos this week
+  Christian Gist channels: 13 channels, 53 subscribers, 40,174 views, 28 videos this week
   People channels: 14 channels, 0 subscribers, 0 views, 0 videos this week
 
 TOP 10 BY SUBSCRIBERS
@@ -28,33 +28,33 @@ TOP 10 BY SUBSCRIBERS
   4. Dag Heward-Mills Church Channel (Fan channels): 14,400
   5. Dag Heward-Mills Crusades (Official YouTube channels): 14,100
   6. Dag Heward-Mills Nations Channel (Official YouTube channels): 13,400
-  7. Dag Heward-Mills Docufilms Channel (Official YouTube channels): 10,900
-  8. Dag Heward-Mills Loyalty Channel (Official YouTube channels): 9,470
-  9. Dag Heward-Mills Books Channel (Official YouTube channels): 8,460
+  7. Dag Heward-Mills Docufilms Channel (Official YouTube channels): 11,000
+  8. Dag Heward-Mills Loyalty Channel (Official YouTube channels): 9,480
+  9. Dag Heward-Mills Books Channel (Official YouTube channels): 8,470
   10. Glorious Impartation (Fan channels): 7,760
 
 TOP 10 BY VIEWS
-  1. Dag Heward-Mills (Official YouTube channels): 16,076,351
-  2. Dag Heward-Mills Camps Channel (Official YouTube channels): 1,688,441
-  3. Dag Heward-Mills Conference (GTWC) Channel (Official YouTube channels): 537,142
-  4. Dag Heward-Mills Church Channel (Fan channels): 223,905
-  5. Dag Heward-Mills Nations Channel (Official YouTube channels): 147,667
-  6. Quiet Fire (Fan channels): 132,165
-  7. Glorious Impartation (Fan channels): 124,641
-  8. Dag Heward-Mills Crusades (Official YouTube channels): 108,633
-  9. Pastors and Leaders Channel (Fan channels): 74,668
-  10. Dag Heward-Mills Books Channel (Official YouTube channels): 71,057
+  1. Dag Heward-Mills (Official YouTube channels): 16,075,003
+  2. Dag Heward-Mills Camps Channel (Official YouTube channels): 1,690,324
+  3. Dag Heward-Mills Conference (GTWC) Channel (Official YouTube channels): 537,541
+  4. Dag Heward-Mills Church Channel (Fan channels): 224,516
+  5. Dag Heward-Mills Nations Channel (Official YouTube channels): 147,866
+  6. Quiet Fire (Fan channels): 132,510
+  7. Glorious Impartation (Fan channels): 124,815
+  8. Dag Heward-Mills Crusades (Official YouTube channels): 108,788
+  9. Pastors and Leaders Channel (Fan channels): 74,780
+  10. Dag Heward-Mills Books Channel (Official YouTube channels): 71,239
 
 MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   1. Lovely Diamond (Lovely Diamond channels): 36
-  2. Lovely Diamond Camps (Lovely Diamond channels): 23
+  2. Lovely Diamond Camps (Lovely Diamond channels): 28
   3. Dag Heward-Mills (Official YouTube channels): 12
   4. Holy Ground Moments (FLOW Prayer Meeting channels): 9
-  5. Word Signs Wonders (Fan channels): 8
-  6. Hidden Manna (FLOW Prayer Meeting channels): 8
-  7. Mercy Endures (FLOW Prayer Meeting channels): 7
-  8. Faith Foundations (Fan channels): 6
-  9. Grace Unfolding (Fan channels): 6
+  5. Hidden Manna (FLOW Prayer Meeting channels): 8
+  6. Mercy Endures (FLOW Prayer Meeting channels): 7
+  7. Faith Foundations (Fan channels): 6
+  8. Grace Unfolding (Fan channels): 6
+  9. Word Signs Wonders (Fan channels): 6
   10. Doers of the Word (Fan channels): 6
 
 MEN OF GOD CHANNELS
