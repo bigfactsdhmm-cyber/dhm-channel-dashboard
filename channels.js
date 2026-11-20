@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-20T20:38:44.839Z";
+window.UPDATED = "2026-11-20T21:12:12.707Z";
 window.LOG_UPDATED = "2026-11-20 14:46 Accra";
 window.CHANNELS = [
  {
@@ -191,6 +191,7 @@ window.CHANNELS = [
    "17 Nov 13:20, Short 17 Nov 16:20",
    "18 Nov 16:30, Short 18 Nov 19:30",
    "20 Nov 13:50, Short 20 Nov 16:50",
+   "21 Nov 15:20, Short 21 Nov 18:20",
    "Short 19 Oct 14:36",
    "Short 14 Oct 12:40",
    "Short 4 Oct 12:40"
@@ -289,6 +290,7 @@ window.CHANNELS = [
    "1 Oct 05:53, Short 1 Oct 05:54",
    "18 Nov 07:00, Short 18 Nov 10:00",
    "20 Nov 15:10, Short 20 Nov 18:10",
+   "21 Nov 16:11, Short 21 Nov 19:11",
    "Short 18 Oct 12:10",
    "Short 14 Oct 12:10",
    "Short 23 Oct 12:10"
@@ -322,6 +324,7 @@ window.CHANNELS = [
    "15 Nov 11:30, Short 15 Nov 14:30",
    "17 Nov 11:00, Short 17 Nov 14:00",
    "18 Nov 07:40, Short 18 Nov 10:40",
+   "21 Nov 10:01, Short 21 Nov 13:01",
    "Short 13 Oct 12:55",
    "Short 11 Oct 12:55",
    "Short 8 Oct 12:55"
@@ -351,6 +354,7 @@ window.CHANNELS = [
    "1 Oct 06:37, Short 1 Oct 06:36",
    "17 Nov 14:20, Short 17 Nov 17:20",
    "18 Nov 13:10, Short 18 Nov 16:10",
+   "21 Nov 13:30, Short 21 Nov 16:30",
    "Short 8 Oct 12:25",
    "Short 22 Oct 12:25"
   ]
@@ -373,6 +377,7 @@ window.CHANNELS = [
    "14 Oct 17:05",
    "18 Nov 17:00, Short 18 Nov 20:00",
    "20 Nov 14:00, Short 20 Nov 17:00",
+   "21 Nov 15:31, Short 21 Nov 18:31",
    "Short 19 Oct 14:44",
    "Short 14 Oct 12:05"
   ]
@@ -404,6 +409,7 @@ window.CHANNELS = [
    "5 Oct 18:40",
    "15 Nov 13:00, Short 15 Nov 16:00",
    "18 Nov 09:00, Short 18 Nov 12:00",
+   "21 Nov 10:31, Short 21 Nov 13:31",
    "Short 18 Oct 13:00",
    "Short 11 Oct 12:40",
    "Short 8 Oct 12:40",
@@ -434,6 +440,7 @@ window.CHANNELS = [
    "1 Oct 05:03, Short 1 Oct 05:04",
    "17 Nov 13:30, Short 17 Nov 16:30",
    "18 Nov 17:30, Short 18 Nov 20:30",
+   "21 Nov 14:40, Short 21 Nov 17:40",
    "Short 19 Oct 14:04",
    "Short 14 Oct 12:45",
    "Short 6 Oct 12:45",
@@ -458,6 +465,7 @@ window.CHANNELS = [
    "1 Oct 10:08, Short 1 Oct 10:09",
    "17 Nov 13:40, Short 17 Nov 16:40",
    "18 Nov 18:00, Short 18 Nov 21:00",
+   "21 Nov 14:50, Short 21 Nov 17:50",
    "Short 19 Oct 14:12",
    "Short 14 Oct 12:55"
   ]
@@ -478,6 +486,7 @@ window.CHANNELS = [
    "1 Oct 17:15, Short 1 Oct 12:15",
    "17 Nov 09:30, Short 17 Nov 12:30",
    "18 Nov 15:30, Short 18 Nov 18:30",
+   "21 Nov 14:10, Short 21 Nov 17:10",
    "Short 13 Oct 12:50"
   ]
  },
@@ -652,6 +661,7 @@ window.CHANNELS = [
    "8 Oct 18:00",
    "1 Oct 06:27, Short 1 Oct 06:26",
    "18 Nov 19:00, Short 18 Nov 21:30",
+   "21 Nov 15:01, Short 21 Nov 18:01",
    "Short 14 Oct 12:30",
    "Short 8 Oct 12:00"
   ]
@@ -717,6 +727,7 @@ window.CHANNELS = [
    "1 Oct 17:10, Short 1 Oct 12:25",
    "17 Nov 11:15",
    "18 Nov 12:00, Short 18 Nov 15:00",
+   "21 Nov 13:00, Short 21 Nov 16:00",
    "Short 13 Oct 12:50",
    "Short 5 Oct 12:05"
   ]
@@ -739,6 +750,7 @@ window.CHANNELS = [
    "1 Oct 06:04, Short 1 Oct 06:03",
    "17 Nov 13:50, Short 17 Nov 16:50",
    "20 Nov 16:12, Short 20 Nov 19:12",
+   "21 Nov 16:51",
    "Short 19 Oct 12:52",
    "Short 14 Oct 12:25"
   ]
@@ -766,6 +778,7 @@ window.CHANNELS = [
    "6 Oct 17:30",
    "1 Oct 05:02, Short 1 Oct 05:01",
    "20 Nov 14:32, Short 20 Nov 17:32",
+   "21 Nov 16:01, Short 21 Nov 19:01",
    "Short 14 Oct 12:30",
    "Short 7 Oct 12:30",
    "Short 6 Oct 12:30",
@@ -1001,6 +1014,7 @@ window.CHANNELS = [
    "6 Oct 17:00",
    "5 Oct 17:00",
    "1 Oct 17:30, Short 1 Oct 12:30",
+   "21 Nov 06:30, Short 21 Nov 09:30",
    "Short 5 Oct 12:00"
   ]
  },
@@ -1024,6 +1038,7 @@ window.CHANNELS = [
    "1 Oct 05:52, Short 1 Oct 05:51",
    "17 Nov 14:50, Short 17 Nov 17:50",
    "20 Nov 16:39, Short 20 Nov 19:39",
+   "21 Nov 17:11, Short 21 Nov 20:11",
    "Short 19 Oct 13:24",
    "Short 14 Oct 12:00",
    "Short 6 Oct 12:00"
@@ -1094,6 +1109,7 @@ window.CHANNELS = [
    "14 Nov 16:20, Short 14 Nov 19:20",
    "16 Nov 16:20, Short 16 Nov 19:20",
    "20 Nov 15:17, Short 20 Nov 18:17",
+   "21 Nov 16:21, Short 21 Nov 19:21",
    "Short 19 Oct 12:20",
    "Short 16 Oct 12:15",
    "Short 13 Oct 12:15",
@@ -1144,6 +1160,7 @@ window.CHANNELS = [
    "1 Oct 10:35, Short 1 Oct 10:40",
    "13 Oct 18:45",
    "20 Nov 14:10, Short 20 Nov 17:10",
+   "21 Nov 15:40",
    "Short 13 Oct 12:45"
   ]
  },
@@ -1163,6 +1180,7 @@ window.CHANNELS = [
    "14 Oct 18:10",
    "13 Oct 18:10",
    "20 Nov 13:47, Short 20 Nov 16:47",
+   "21 Nov 15:10, Short 21 Nov 18:10",
    "Short 14 Oct 12:10",
    "Short 13 Oct 12:10"
   ]
@@ -1191,6 +1209,7 @@ window.CHANNELS = [
    "16 Nov 18:00, Short 16 Nov 21:00",
    "18 Nov 11:45, Short 18 Nov 14:45",
    "20 Nov 13:11, Short 20 Nov 16:11",
+   "21 Nov 06:00, Short 21 Nov 09:00",
    "Short 18 Oct 14:49",
    "Short 13 Oct 12:05",
    "Short 11 Oct 12:05",
@@ -1243,6 +1262,7 @@ window.CHANNELS = [
    "5 Oct 18:25",
    "1 Oct 06:05, Short 1 Oct 06:00",
    "17 Nov 07:00, Short 17 Nov 10:00",
+   "21 Nov 08:00, Short 21 Nov 11:00",
    "Short 14 Oct 12:25",
    "Short 13 Oct 12:25",
    "Short 5 Oct 12:25"
@@ -1651,6 +1671,7 @@ window.CHANNELS = [
    "1 Oct 05:58, Short 1 Oct 05:59",
    "14 Nov 13:20, Short 14 Nov 16:20",
    "16 Nov 11:00, Short 16 Nov 14:00",
+   "21 Nov 07:30, Short 21 Nov 10:30",
    "Short 14 Oct 12:50",
    "Short 11 Oct 12:50",
    "Short 8 Oct 12:00",
@@ -1716,6 +1737,7 @@ window.CHANNELS = [
    "13 Oct 18:20",
    "1 Oct 06:25, Short 1 Oct 06:20",
    "18 Nov 13:50",
+   "21 Nov 13:40, Short 21 Nov 16:40",
    "Short 13 Oct 12:20"
   ]
  },
@@ -1735,6 +1757,7 @@ window.CHANNELS = [
    "13 Oct 18:30",
    "3 Oct 17:35",
    "18 Nov 14:00, Short 18 Nov 17:00",
+   "21 Nov 13:50, Short 21 Nov 16:50",
    "Short 13 Oct 12:30"
   ]
  },
@@ -1754,6 +1777,7 @@ window.CHANNELS = [
    "13 Oct 17:25",
    "3 Oct 18:00",
    "18 Nov 14:10, Short 18 Nov 17:10",
+   "21 Nov 14:00, Short 21 Nov 17:00",
    "Short 13 Oct 12:25"
   ]
  },
@@ -2069,6 +2093,7 @@ window.CHANNELS = [
    "16 Nov 19:00, Short 16 Nov 21:30",
    "17 Nov 15:20, Short 17 Nov 18:20",
    "20 Nov 15:20, Short 20 Nov 18:20",
+   "21 Nov 16:32, Short 21 Nov 19:32",
    "Short 13 Oct 12:05",
    "Short 11 Oct 12:05",
    "Short 7 Oct 12:05",
@@ -2260,6 +2285,7 @@ window.CHANNELS = [
    "1 Oct 06:40, Short 1 Oct 06:45",
    "17 Nov 15:00, Short 17 Nov 18:00",
    "18 Nov 09:20, Short 18 Nov 12:20",
+   "21 Nov 11:01, Short 21 Nov 14:01",
    "Short 18 Oct 12:25",
    "Short 14 Oct 12:25",
    "Short 13 Oct 12:25"
@@ -2285,6 +2311,7 @@ window.CHANNELS = [
    "3 Oct 17:50",
    "1 Oct 06:45, Short 1 Oct 06:40",
    "18 Nov 15:40, Short 18 Nov 18:40",
+   "21 Nov 14:20, Short 21 Nov 17:20",
    "Short 13 Oct 12:35"
   ]
  },
@@ -2550,6 +2577,7 @@ window.CHANNELS = [
    "14 Nov 08:30",
    "16 Nov 13:00, Short 16 Nov 16:00",
    "18 Nov 10:00, Short 18 Nov 13:00",
+   "21 Nov 11:31, Short 21 Nov 14:31",
    "Short 18 Oct 12:15",
    "Short 13 Oct 12:15",
    "Short 11 Oct 12:15",
@@ -2706,6 +2734,7 @@ window.CHANNELS = [
    "14 Nov 11:00, Short 14 Nov 14:00",
    "16 Nov 13:20, Short 16 Nov 16:20",
    "18 Nov 10:30, Short 18 Nov 13:30",
+   "21 Nov 12:00, Short 21 Nov 15:00",
    "Short 18 Oct 12:45",
    "Short 13 Oct 12:45",
    "Short 11 Oct 12:45",
@@ -2741,6 +2770,7 @@ window.CHANNELS = [
    "16 Nov 13:40, Short 16 Nov 16:40",
    "18 Nov 10:45, Short 18 Nov 13:45",
    "20 Nov 16:40, Short 20 Nov 19:40",
+   "21 Nov 17:21, Short 21 Nov 20:21",
    "Short 18 Oct 12:40",
    "Short 13 Oct 12:45",
    "Short 11 Oct 12:45",
@@ -2775,6 +2805,7 @@ window.CHANNELS = [
    "6 Oct 18:40",
    "15 Nov 08:00, Short 15 Nov 11:00",
    "18 Nov 11:00, Short 18 Nov 14:00",
+   "21 Nov 12:30, Short 21 Nov 15:30",
    "Short 18 Oct 12:15",
    "Short 14 Oct 12:15",
    "Short 12 Oct 12:15",
@@ -3055,6 +3086,7 @@ window.CHANNELS = [
    "1 Oct 10:07, Short 1 Oct 10:06",
    "17 Nov 14:00, Short 17 Nov 17:00",
    "20 Nov 16:22, Short 20 Nov 19:22",
+   "21 Nov 17:02, Short 21 Nov 20:02",
    "Short 19 Oct 14:56",
    "Short 14 Oct 12:40"
   ]
@@ -3197,6 +3229,7 @@ window.CHANNELS = [
    "30 Sep 05:15, Short 30 Sep 05:25",
    "16 Nov 06:00, Short 16 Nov 09:00",
    "18 Nov 12:15, Short 18 Nov 15:15",
+   "21 Nov 13:10, Short 21 Nov 16:10",
    "Short 18 Oct 14:33",
    "Short 13 Oct 12:45",
    "Short 11 Oct 12:45",
@@ -3367,6 +3400,7 @@ window.CHANNELS = [
    "15 Nov 14:40, Short 15 Nov 17:40",
    "16 Nov 08:00, Short 16 Nov 11:00",
    "20 Nov 15:30, Short 20 Nov 18:30",
+   "21 Nov 16:41",
    "Short 17 Oct 21:05",
    "Short 11 Oct 12:25",
    "Short 8 Oct 12:25",
@@ -3396,6 +3430,7 @@ window.CHANNELS = [
    "1 Oct 10:20, Short 1 Oct 10:15",
    "1 Oct 06:29, Short 1 Oct 06:28",
    "20 Nov 14:30, Short 20 Nov 17:30",
+   "21 Nov 15:50, Short 21 Nov 18:50",
    "Short 19 Oct 15:04",
    "Short 14 Oct 12:05",
    "Short 13 Oct 12:05",
@@ -3512,6 +3547,7 @@ window.CHANNELS = [
    "15 Nov 15:20, Short 15 Nov 18:20",
    "17 Nov 15:30, Short 17 Nov 18:30",
    "18 Nov 16:10, Short 18 Nov 19:10",
+   "21 Nov 14:30, Short 21 Nov 17:30",
    "Short 19 Oct 11:24",
    "Short 11 Oct 12:00",
    "Short 8 Oct 12:00",
@@ -3804,6 +3840,7 @@ window.CHANNELS = [
    "29 Sep 17:00, Short 29 Sep 12:00",
    "13 Oct 17:00",
    "1 Oct 17:35, Short 1 Oct 12:35",
+   "21 Nov 07:00, Short 21 Nov 10:00",
    "Short 13 Oct 12:00"
   ]
  },
@@ -3826,6 +3863,7 @@ window.CHANNELS = [
    "5 Oct 17:50",
    "1 Oct 17:40, Short 1 Oct 12:40",
    "17 Nov 11:30, Short 17 Nov 14:30",
+   "21 Nov 08:30, Short 21 Nov 11:30",
    "Short 13 Oct 12:45",
    "Short 5 Oct 12:50"
   ]
@@ -4132,10 +4170,10 @@ window.CHANNELS = [
   "name": "Word Alive Daily",
   "url": "https://www.youtube.com/@WordAliveDaily-y9l",
   "icon": "https://yt3.googleusercontent.com/fL45TcYN-RAs6VthYb7MAXCPxACHP7tyXZFJcM5m7xo-PbCt-8wFOQT8i7FAt8UsDr6LhO7t1Hk=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 38,
+  "videos": 39,
   "views": 4075,
   "subs": 11,
-  "week": 7,
+  "week": 8,
   "added": 141,
   "scheduled": [
    "8 Nov 05:50, Short 8 Nov 05:53",
@@ -4500,6 +4538,7 @@ window.CHANNELS = [
   "scheduled": [
    "6 Oct 17:40",
    "18 Nov 13:00, Short 18 Nov 16:00",
+   "21 Nov 13:20, Short 21 Nov 16:20",
    "Short 6 Oct 12:40"
   ]
  },
@@ -5168,7 +5207,8 @@ window.CHANNELS = [
   "week": 1,
   "added": 193,
   "scheduled": [
-   "Short 20 Nov 15:00"
+   "Short 20 Nov 15:00",
+   "Short 21 Nov 17:15"
   ]
  },
  {

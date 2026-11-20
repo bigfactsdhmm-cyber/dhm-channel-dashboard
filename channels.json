@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T20:38:44.984Z",
- "data_updated": "2026-11-20T20:38:44.839Z",
+ "generated": "2026-11-20T21:12:12.833Z",
+ "data_updated": "2026-11-20T21:12:12.707Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542190,
   "views": 20355483,
-  "videos": 11565,
-  "videos_this_week": 630,
-  "videos_scheduled": 5
+  "videos": 11566,
+  "videos_this_week": 631,
+  "videos_scheduled": 80
  },
  "channels": [
   {
@@ -407,7 +407,7 @@
    "views": 2396,
    "videos": 18,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -455,7 +455,7 @@
    "views": 2582,
    "videos": 17,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -467,7 +467,7 @@
    "views": 4527,
    "videos": 32,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -479,7 +479,7 @@
    "views": 1936,
    "videos": 14,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -491,7 +491,7 @@
    "views": 759,
    "videos": 12,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -503,7 +503,7 @@
    "views": 33065,
    "videos": 42,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -515,7 +515,7 @@
    "views": 964,
    "videos": 18,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -527,7 +527,7 @@
    "views": 848,
    "videos": 14,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -539,7 +539,7 @@
    "views": 70130,
    "videos": 18,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -635,7 +635,7 @@
    "views": 5433,
    "videos": 17,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
   {
@@ -671,7 +671,7 @@
    "views": 10696,
    "videos": 11,
    "videos_this_week": 3,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -683,7 +683,7 @@
    "views": 766,
    "videos": 15,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -695,7 +695,7 @@
    "views": 2671,
    "videos": 19,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Grace Lubega + Robert Kayanja (East Africa — revival, healing, devotion)"
   },
   {
@@ -791,7 +791,7 @@
    "views": 13653,
    "videos": 6,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)"
   },
   {
@@ -803,7 +803,7 @@
    "views": 2049,
    "videos": 16,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -827,7 +827,7 @@
    "views": 7042,
    "videos": 49,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -851,7 +851,7 @@
    "views": 656,
    "videos": 7,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -863,7 +863,7 @@
    "views": 22155,
    "videos": 11,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -875,7 +875,7 @@
    "views": 3315,
    "videos": 49,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -899,7 +899,7 @@
    "views": 6439,
    "videos": 18,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1055,7 +1055,7 @@
    "views": 26252,
    "videos": 43,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1079,7 +1079,7 @@
    "views": 987,
    "videos": 9,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1091,7 +1091,7 @@
    "views": 403,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1103,7 +1103,7 @@
    "views": 815,
    "videos": 11,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1235,7 +1235,7 @@
    "views": 3291,
    "videos": 47,
    "videos_this_week": 10,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1307,7 +1307,7 @@
    "views": 988,
    "videos": 22,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1319,7 +1319,7 @@
    "views": 172,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1427,7 +1427,7 @@
    "views": 3194,
    "videos": 36,
    "videos_this_week": 5,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1487,7 +1487,7 @@
    "views": 14554,
    "videos": 42,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1499,7 +1499,7 @@
    "views": 27436,
    "videos": 46,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1511,7 +1511,7 @@
    "views": 3207,
    "videos": 37,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1619,7 +1619,7 @@
    "views": 2146,
    "videos": 19,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1667,7 +1667,7 @@
    "views": 5664,
    "videos": 42,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1727,7 +1727,7 @@
    "views": 6495,
    "videos": 42,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1739,7 +1739,7 @@
    "views": 1079,
    "videos": 15,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1787,7 +1787,7 @@
    "views": 3435,
    "videos": 42,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1883,7 +1883,7 @@
    "views": 954,
    "videos": 5,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1895,7 +1895,7 @@
    "views": 1538,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
   {
@@ -2037,9 +2037,9 @@
    "url": "https://www.youtube.com/@WordAliveDaily-y9l",
    "subscribers": 11,
    "views": 4075,
-   "videos": 38,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 39,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2207,7 +2207,7 @@
    "views": 232,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2651,7 +2651,7 @@
    "views": 3,
    "videos": 1,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
