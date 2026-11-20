@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-20T18:57:45.525Z",
- "data_updated": "2026-11-20T18:57:45.384Z",
+ "generated": "2026-11-20T19:31:24.095Z",
+ "data_updated": "2026-11-20T19:31:23.958Z",
  "upload_log_updated": "2026-11-20 14:46 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542190,
-  "views": 20355479,
-  "videos": 11550,
-  "videos_this_week": 616,
-  "videos_scheduled": 20
+  "views": 20355481,
+  "videos": 11558,
+  "videos_this_week": 623,
+  "videos_scheduled": 12
  },
  "channels": [
   {
@@ -22,7 +22,7 @@
    "subscribers": 389000,
    "views": 16075003,
    "videos": 2189,
-   "videos_this_week": 13,
+   "videos_this_week": 12,
    "scheduled": 0,
    "ministers": ""
   },
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11449,
+   "views": 11451,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -681,9 +681,9 @@
    "url": "https://www.youtube.com/@StillSpeaking-u5h",
    "subscribers": 2,
    "views": 766,
-   "videos": 14,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 15,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -765,9 +765,9 @@
    "url": "https://www.youtube.com/@TheRelationshipRoom-v9b",
    "subscribers": 1,
    "views": 365,
-   "videos": 10,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 11,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1293,9 +1293,9 @@
    "url": "https://www.youtube.com/@KingdomBuilders-d1p",
    "subscribers": 37,
    "views": 9053,
-   "videos": 46,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 47,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1617,9 +1617,9 @@
    "url": "https://www.youtube.com/@TheBelieversDesk",
    "subscribers": 10,
    "views": 2146,
-   "videos": 18,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 19,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2049,9 +2049,9 @@
    "url": "https://www.youtube.com/@KruptosMangh",
    "subscribers": 7,
    "views": 523,
-   "videos": 7,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 8,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2063,7 +2063,7 @@
    "views": 1146,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2793,8 +2793,8 @@
    "url": "https://www.youtube.com/@TheBlessingsOfAbraham",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
+   "videos": 1,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2805,9 +2805,9 @@
    "url": "https://www.youtube.com/@TheChurchMustSendOrItWillEnd",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 1,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2817,9 +2817,9 @@
    "url": "https://www.youtube.com/@WiseAsSerpentsgh",
    "subscribers": 0,
    "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 1,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
