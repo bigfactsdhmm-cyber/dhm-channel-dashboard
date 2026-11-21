@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-21T12:28:40.066Z",
- "data_updated": "2026-11-21T12:28:39.936Z",
+ "generated": "2026-11-21T20:52:48.538Z",
+ "data_updated": "2026-11-21T20:52:48.407Z",
  "upload_log_updated": "2026-11-21 06:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
-  "channels": 277,
+  "channels": 279,
   "youtube_channels": 260,
-  "subscribers": 542181,
-  "views": 20343614,
-  "videos": 11576,
-  "videos_this_week": 637,
-  "videos_scheduled": 59
+  "subscribers": 542190,
+  "views": 20355547,
+  "videos": 11658,
+  "videos_this_week": 641,
+  "videos_scheduled": 0
  },
  "channels": [
   {
@@ -21,7 +21,7 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16075003,
-   "videos": 2190,
+   "videos": 2192,
    "videos_this_week": 12,
    "scheduled": 0,
    "ministers": ""
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47907,
+   "views": 47910,
    "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -272,8 +272,20 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5559,
+   "views": 5562,
    "videos": 131,
+   "videos_this_week": 0,
+   "scheduled": 0,
+   "ministers": ""
+  },
+  {
+   "section": "Alternative Platforms",
+   "platform": "BitChute",
+   "name": "Dag Heward-Mills Iron Sharpeneth Iron",
+   "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
+   "subscribers": 5,
+   "views": 11501,
+   "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -315,6 +327,18 @@
    "ministers": ""
   },
   {
+   "section": "Alternative Platforms",
+   "platform": "BitChute",
+   "name": "Dag Heward-Mills Unquenchable Fire Services",
+   "url": "https://www.bitchute.com/channel/kwaYujwB7XMk/",
+   "subscribers": 4,
+   "views": 426,
+   "videos": 32,
+   "videos_this_week": 0,
+   "scheduled": 0,
+   "ministers": ""
+  },
+  {
    "section": "Fan channels",
    "platform": "YouTube",
    "name": "Daily Bread Word",
@@ -322,7 +346,7 @@
    "subscribers": 31,
    "views": 7934,
    "videos": 45,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -381,9 +405,9 @@
    "url": "https://www.youtube.com/@GlobalSpotlight-r7j",
    "subscribers": 5,
    "views": 2396,
-   "videos": 18,
-   "videos_this_week": 6,
-   "scheduled": 2,
+   "videos": 20,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -429,9 +453,9 @@
    "url": "https://www.youtube.com/@GodMe-p1y",
    "subscribers": 6,
    "views": 2582,
-   "videos": 17,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 19,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -441,9 +465,9 @@
    "url": "https://www.youtube.com/@GraceUnfolding-y5x",
    "subscribers": 20,
    "views": 4527,
-   "videos": 32,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 34,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -453,9 +477,9 @@
    "url": "https://www.youtube.com/@ImpactWorld-o1f",
    "subscribers": 1,
    "views": 1936,
-   "videos": 14,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 16,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -465,9 +489,9 @@
    "url": "https://www.youtube.com/@KingdomFocus-r5o",
    "subscribers": 5,
    "views": 759,
-   "videos": 12,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 14,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -477,9 +501,9 @@
    "url": "https://www.youtube.com/@KingdomMinded-h4d",
    "subscribers": 61,
    "views": 33065,
-   "videos": 42,
-   "videos_this_week": 4,
-   "scheduled": 1,
+   "videos": 44,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -489,9 +513,9 @@
    "url": "https://www.youtube.com/@KingdomPulse-j3w",
    "subscribers": 2,
    "views": 964,
-   "videos": 18,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 20,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -501,9 +525,9 @@
    "url": "https://www.youtube.com/@KingdomSpotlight-j4n",
    "subscribers": 2,
    "views": 848,
-   "videos": 14,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 16,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -513,9 +537,9 @@
    "url": "https://www.youtube.com/@KruptosChannel",
    "subscribers": 305,
    "views": 70130,
-   "videos": 19,
-   "videos_this_week": 5,
-   "scheduled": 2,
+   "videos": 21,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -609,9 +633,9 @@
    "url": "https://www.youtube.com/@PulseNation-j9j",
    "subscribers": 19,
    "views": 5433,
-   "videos": 17,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 19,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
   {
@@ -645,9 +669,9 @@
    "url": "https://www.youtube.com/@SaintandStories",
    "subscribers": 22,
    "views": 10696,
-   "videos": 11,
-   "videos_this_week": 3,
-   "scheduled": 2,
+   "videos": 13,
+   "videos_this_week": 5,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -657,9 +681,9 @@
    "url": "https://www.youtube.com/@StillSpeaking-u5h",
    "subscribers": 2,
    "views": 766,
-   "videos": 15,
-   "videos_this_week": 4,
-   "scheduled": 1,
+   "videos": 16,
+   "videos_this_week": 5,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -669,9 +693,9 @@
    "url": "https://www.youtube.com/@TheDailyWave-s3x",
    "subscribers": 13,
    "views": 2671,
-   "videos": 19,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 21,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": "Grace Lubega + Robert Kayanja (East Africa — revival, healing, devotion)"
   },
   {
@@ -730,7 +754,7 @@
    "subscribers": 9,
    "views": 2601,
    "videos": 34,
-   "videos_this_week": 2,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -765,8 +789,8 @@
    "url": "https://www.youtube.com/@TrendSphere-b3r",
    "subscribers": 31,
    "views": 13653,
-   "videos": 7,
-   "videos_this_week": 1,
+   "videos": 8,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": "Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)"
   },
@@ -777,9 +801,9 @@
    "url": "https://www.youtube.com/@UnseenThings321",
    "subscribers": 9,
    "views": 2049,
-   "videos": 16,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 18,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -801,9 +825,9 @@
    "url": "https://www.youtube.com/@VoiceoftheCross-q2j",
    "subscribers": 20,
    "views": 7042,
-   "videos": 49,
+   "videos": 51,
    "videos_this_week": 6,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -825,9 +849,9 @@
    "url": "https://www.youtube.com/@WhyAreYouNotAMissionary",
    "subscribers": 4,
    "views": 656,
-   "videos": 7,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 8,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -837,9 +861,9 @@
    "url": "https://www.youtube.com/@youmustbeaWitness",
    "subscribers": 92,
    "views": 22155,
-   "videos": 11,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 13,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -849,7 +873,7 @@
    "url": "https://www.youtube.com/@WordSignsWonders",
    "subscribers": 1070,
    "views": 3315,
-   "videos": 50,
+   "videos": 51,
    "videos_this_week": 9,
    "scheduled": 0,
    "ministers": ""
@@ -873,8 +897,8 @@
    "url": "https://www.youtube.com/@AVoiceintheCrowd123",
    "subscribers": 24,
    "views": 6439,
-   "videos": 18,
-   "videos_this_week": 2,
+   "videos": 20,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -994,7 +1018,7 @@
    "subscribers": 19,
    "views": 6597,
    "videos": 45,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1018,7 +1042,7 @@
    "subscribers": 23,
    "views": 8008,
    "videos": 39,
-   "videos_this_week": 8,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1029,7 +1053,7 @@
    "url": "https://www.youtube.com/@EaglesRising-c6g",
    "subscribers": 41,
    "views": 26252,
-   "videos": 43,
+   "videos": 45,
    "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
@@ -1053,9 +1077,9 @@
    "url": "https://www.youtube.com/@FaithAfterMidnight-j7w",
    "subscribers": 3,
    "views": 987,
-   "videos": 9,
-   "videos_this_week": 1,
-   "scheduled": 2,
+   "videos": 11,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1065,9 +1089,9 @@
    "url": "https://www.youtube.com/@FaithImpactTV-o3i",
    "subscribers": 2,
    "views": 403,
-   "videos": 10,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1077,9 +1101,9 @@
    "url": "https://www.youtube.com/@FaithNetwork-q3b",
    "subscribers": 2,
    "views": 815,
-   "videos": 11,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 13,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1126,7 +1150,7 @@
    "subscribers": 12,
    "views": 5521,
    "videos": 36,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1162,7 +1186,7 @@
    "subscribers": 20,
    "views": 5727,
    "videos": 42,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1198,7 +1222,7 @@
    "subscribers": 2,
    "views": 1041,
    "videos": 27,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1209,9 +1233,9 @@
    "url": "https://www.youtube.com/@HiddenManna-j4h",
    "subscribers": 6,
    "views": 3291,
-   "videos": 47,
+   "videos": 49,
    "videos_this_week": 10,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1234,7 +1258,7 @@
    "subscribers": 3,
    "views": 3175,
    "videos": 33,
-   "videos_this_week": 9,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1281,9 +1305,9 @@
    "url": "https://www.youtube.com/@KingdomNotes-u8w",
    "subscribers": 7,
    "views": 988,
-   "videos": 22,
-   "videos_this_week": 4,
-   "scheduled": 1,
+   "videos": 24,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1293,9 +1317,9 @@
    "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
    "subscribers": 0,
    "views": 172,
-   "videos": 10,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1330,7 +1354,7 @@
    "subscribers": 5,
    "views": 2516,
    "videos": 46,
-   "videos_this_week": 7,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1342,7 +1366,7 @@
    "subscribers": 175,
    "views": 56892,
    "videos": 33,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1401,9 +1425,9 @@
    "url": "https://www.youtube.com/@PathwayofLight-o5k",
    "subscribers": 15,
    "views": 3194,
-   "videos": 36,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 38,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1450,7 +1474,7 @@
    "subscribers": 3,
    "views": 1991,
    "videos": 45,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1461,9 +1485,9 @@
    "url": "https://www.youtube.com/@RockofAgesTV-l5s",
    "subscribers": 54,
    "views": 14554,
-   "videos": 42,
+   "videos": 44,
    "videos_this_week": 6,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1473,9 +1497,9 @@
    "url": "https://www.youtube.com/@RootedinChrist-i8x",
    "subscribers": 57,
    "views": 27436,
-   "videos": 46,
+   "videos": 48,
    "videos_this_week": 8,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1485,9 +1509,9 @@
    "url": "https://www.youtube.com/@SaintsinTraining-x1p",
    "subscribers": 12,
    "views": 3207,
-   "videos": 37,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 39,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1522,7 +1546,7 @@
    "subscribers": 11,
    "views": 2085,
    "videos": 42,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1534,7 +1558,7 @@
    "subscribers": 11,
    "views": 4683,
    "videos": 42,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1546,7 +1570,7 @@
    "subscribers": 3,
    "views": 341,
    "videos": 27,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1582,7 +1606,7 @@
    "subscribers": 8,
    "views": 1515,
    "videos": 27,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1593,9 +1617,9 @@
    "url": "https://www.youtube.com/@TheBelieversDesk",
    "subscribers": 10,
    "views": 2146,
-   "videos": 19,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 21,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1618,7 +1642,7 @@
    "subscribers": 5,
    "views": 3516,
    "videos": 36,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1641,9 +1665,9 @@
    "url": "https://www.youtube.com/@TheFaithWalk-p5z",
    "subscribers": 31,
    "views": 5664,
-   "videos": 42,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 44,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1666,7 +1690,7 @@
    "subscribers": 16,
    "views": 5094,
    "videos": 36,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1678,7 +1702,7 @@
    "subscribers": 52,
    "views": 17034,
    "videos": 38,
-   "videos_this_week": 2,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1701,9 +1725,9 @@
    "url": "https://www.youtube.com/@TheNarrowWay-j1w",
    "subscribers": 38,
    "views": 6495,
-   "videos": 42,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 43,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1713,9 +1737,9 @@
    "url": "https://www.youtube.com/@ThePilgrimRadio",
    "subscribers": 1,
    "views": 1079,
-   "videos": 15,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 17,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1761,9 +1785,9 @@
    "url": "https://www.youtube.com/@TheRemnantVoice-f7y",
    "subscribers": 12,
    "views": 3435,
-   "videos": 42,
-   "videos_this_week": 6,
-   "scheduled": 2,
+   "videos": 44,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1810,7 +1834,7 @@
    "subscribers": 10,
    "views": 3505,
    "videos": 37,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1822,7 +1846,7 @@
    "subscribers": 7,
    "views": 2307,
    "videos": 45,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1857,8 +1881,8 @@
    "url": "https://www.youtube.com/@VictoryVoice-p1r",
    "subscribers": 1,
    "views": 954,
-   "videos": 5,
-   "videos_this_week": 0,
+   "videos": 7,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1869,8 +1893,8 @@
    "url": "https://www.youtube.com/@ViralHorizon-j9f",
    "subscribers": 9,
    "views": 1538,
-   "videos": 10,
-   "videos_this_week": 2,
+   "videos": 12,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
@@ -1894,7 +1918,7 @@
    "subscribers": 0,
    "views": 561,
    "videos": 34,
-   "videos_this_week": 4,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1906,7 +1930,7 @@
    "subscribers": 7,
    "views": 3757,
    "videos": 35,
-   "videos_this_week": 6,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2014,7 +2038,7 @@
    "subscribers": 11,
    "views": 4075,
    "videos": 39,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2181,9 +2205,9 @@
    "url": "https://www.youtube.com/@CharisTV_",
    "subscribers": 10,
    "views": 232,
-   "videos": 10,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2206,7 +2230,7 @@
    "subscribers": 40,
    "views": 35285,
    "videos": 28,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2230,7 +2254,7 @@
    "subscribers": 1,
    "views": 234,
    "videos": 21,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2242,7 +2266,7 @@
    "subscribers": 1,
    "views": 1886,
    "videos": 23,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2278,7 +2302,7 @@
    "subscribers": 3,
    "views": 124,
    "videos": 13,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2290,7 +2314,7 @@
    "subscribers": 1,
    "views": 634,
    "videos": 24,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2302,7 +2326,7 @@
    "subscribers": 0,
    "views": 63,
    "videos": 14,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2314,7 +2338,7 @@
    "subscribers": 0,
    "views": 201,
    "videos": 8,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2338,7 +2362,7 @@
    "subscribers": 0,
    "views": 92,
    "videos": 7,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2350,7 +2374,7 @@
    "subscribers": 0,
    "views": 59,
    "videos": 5,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2362,7 +2386,7 @@
    "subscribers": 6,
    "views": 2019,
    "videos": 29,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2374,7 +2398,7 @@
    "subscribers": 2,
    "views": 451,
    "videos": 25,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2386,7 +2410,7 @@
    "subscribers": 1,
    "views": 161,
    "videos": 14,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2410,7 +2434,7 @@
    "subscribers": 1,
    "views": 281,
    "videos": 23,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2422,7 +2446,7 @@
    "subscribers": 0,
    "views": 46,
    "videos": 15,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2625,9 +2649,9 @@
    "url": "https://www.youtube.com/@ObedienceUntoDeath",
    "subscribers": 0,
    "views": 3,
-   "videos": 1,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 2,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -3249,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 119,
-   "videos": 43,
+   "videos": 49,
    "videos_this_week": 42,
    "scheduled": 0,
    "ministers": ""
@@ -3322,7 +3346,7 @@
    "subscribers": 41,
    "views": 1775,
    "videos": 28,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },

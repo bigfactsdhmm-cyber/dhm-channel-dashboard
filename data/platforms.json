@@ -79,7 +79,7 @@
   "platform": "Rumble",
   "url": "https://rumble.com/c/c-6260523",
   "videos": 127,
-  "views": 47907,
+  "views": 47910,
   "latest": "2026-11-11",
   "name": "Dag Heward-Mills Conventions",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/R/C/4/x/RC4xa.baa-DagHewardMillsConventions-sdk0es.jpeg",
@@ -142,9 +142,20 @@
   "icon": "https://static-3.bitchute.com/live/channel_images/Mg7id7fz3eCF/0CUPwgjbJrBaT2i0wDeEI4eW_large.jpg",
   "followers": 5,
   "videos": 131,
-  "views": 5559,
+  "views": 5562,
   "week": 0,
   "latest": "2025-11-12"
+ },
+ {
+  "platform": "BitChute",
+  "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
+  "name": "Dag Heward-Mills Iron Sharpeneth Iron",
+  "icon": "https://static-3.bitchute.com/live/channel_images/4MgIaXadefNI/ZKwHUxHAVa1WXIE6ydEmdNXl_large.jpg",
+  "followers": 5,
+  "videos": 142,
+  "views": 11501,
+  "week": 0,
+  "latest": "2024-07-03"
  },
  {
   "platform": "BitChute",
@@ -178,5 +189,16 @@
   "views": 240,
   "week": 0,
   "latest": "2024-06-12"
+ },
+ {
+  "platform": "BitChute",
+  "url": "https://www.bitchute.com/channel/kwaYujwB7XMk/",
+  "name": "Dag Heward-Mills Unquenchable Fire Services",
+  "icon": "https://static-3.bitchute.com/live/channel_images/kwaYujwB7XMk/qgyjIBDToylbdJrx8NoKJ2ll_large.jpg",
+  "followers": 4,
+  "videos": 32,
+  "views": 426,
+  "week": 0,
+  "latest": "2024-06-13"
  }
 ]
