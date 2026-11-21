@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-21T03:13:20.545Z",
- "data_updated": "2026-11-21T03:13:20.400Z",
- "upload_log_updated": "2026-11-20 14:46 Accra",
+ "generated": "2026-11-21T12:28:40.066Z",
+ "data_updated": "2026-11-21T12:28:39.936Z",
+ "upload_log_updated": "2026-11-21 06:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
-  "channels": 279,
+  "channels": 277,
   "youtube_channels": 260,
-  "subscribers": 542190,
-  "views": 20355509,
-  "videos": 11572,
+  "subscribers": 542181,
+  "views": 20343614,
+  "videos": 11576,
   "videos_this_week": 637,
-  "videos_scheduled": 76
+  "videos_scheduled": 59
  },
  "channels": [
   {
@@ -21,7 +21,7 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16075003,
-   "videos": 2189,
+   "videos": 2190,
    "videos_this_week": 12,
    "scheduled": 0,
    "ministers": ""
@@ -224,7 +224,7 @@
    "name": "Dag Heward-Mills Tuesday Services",
    "url": "https://rumble.com/c/daghewardmillstuesdayservices",
    "subscribers": 253,
-   "views": 3326,
+   "views": 3327,
    "videos": 125,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -281,18 +281,6 @@
   {
    "section": "Alternative Platforms",
    "platform": "BitChute",
-   "name": "Dag Heward-Mills Iron Sharpeneth Iron",
-   "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
-   "subscribers": 5,
-   "views": 11470,
-   "videos": 142,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
    "name": "Dag Heward-Mills Miracle Wave Conventions",
    "url": "https://www.bitchute.com/channel/11UXeAys0iQY/",
    "subscribers": 5,
@@ -322,18 +310,6 @@
    "subscribers": 5,
    "views": 240,
    "videos": 10,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Unquenchable Fire Services",
-   "url": "https://www.bitchute.com/channel/kwaYujwB7XMk/",
-   "subscribers": 4,
-   "views": 426,
-   "videos": 32,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -467,7 +443,7 @@
    "views": 4527,
    "videos": 32,
    "videos_this_week": 6,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -503,7 +479,7 @@
    "views": 33065,
    "videos": 42,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -789,9 +765,9 @@
    "url": "https://www.youtube.com/@TrendSphere-b3r",
    "subscribers": 31,
    "views": 13653,
-   "videos": 6,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 7,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": "Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)"
   },
   {
@@ -873,9 +849,9 @@
    "url": "https://www.youtube.com/@WordSignsWonders",
    "subscribers": 1070,
    "views": 3315,
-   "videos": 49,
-   "videos_this_week": 8,
-   "scheduled": 2,
+   "videos": 50,
+   "videos_this_week": 9,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -899,7 +875,7 @@
    "views": 6439,
    "videos": 18,
    "videos_this_week": 2,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1055,7 +1031,7 @@
    "views": 26252,
    "videos": 43,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1307,7 +1283,7 @@
    "views": 988,
    "videos": 22,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1366,7 +1342,7 @@
    "subscribers": 175,
    "views": 56892,
    "videos": 33,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1427,7 +1403,7 @@
    "views": 3194,
    "videos": 36,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1487,7 +1463,7 @@
    "views": 14554,
    "videos": 42,
    "videos_this_week": 6,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1834,7 +1810,7 @@
    "subscribers": 10,
    "views": 3505,
    "videos": 37,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1883,7 +1859,7 @@
    "views": 954,
    "videos": 5,
    "videos_this_week": 0,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1895,7 +1871,7 @@
    "views": 1538,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 2,
+   "scheduled": 0,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
   {
@@ -2469,7 +2445,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 49,
-   "videos": 48,
+   "videos": 49,
    "videos_this_week": 32,
    "scheduled": 0,
    "ministers": ""

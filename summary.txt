@@ -1,21 +1,21 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-21T03:13:20.545Z   Numbers refreshed: 2026-11-21T03:13:20.400Z   Upload log: 2026-11-20 14:46 Accra
+Generated: 2026-11-21T12:28:40.066Z   Numbers refreshed: 2026-11-21T12:28:39.936Z   Upload log: 2026-11-21 06:52 Accra
 
 TOTALS
-  Channels tracked: 279 (260 on YouTube)
-  Subscribers/followers: 542,190
-  Views: 20,355,509
-  Videos on YouTube: 11,572
+  Channels tracked: 277 (260 on YouTube)
+  Subscribers/followers: 542,181
+  Views: 20,343,614
+  Videos on YouTube: 11,576
   Videos posted in the last 7 days: 637
-  Videos scheduled (go-live time still ahead): 76
+  Videos scheduled (go-live time still ahead): 59
 
 SECTIONS
   Official YouTube channels: 8 channels, 487,950 subscribers, 18,687,352 views, 12 videos this week
-  Alternative Platforms: 19 channels, 2,302 subscribers, 88,389 views, 0 videos this week
+  Alternative Platforms: 17 channels, 2,293 subscribers, 76,494 views, 0 videos this week
   Fan channels: 144 channels, 48,719 subscribers, 1,447,685 views, 360 videos this week
-  Men of God channels: 12 channels, 116 subscribers, 35,228 views, 19 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,487 views, 97 videos this week
+  Men of God channels: 12 channels, 116 subscribers, 35,228 views, 20 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,487 views, 96 videos this week
   Camps channels: 40 channels, 25 subscribers, 2,995 views, 52 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 168 views, 74 videos this week
   Christian Gist channels: 13 channels, 54 subscribers, 40,205 views, 23 videos this week
@@ -50,9 +50,9 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   2. Lovely Diamond Camps (Lovely Diamond channels): 32
   3. Dag Heward-Mills (Official YouTube channels): 12
   4. Hidden Manna (FLOW Prayer Meeting channels): 10
-  5. Holy Ground Moments (FLOW Prayer Meeting channels): 9
-  6. Faith Foundations (Fan channels): 8
-  7. Word Signs Wonders (Fan channels): 8
+  5. Word Signs Wonders (Fan channels): 9
+  6. Holy Ground Moments (FLOW Prayer Meeting channels): 9
+  7. Faith Foundations (Fan channels): 8
   8. Doers of the Word (Fan channels): 8
   9. Kingdom Builders (Fan channels): 8
   10. Rooted in Christ (Fan channels): 8
