@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-22T09:54:54.689Z",
- "data_updated": "2026-11-22T09:54:54.553Z",
+ "generated": "2026-11-22T10:29:12.996Z",
+ "data_updated": "2026-11-22T10:29:12.874Z",
  "upload_log_updated": "2026-11-22 08:15 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542434,
   "views": 20419734,
-  "videos": 11670,
-  "videos_this_week": 631,
-  "videos_scheduled": 85
+  "videos": 11677,
+  "videos_this_week": 627,
+  "videos_scheduled": 82
  },
  "channels": [
   {
@@ -382,7 +382,7 @@
    "subscribers": 31,
    "views": 7925,
    "videos": 48,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -393,9 +393,9 @@
    "url": "https://www.youtube.com/@FirePowerNetwork",
    "subscribers": 1280,
    "views": 8548,
-   "videos": 53,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 54,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1234,7 +1234,7 @@
    "subscribers": 6,
    "views": 3705,
    "videos": 49,
-   "videos_this_week": 10,
+   "videos_this_week": 9,
    "scheduled": 2,
    "ministers": ""
   },
@@ -1305,9 +1305,9 @@
    "url": "https://www.youtube.com/@KingdomNotes-u8w",
    "subscribers": 7,
    "views": 990,
-   "videos": 25,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 26,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2109,9 +2109,9 @@
    "url": "https://www.youtube.com/@TheArtOfMinistry",
    "subscribers": 1270,
    "views": 11076,
-   "videos": 140,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 141,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2266,7 +2266,7 @@
    "subscribers": 1,
    "views": 1917,
    "videos": 23,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2278,7 +2278,7 @@
    "subscribers": 1,
    "views": 375,
    "videos": 24,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2314,7 +2314,7 @@
    "subscribers": 1,
    "views": 645,
    "videos": 24,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2422,7 +2422,7 @@
    "subscribers": 0,
    "views": 59,
    "videos": 14,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2434,7 +2434,7 @@
    "subscribers": 1,
    "views": 296,
    "videos": 23,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 54,
-   "videos": 52,
+   "videos": 56,
    "videos_this_week": 29,
    "scheduled": 0,
    "ministers": ""

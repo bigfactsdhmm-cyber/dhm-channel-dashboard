@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-22T09:54:54.553Z";
+window.UPDATED = "2026-11-22T10:29:12.874Z";
 window.LOG_UPDATED = "2026-11-22 08:15 Accra";
 window.CHANNELS = [
  {
@@ -110,7 +110,7 @@ window.CHANNELS = [
   "videos": 48,
   "views": 7925,
   "subs": 31,
-  "week": 7,
+  "week": 6,
   "added": 3,
   "scheduled": [
    "28 Sep 18:30",
@@ -149,10 +149,10 @@ window.CHANNELS = [
   "name": "Fire Power Network",
   "url": "https://www.youtube.com/@FirePowerNetwork",
   "icon": "https://yt3.googleusercontent.com/y1pEd3irz49tqsOLbzghI53SwxUGPT-lASs00Y2-T9y3zNyvIlsk6gsIJsIyfpWOeVE11E74mA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 53,
+  "videos": 54,
   "views": 8548,
   "subs": 1280,
-  "week": 2,
+  "week": 3,
   "added": 4,
   "scheduled": [
    "28 Sep 18:50",
@@ -2086,7 +2086,7 @@ window.CHANNELS = [
   "videos": 49,
   "views": 3705,
   "subs": 6,
-  "week": 10,
+  "week": 9,
   "added": 74,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -2286,10 +2286,10 @@ window.CHANNELS = [
   "name": "Kingdom Notes",
   "url": "https://www.youtube.com/@KingdomNotes-u8w",
   "icon": "https://yt3.googleusercontent.com/hWPD-MgS-EnwqKt1rvQgdeCoblgn_4GK_SS0jRjdD_SqAIf4JSjcxQkO-IXBau3aps5INf5Gsg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 25,
+  "videos": 26,
   "views": 990,
   "subs": 7,
-  "week": 7,
+  "week": 8,
   "added": 80,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -4367,10 +4367,10 @@ window.CHANNELS = [
   "name": "The Art Of Ministry",
   "url": "https://www.youtube.com/@TheArtOfMinistry",
   "icon": "https://yt3.googleusercontent.com/QHmppk25RXS4V-xvQsCBfRniw3A6bQEjNeoxaITNv2s0L94zDcH9f4GlqILfXLm1O4isHYUWvw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 140,
+  "videos": 141,
   "views": 11076,
   "subs": 1270,
-  "week": 0,
+  "week": 1,
   "added": 147,
   "scheduled": [
    "17 Oct 18:30",
@@ -4670,7 +4670,7 @@ window.CHANNELS = [
   "videos": 23,
   "views": 1917,
   "subs": 1,
-  "week": 2,
+  "week": 1,
   "added": 160,
   "scheduled": [
    "9 Nov 12:00",
@@ -4690,7 +4690,7 @@ window.CHANNELS = [
   "videos": 24,
   "views": 375,
   "subs": 1,
-  "week": 2,
+  "week": 1,
   "added": 161,
   "scheduled": [
    "9 Nov 12:00",
@@ -4752,7 +4752,7 @@ window.CHANNELS = [
   "videos": 24,
   "views": 645,
   "subs": 1,
-  "week": 1,
+  "week": 0,
   "added": 164,
   "scheduled": [
    "9 Nov 18:00",
@@ -4932,7 +4932,7 @@ window.CHANNELS = [
   "videos": 14,
   "views": 59,
   "subs": 0,
-  "week": 2,
+  "week": 1,
   "added": 173,
   "scheduled": [
    "12 Nov 12:00",
@@ -4952,7 +4952,7 @@ window.CHANNELS = [
   "videos": 23,
   "views": 296,
   "subs": 1,
-  "week": 2,
+  "week": 1,
   "added": 174,
   "scheduled": [
    "12 Nov 12:00",
@@ -5005,7 +5005,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 52,
+  "videos": 56,
   "views": 54,
   "subs": 1,
   "week": 29,

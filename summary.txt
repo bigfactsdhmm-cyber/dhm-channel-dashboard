@@ -1,24 +1,24 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-22T09:54:54.689Z   Numbers refreshed: 2026-11-22T09:54:54.553Z   Upload log: 2026-11-22 08:15 Accra
+Generated: 2026-11-22T10:29:12.996Z   Numbers refreshed: 2026-11-22T10:29:12.874Z   Upload log: 2026-11-22 08:15 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,434
   Views: 20,419,734
-  Videos on YouTube: 11,670
-  Videos posted in the last 7 days: 631
-  Videos scheduled (go-live time still ahead): 85
+  Videos on YouTube: 11,677
+  Videos posted in the last 7 days: 627
+  Videos scheduled (go-live time still ahead): 82
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,130 subscribers, 18,723,905 views, 12 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,438 views, 1 videos this week
-  Fan channels: 144 channels, 48,778 subscribers, 1,471,784 views, 387 videos this week
+  Fan channels: 144 channels, 48,778 subscribers, 1,471,784 views, 386 videos this week
   Men of God channels: 12 channels, 119 subscribers, 36,384 views, 29 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,021 subscribers, 54,266 views, 68 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,021 subscribers, 54,266 views, 67 videos this week
   Camps channels: 40 channels, 26 subscribers, 4,454 views, 54 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 187 views, 65 videos this week
-  Christian Gist channels: 13 channels, 54 subscribers, 40,316 views, 15 videos this week
+  Christian Gist channels: 13 channels, 54 subscribers, 40,316 views, 13 videos this week
   People channels: 14 channels, 0 subscribers, 0 views, 0 videos this week
 
 TOP 10 BY SUBSCRIBERS
@@ -49,13 +49,13 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   1. Lovely Diamond (Lovely Diamond channels): 36
   2. Lovely Diamond Camps (Lovely Diamond channels): 29
   3. Dag Heward-Mills (Official YouTube channels): 12
-  4. Hidden Manna (FLOW Prayer Meeting channels): 10
+  4. Hidden Manna (FLOW Prayer Meeting channels): 9
   5. Fresh Impact TV (Fan channels): 8
   6. Grace Unfolding (Fan channels): 8
   7. Kingdom Spotlight (Fan channels): 8
   8. Word Signs Wonders (Fan channels): 8
   9. Kingdom Builders (Fan channels): 8
-  10. Rooted in Christ (Fan channels): 8
+  10. Kingdom Notes (Fan channels): 8
 
 MEN OF GOD CHANNELS
   Next Wave TV: Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)
