@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-22T17:55:49.267Z",
- "data_updated": "2026-11-22T17:55:49.136Z",
+ "generated": "2026-11-22T18:33:44.852Z",
+ "data_updated": "2026-11-22T18:33:44.728Z",
  "upload_log_updated": "2026-11-22 10:58 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
-  "channels": 279,
+  "channels": 271,
   "youtube_channels": 260,
-  "subscribers": 542434,
-  "views": 20419737,
-  "videos": 11743,
+  "subscribers": 542083,
+  "views": 20391487,
+  "videos": 11748,
   "videos_this_week": 651,
-  "videos_scheduled": 18
+  "videos_scheduled": 12
  },
  "channels": [
   {
@@ -236,104 +236,8 @@
    "name": "Dag Heward-Mills Korle Gonno",
    "url": "https://rumble.com/c/c-6264812",
    "subscribers": 238,
-   "views": 4215,
-   "videos": 273,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Wisdom Impartation Services",
-   "url": "https://rumble.com/c/c-6257904",
-   "subscribers": 253,
-   "views": 2509,
-   "videos": 29,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Love First Church Services",
-   "url": "https://rumble.com/c/c-7805020",
-   "subscribers": 69,
-   "views": 1204,
-   "videos": 18,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Qodesh",
-   "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
-   "subscribers": 5,
-   "views": 5566,
-   "videos": 131,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Iron Sharpeneth Iron",
-   "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
-   "subscribers": 5,
-   "views": 11505,
-   "videos": 142,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Miracle Wave Conventions",
-   "url": "https://www.bitchute.com/channel/11UXeAys0iQY/",
-   "subscribers": 5,
-   "views": 5152,
-   "videos": 19,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Overcomers Services",
-   "url": "https://www.bitchute.com/channel/0PiH10KPVZix/",
-   "subscribers": 5,
-   "views": 183,
-   "videos": 11,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Leaders Services",
-   "url": "https://www.bitchute.com/channel/zVljk4VmyC9q/",
-   "subscribers": 5,
-   "views": 241,
-   "videos": 10,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Unquenchable Fire Services",
-   "url": "https://www.bitchute.com/channel/kwaYujwB7XMk/",
-   "subscribers": 4,
-   "views": 427,
-   "videos": 32,
+   "views": 2752,
+   "videos": 72,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -635,7 +539,7 @@
    "views": 5933,
    "videos": 19,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
   {
@@ -777,9 +681,9 @@
    "url": "https://www.youtube.com/@TheWatchmanDesk",
    "subscribers": 29,
    "views": 1802,
-   "videos": 16,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 17,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -815,7 +719,7 @@
    "views": 2308,
    "videos": 25,
    "videos_this_week": 3,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": "David Oyedepo + Oyedepo Jr (faith, prosperity, kingdom advancement)"
   },
   {
@@ -909,8 +813,8 @@
    "url": "https://www.youtube.com/@AftertheService-h7h",
    "subscribers": 1,
    "views": 1317,
-   "videos": 14,
-   "videos_this_week": 7,
+   "videos": 15,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1354,7 +1258,7 @@
    "subscribers": 5,
    "views": 2522,
    "videos": 46,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1629,9 +1533,9 @@
    "url": "https://www.youtube.com/@TheBelieversWalk",
    "subscribers": 16,
    "views": 6219,
-   "videos": 46,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 47,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1750,7 +1654,7 @@
    "subscribers": 15,
    "views": 5339,
    "videos": 35,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1761,9 +1665,9 @@
    "url": "https://www.youtube.com/@ThePrayerCorner-w4v",
    "subscribers": 87,
    "views": 21120,
-   "videos": 17,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 18,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1785,9 +1689,9 @@
    "url": "https://www.youtube.com/@TheRemnantVoice-f7y",
    "subscribers": 12,
    "views": 3462,
-   "videos": 44,
+   "videos": 45,
    "videos_this_week": 7,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2242,7 +2146,7 @@
    "subscribers": 0,
    "views": 416,
    "videos": 22,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2374,7 +2278,7 @@
    "subscribers": 0,
    "views": 59,
    "videos": 5,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
