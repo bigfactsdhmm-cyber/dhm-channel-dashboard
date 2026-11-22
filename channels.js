@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-22T21:11:58.071Z";
+window.UPDATED = "2026-11-22T21:45:33.090Z";
 window.LOG_UPDATED = "2026-11-22 18:58 Accra";
 window.CHANNELS = [
  {
@@ -653,10 +653,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@PulseNation-j9j",
   "icon": "https://yt3.googleusercontent.com/xgPSXoG2n0m84COzDYQe5ubQ6f3HDrrQSBf8mDcRSaHXecff9SQ1bEpbM_rbxQjS8M81ao_f=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 20,
+  "videos": 21,
   "views": 5933,
   "subs": 21,
-  "week": 5,
+  "week": 6,
   "added": 24,
   "scheduled": [
    "29 Sep 17:30",
@@ -2704,7 +2704,7 @@ window.CHANNELS = [
   "videos": 45,
   "views": 1993,
   "subs": 3,
-  "week": 3,
+  "week": 2,
   "added": 94,
   "scheduled": [
    "5 Nov 00:32, Short 5 Nov 00:57",
@@ -2911,7 +2911,7 @@ window.CHANNELS = [
   "videos": 42,
   "views": 2107,
   "subs": 11,
-  "week": 1,
+  "week": 0,
   "added": 100,
   "scheduled": [
    "30 Oct 07:16, Short 30 Oct 07:17",
@@ -3713,7 +3713,7 @@ window.CHANNELS = [
   "videos": 37,
   "views": 3507,
   "subs": 10,
-  "week": 1,
+  "week": 0,
   "added": 124,
   "scheduled": [
    "6 Nov 21:38, Short 6 Nov 21:41",

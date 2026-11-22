@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-22T21:11:58.200Z",
- "data_updated": "2026-11-22T21:11:58.071Z",
+ "generated": "2026-11-22T21:45:33.213Z",
+ "data_updated": "2026-11-22T21:45:33.090Z",
  "upload_log_updated": "2026-11-22 18:58 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542434,
   "views": 20419739,
-  "videos": 11762,
-  "videos_this_week": 656,
-  "videos_scheduled": 2
+  "videos": 11763,
+  "videos_this_week": 654,
+  "videos_scheduled": 1
  },
  "channels": [
   {
@@ -633,9 +633,9 @@
    "url": "https://www.youtube.com/@PulseNation-j9j",
    "subscribers": 21,
    "views": 5933,
-   "videos": 20,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 21,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
   {
@@ -1474,7 +1474,7 @@
    "subscribers": 3,
    "views": 1993,
    "videos": 45,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1546,7 +1546,7 @@
    "subscribers": 11,
    "views": 2107,
    "videos": 42,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1834,7 +1834,7 @@
    "subscribers": 10,
    "views": 3507,
    "videos": 37,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
