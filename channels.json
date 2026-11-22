@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-22T10:29:12.996Z",
- "data_updated": "2026-11-22T10:29:12.874Z",
- "upload_log_updated": "2026-11-22 08:15 Accra",
+ "generated": "2026-11-22T11:03:03.883Z",
+ "data_updated": "2026-11-22T11:03:03.742Z",
+ "upload_log_updated": "2026-11-22 10:58 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542434,
-  "views": 20419734,
-  "videos": 11677,
-  "videos_this_week": 627,
-  "videos_scheduled": 82
+  "views": 20419735,
+  "videos": 11679,
+  "videos_this_week": 626,
+  "videos_scheduled": 80
  },
  "channels": [
   {
@@ -272,7 +272,7 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5565,
+   "views": 5566,
    "videos": 131,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -1030,7 +1030,7 @@
    "subscribers": 16,
    "views": 3095,
    "videos": 43,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1114,7 +1114,7 @@
    "subscribers": 8,
    "views": 4859,
    "videos": 40,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 1,
    "ministers": ""
   },
@@ -2015,7 +2015,7 @@
    "views": 6604,
    "videos": 85,
    "videos_this_week": 0,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2085,9 +2085,9 @@
    "url": "https://www.youtube.com/@HolyHill100",
    "subscribers": 1160,
    "views": 8847,
-   "videos": 135,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 136,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 54,
-   "videos": 56,
+   "videos": 57,
    "videos_this_week": 29,
    "scheduled": 0,
    "ministers": ""
