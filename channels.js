@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-21T21:26:39.768Z";
-window.LOG_UPDATED = "2026-11-21 06:52 Accra";
+window.UPDATED = "2026-11-22T01:31:35.785Z";
+window.LOG_UPDATED = "2026-11-22 01:09 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -163,6 +163,7 @@ window.CHANNELS = [
    "5 Oct 18:50",
    "4 Oct 18:50, Short 4 Oct 12:50",
    "18 Nov 14:20, Short 18 Nov 17:20",
+   "22 Nov 10:00, Short 22 Nov 13:00",
    "Short 19 Oct 13:40",
    "Short 14 Oct 12:50",
    "Short 6 Oct 12:50",
@@ -410,6 +411,7 @@ window.CHANNELS = [
    "15 Nov 13:00, Short 15 Nov 16:00",
    "18 Nov 09:00, Short 18 Nov 12:00",
    "21 Nov 10:31, Short 21 Nov 13:31",
+   "22 Nov 07:30",
    "Short 18 Oct 13:00",
    "Short 11 Oct 12:40",
    "Short 8 Oct 12:40",
@@ -441,6 +443,7 @@ window.CHANNELS = [
    "17 Nov 13:30, Short 17 Nov 16:30",
    "18 Nov 17:30, Short 18 Nov 20:30",
    "21 Nov 14:40, Short 21 Nov 17:40",
+   "22 Nov 08:00",
    "Short 19 Oct 14:04",
    "Short 14 Oct 12:45",
    "Short 6 Oct 12:45",
@@ -466,6 +469,7 @@ window.CHANNELS = [
    "17 Nov 13:40, Short 17 Nov 16:40",
    "18 Nov 18:00, Short 18 Nov 21:00",
    "21 Nov 14:50, Short 21 Nov 17:50",
+   "22 Nov 06:00, Short 22 Nov 09:00",
    "Short 19 Oct 14:12",
    "Short 14 Oct 12:55"
   ]
@@ -1193,7 +1197,7 @@ window.CHANNELS = [
   "videos": 51,
   "views": 3315,
   "subs": 1070,
-  "week": 9,
+  "week": 8,
   "added": 44,
   "scheduled": [
    "28 Sep 18:05",
@@ -2286,6 +2290,7 @@ window.CHANNELS = [
    "17 Nov 15:00, Short 17 Nov 18:00",
    "18 Nov 09:20, Short 18 Nov 12:20",
    "21 Nov 11:01, Short 21 Nov 14:01",
+   "22 Nov 07:00, Short 22 Nov 10:00",
    "Short 18 Oct 12:25",
    "Short 14 Oct 12:25",
    "Short 13 Oct 12:25"
@@ -2312,6 +2317,7 @@ window.CHANNELS = [
    "1 Oct 06:45, Short 1 Oct 06:40",
    "18 Nov 15:40, Short 18 Nov 18:40",
    "21 Nov 14:20, Short 21 Nov 17:20",
+   "22 Nov 06:30, Short 22 Nov 09:30",
    "Short 13 Oct 12:35"
   ]
  },
@@ -2806,6 +2812,7 @@ window.CHANNELS = [
    "15 Nov 08:00, Short 15 Nov 11:00",
    "18 Nov 11:00, Short 18 Nov 14:00",
    "21 Nov 12:30, Short 21 Nov 15:30",
+   "22 Nov 08:30, Short 22 Nov 11:30",
    "Short 18 Oct 12:15",
    "Short 14 Oct 12:15",
    "Short 12 Oct 12:15",
@@ -3720,7 +3727,7 @@ window.CHANNELS = [
   "videos": 45,
   "views": 2307,
   "subs": 7,
-  "week": 4,
+  "week": 3,
   "added": 125,
   "scheduled": [
    "28 Sep 17:40, Short 28 Sep 12:40",
@@ -4173,7 +4180,7 @@ window.CHANNELS = [
   "videos": 39,
   "views": 4075,
   "subs": 11,
-  "week": 7,
+  "week": 6,
   "added": 141,
   "scheduled": [
    "8 Nov 05:50, Short 8 Nov 05:53",
@@ -4265,6 +4272,7 @@ window.CHANNELS = [
    "7 Oct 17:00",
    "6 Oct 17:00",
    "18 Nov 18:30, Short 18 Nov 21:30",
+   "22 Nov 09:00, Short 22 Nov 12:00",
    "Short 19 Oct 14:20",
    "Short 15 Oct 12:00",
    "Short 14 Oct 12:00",
@@ -4348,6 +4356,7 @@ window.CHANNELS = [
    "6 Oct 18:30",
    "5 Oct 18:30",
    "9 Nov 08:57, Short 9 Nov 08:57",
+   "22 Nov 10:15, Short 22 Nov 13:15",
    "Short 17 Oct 12:30",
    "Short 16 Oct 12:30",
    "Short 15 Oct 12:30",
@@ -4469,6 +4478,7 @@ window.CHANNELS = [
    "13 Oct 18:20",
    "10 Oct 18:20",
    "9 Oct 18:20",
+   "22 Nov 09:30, Short 22 Nov 12:30",
    "Short 13 Oct 12:20",
    "Short 10 Oct 12:20",
    "Short 9 Oct 12:20"

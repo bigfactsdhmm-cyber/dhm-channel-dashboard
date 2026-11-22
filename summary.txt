@@ -1,19 +1,19 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-21T21:26:39.895Z   Numbers refreshed: 2026-11-21T21:26:39.768Z   Upload log: 2026-11-21 06:52 Accra
+Generated: 2026-11-22T01:31:35.921Z   Numbers refreshed: 2026-11-22T01:31:35.785Z   Upload log: 2026-11-22 01:09 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,190
   Views: 20,355,547
   Videos on YouTube: 11,658
-  Videos posted in the last 7 days: 640
-  Videos scheduled (go-live time still ahead): 0
+  Videos posted in the last 7 days: 637
+  Videos scheduled (go-live time still ahead): 18
 
 SECTIONS
   Official YouTube channels: 8 channels, 487,950 subscribers, 18,687,352 views, 12 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,427 views, 0 videos this week
-  Fan channels: 144 channels, 48,719 subscribers, 1,447,685 views, 383 videos this week
+  Fan channels: 144 channels, 48,719 subscribers, 1,447,685 views, 380 videos this week
   Men of God channels: 12 channels, 116 subscribers, 35,228 views, 29 videos this week
   FLOW Prayer Meeting channels: 26 channels, 3,020 subscribers, 53,487 views, 73 videos this week
   Camps channels: 40 channels, 25 subscribers, 2,995 views, 54 videos this week
@@ -50,10 +50,10 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   2. Lovely Diamond Camps (Lovely Diamond channels): 32
   3. Dag Heward-Mills (Official YouTube channels): 12
   4. Hidden Manna (FLOW Prayer Meeting channels): 10
-  5. Word Signs Wonders (Fan channels): 9
-  6. Faith Foundations (Fan channels): 8
-  7. Fresh Impact TV (Fan channels): 8
-  8. Grace Unfolding (Fan channels): 8
+  5. Faith Foundations (Fan channels): 8
+  6. Fresh Impact TV (Fan channels): 8
+  7. Grace Unfolding (Fan channels): 8
+  8. Word Signs Wonders (Fan channels): 8
   9. Kingdom Builders (Fan channels): 8
   10. Rooted in Christ (Fan channels): 8
 

@@ -1,8 +1,8 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-21T21:26:39.895Z",
- "data_updated": "2026-11-21T21:26:39.768Z",
- "upload_log_updated": "2026-11-21 06:52 Accra",
+ "generated": "2026-11-22T01:31:35.921Z",
+ "data_updated": "2026-11-22T01:31:35.785Z",
+ "upload_log_updated": "2026-11-22 01:09 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
@@ -10,8 +10,8 @@
   "subscribers": 542190,
   "views": 20355547,
   "videos": 11658,
-  "videos_this_week": 640,
-  "videos_scheduled": 0
+  "videos_this_week": 637,
+  "videos_scheduled": 18
  },
  "channels": [
   {
@@ -395,7 +395,7 @@
    "views": 8509,
    "videos": 53,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -503,7 +503,7 @@
    "views": 33065,
    "videos": 44,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -515,7 +515,7 @@
    "views": 964,
    "videos": 20,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -527,7 +527,7 @@
    "views": 848,
    "videos": 16,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -874,7 +874,7 @@
    "subscribers": 1070,
    "views": 3315,
    "videos": 51,
-   "videos_this_week": 9,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1307,7 +1307,7 @@
    "views": 988,
    "videos": 24,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1319,7 +1319,7 @@
    "views": 172,
    "videos": 12,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1511,7 +1511,7 @@
    "views": 3207,
    "videos": 39,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1846,7 +1846,7 @@
    "subscribers": 7,
    "views": 2307,
    "videos": 45,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2038,7 +2038,7 @@
    "subscribers": 11,
    "views": 4075,
    "videos": 39,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2075,7 +2075,7 @@
    "views": 74820,
    "videos": 242,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2111,7 +2111,7 @@
    "views": 11066,
    "videos": 140,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2171,7 +2171,7 @@
    "views": 17811,
    "videos": 146,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
