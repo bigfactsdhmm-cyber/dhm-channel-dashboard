@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-22T09:20:35.415Z",
- "data_updated": "2026-11-22T09:20:35.277Z",
+ "generated": "2026-11-22T09:54:54.689Z",
+ "data_updated": "2026-11-22T09:54:54.553Z",
  "upload_log_updated": "2026-11-22 08:15 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542434,
   "views": 20419734,
-  "videos": 11667,
-  "videos_this_week": 630,
-  "videos_scheduled": 87
+  "videos": 11670,
+  "videos_this_week": 631,
+  "videos_scheduled": 85
  },
  "channels": [
   {
@@ -1317,9 +1317,9 @@
    "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
    "subscribers": 0,
    "views": 535,
-   "videos": 13,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 14,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1390,7 +1390,7 @@
    "subscribers": 0,
    "views": 205,
    "videos": 18,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2169,9 +2169,9 @@
    "url": "https://www.youtube.com/@StirItUp123",
    "subscribers": 1400,
    "views": 18079,
-   "videos": 146,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 147,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 54,
-   "videos": 51,
+   "videos": 52,
    "videos_this_week": 29,
    "scheduled": 0,
    "ministers": ""
