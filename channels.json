@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-22T01:31:35.921Z",
- "data_updated": "2026-11-22T01:31:35.785Z",
- "upload_log_updated": "2026-11-22 01:09 Accra",
+ "generated": "2026-11-22T05:25:23.297Z",
+ "data_updated": "2026-11-22T05:25:23.161Z",
+ "upload_log_updated": "2026-11-22 04:17 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542190,
-  "views": 20355547,
+  "views": 20355552,
   "videos": 11658,
-  "videos_this_week": 637,
-  "videos_scheduled": 18
+  "videos_this_week": 638,
+  "videos_scheduled": 89
  },
  "channels": [
   {
@@ -153,8 +153,8 @@
    "url": "https://odysee.com/@FlowChurchServices",
    "subscribers": 80,
    "views": 1917,
-   "videos": 196,
-   "videos_this_week": 0,
+   "videos": 197,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -260,7 +260,7 @@
    "name": "Dag Heward-Mills Love First Church Services",
    "url": "https://rumble.com/c/c-7805020",
    "subscribers": 69,
-   "views": 1203,
+   "views": 1204,
    "videos": 18,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -272,7 +272,7 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5562,
+   "views": 5564,
    "videos": 131,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11501,
+   "views": 11503,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -419,7 +419,7 @@
    "views": 824,
    "videos": 12,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -563,7 +563,7 @@
    "views": 38135,
    "videos": 17,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -635,7 +635,7 @@
    "views": 5433,
    "videos": 19,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
   {
@@ -743,7 +743,7 @@
    "views": 1140,
    "videos": 16,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -779,7 +779,7 @@
    "views": 1708,
    "videos": 15,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -815,7 +815,7 @@
    "views": 2218,
    "videos": 24,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "David Oyedepo + Oyedepo Jr (faith, prosperity, kingdom advancement)"
   },
   {
@@ -887,7 +887,7 @@
    "views": 1266,
    "videos": 13,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": "Joshua Selman (deep teaching, pursuit of God)"
   },
   {
@@ -911,7 +911,7 @@
    "views": 1234,
    "videos": 13,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -983,7 +983,7 @@
    "views": 1319,
    "videos": 27,
    "videos_this_week": 3,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1007,7 +1007,7 @@
    "views": 2371,
    "videos": 33,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1043,7 +1043,7 @@
    "views": 8008,
    "videos": 39,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1103,7 +1103,7 @@
    "views": 815,
    "videos": 13,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1115,7 +1115,7 @@
    "views": 4496,
    "videos": 40,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1283,7 +1283,7 @@
    "views": 726,
    "videos": 11,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": "Jerry Eze (prayer, breakthrough, morning declarations)"
   },
   {
@@ -1451,7 +1451,7 @@
    "views": 3720,
    "videos": 40,
    "videos_this_week": 7,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1487,7 +1487,7 @@
    "views": 14554,
    "videos": 44,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1631,7 +1631,7 @@
    "views": 6195,
    "videos": 45,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1763,7 +1763,7 @@
    "views": 20584,
    "videos": 16,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1787,7 +1787,7 @@
    "views": 3435,
    "videos": 44,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1799,7 +1799,7 @@
    "views": 6238,
    "videos": 46,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1823,7 +1823,7 @@
    "views": 3880,
    "videos": 39,
    "videos_this_week": 7,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1931,7 +1931,7 @@
    "views": 3757,
    "videos": 35,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2015,7 +2015,7 @@
    "views": 6602,
    "videos": 85,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2039,7 +2039,7 @@
    "views": 4075,
    "videos": 39,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2087,7 +2087,7 @@
    "views": 8787,
    "videos": 135,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2135,7 +2135,7 @@
    "views": 224679,
    "videos": 335,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2723,7 +2723,7 @@
    "views": 0,
    "videos": 1,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2825,25 +2825,37 @@
   {
    "section": "People channels",
    "platform": "YouTube",
-   "name": "Aisha Ibrahim Musa",
-   "url": "https://www.youtube.com/@AishaIbrahimMusa-x9p",
+   "name": "Fatima Bello",
+   "url": "https://www.youtube.com/@FatimaBello-x3w",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
    "section": "People channels",
    "platform": "YouTube",
-   "name": "Amina Hassan Ali",
-   "url": "https://www.youtube.com/@AminaHassanAli-z6j",
+   "name": "Kofi Asante",
+   "url": "https://www.youtube.com/@KofiAsante-g2o",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Tan Wei Ming",
+   "url": "https://www.youtube.com/@TanWeiMing9",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2855,7 +2867,91 @@
    "views": 0,
    "videos": 0,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Lim Jia Hui",
+   "url": "https://www.youtube.com/@LimJiaHui23",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Zawadi Muthoni",
+   "url": "https://www.youtube.com/@ZawadiMuthoni-d3u",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Otieno Ochieng",
+   "url": "https://www.youtube.com/@OtienoOchieng-l9n",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Aisha Ibrahim Musa",
+   "url": "https://www.youtube.com/@AishaIbrahimMusa-x9p",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Ngozi Eze",
+   "url": "https://www.youtube.com/@NgoziEze-p9x",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Tunde Adeyemi",
+   "url": "https://www.youtube.com/@TundeAdeyemi-s8g",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Amina Hassan Ali",
+   "url": "https://www.youtube.com/@AminaHassanAli-z6j",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2887,18 +2983,6 @@
    "platform": "YouTube",
    "name": "Faith Stream",
    "url": "https://www.youtube.com/@FaithStream-p1r",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Fatima Bello",
-   "url": "https://www.youtube.com/@FatimaBello-x3w",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
@@ -2957,56 +3041,8 @@
   {
    "section": "People channels",
    "platform": "YouTube",
-   "name": "Kofi Asante",
-   "url": "https://www.youtube.com/@KofiAsante-g2o",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
    "name": "Kwame Mensah",
    "url": "https://www.youtube.com/@KwameMensah-l8t",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Lim Jia Hui",
-   "url": "https://www.youtube.com/@LimJiaHui23",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Ngozi Eze",
-   "url": "https://www.youtube.com/@NgoziEze-p9x",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Otieno Ochieng",
-   "url": "https://www.youtube.com/@OtienoOchieng-l9n",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
@@ -3043,18 +3079,6 @@
    "platform": "YouTube",
    "name": "Sermon World",
    "url": "https://www.youtube.com/@SermonWorld-h2i",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Tan Wei Ming",
-   "url": "https://www.youtube.com/@TanWeiMing9",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
@@ -3113,18 +3137,6 @@
   {
    "section": "People channels",
    "platform": "YouTube",
-   "name": "Tunde Adeyemi",
-   "url": "https://www.youtube.com/@TundeAdeyemi-s8g",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
    "name": "Wanjiku Njeri",
    "url": "https://www.youtube.com/@WanjikuNjeri-e4f",
    "subscribers": 0,
@@ -3151,18 +3163,6 @@
    "platform": "YouTube",
    "name": "Yaw Ofori",
    "url": "https://www.youtube.com/@YawOfori-y1g",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Zawadi Muthoni",
-   "url": "https://www.youtube.com/@ZawadiMuthoni-d3u",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
