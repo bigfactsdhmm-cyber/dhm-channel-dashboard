@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T06:57:30.482Z";
+window.UPDATED = "2026-11-23T07:30:40.003Z";
 window.LOG_UPDATED = "2026-11-23 06:24 Accra";
 window.CHANNELS = [
  {
@@ -703,10 +703,10 @@ window.CHANNELS = [
   "name": "Quiet Fire",
   "url": "https://www.youtube.com/@QuietFire123",
   "icon": "https://yt3.googleusercontent.com/UEY4h7FhF9dz5XZswQJ9lX4HNhFWDKcd5iSmUVg93IZUFHeqlFTExR0zn2rwZNkQOXI1CgFe=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 13,
+  "videos": 14,
   "views": 132965,
   "subs": 594,
-  "week": 4,
+  "week": 5,
   "added": 26,
   "scheduled": [
    "29 Sep 17:20",
@@ -1521,7 +1521,7 @@ window.CHANNELS = [
   "videos": 35,
   "views": 2391,
   "subs": 14,
-  "week": 6,
+  "week": 5,
   "added": 55,
   "scheduled": [
    "5 Nov 16:46",

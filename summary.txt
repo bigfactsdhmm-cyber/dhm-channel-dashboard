@@ -1,14 +1,14 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-23T06:57:30.628Z   Numbers refreshed: 2026-11-23T06:57:30.482Z   Upload log: 2026-11-23 06:24 Accra
+Generated: 2026-11-23T07:30:40.131Z   Numbers refreshed: 2026-11-23T07:30:40.003Z   Upload log: 2026-11-23 06:24 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,434
   Views: 20,419,747
-  Videos on YouTube: 11,766
+  Videos on YouTube: 11,767
   Videos posted in the last 7 days: 655
-  Videos scheduled (go-live time still ahead): 34
+  Videos scheduled (go-live time still ahead): 32
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,130 subscribers, 18,723,905 views, 13 videos this week
