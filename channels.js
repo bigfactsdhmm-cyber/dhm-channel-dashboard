@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T18:58:44.935Z";
-window.LOG_UPDATED = "2026-11-23 17:35 Accra";
+window.UPDATED = "2026-11-23T19:32:18.777Z";
+window.LOG_UPDATED = "2026-11-23 18:56 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -279,10 +279,10 @@ window.CHANNELS = [
   "name": "God & Me",
   "url": "https://www.youtube.com/@GodMe-p1y",
   "icon": "https://yt3.googleusercontent.com/n6uLHlRomAokVZfGxGnAzleURn-CfNQgTsp7Az86W1N9-CxUjVXkjNQDLwrQy5R3Deuv0RCDAA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 18,
+  "videos": 19,
   "views": 2691,
   "subs": 8,
-  "week": 7,
+  "week": 8,
   "added": 9,
   "scheduled": [
    "29 Sep 17:10",
@@ -759,10 +759,10 @@ window.CHANNELS = [
   "name": "Still Speaking",
   "url": "https://www.youtube.com/@StillSpeaking-u5h",
   "icon": "https://yt3.googleusercontent.com/PeNPbF4aRDVkQRNzzDkfMQ5XR5EemEhr1aFCe_9kIPWIMVLM95juAeddJD3knVVA2_K0h7ytnQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 16,
+  "videos": 17,
   "views": 828,
   "subs": 2,
-  "week": 6,
+  "week": 7,
   "added": 28,
   "scheduled": [
    "29 Sep 18:25",
@@ -1114,7 +1114,7 @@ window.CHANNELS = [
   "videos": 49,
   "views": 7128,
   "subs": 21,
-  "week": 5,
+  "week": 4,
   "added": 40,
   "scheduled": [
    "28 Sep 17:15",
@@ -1303,10 +1303,10 @@ window.CHANNELS = [
   "name": "After the Service",
   "url": "https://www.youtube.com/@AftertheService-h7h",
   "icon": "https://yt3.googleusercontent.com/QQHg3uo8sb0cp3a5VkktSxHS7lDMEYrmahwQKpAx-hbzJ60P9p22Ivoaab839h4u0B__ANsyVtg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 1365,
   "subs": 1,
-  "week": 8,
+  "week": 9,
   "added": 47,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -2113,7 +2113,7 @@ window.CHANNELS = [
   "videos": 51,
   "views": 3762,
   "subs": 6,
-  "week": 10,
+  "week": 9,
   "added": 74,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -3130,10 +3130,10 @@ window.CHANNELS = [
   "name": "The Believer's Desk",
   "url": "https://www.youtube.com/@TheBelieversDesk",
   "icon": "https://yt3.googleusercontent.com/i6B8qoWPGMAhYM49ykm7IBLiETkwjwI3SDcV1C06VRegkTK3rxU1S9mDqjINaKHU4YROff9l=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 20,
+  "videos": 21,
   "views": 2719,
   "subs": 11,
-  "week": 7,
+  "week": 8,
   "added": 106,
   "scheduled": [
    "29 Sep 17:40, Short 29 Sep 12:40",
@@ -3787,7 +3787,7 @@ window.CHANNELS = [
   "videos": 45,
   "views": 2336,
   "subs": 7,
-  "week": 2,
+  "week": 1,
   "added": 125,
   "scheduled": [
    "28 Sep 17:40, Short 28 Sep 12:40",
@@ -5602,10 +5602,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@ZawadiMuthoni-d3u",
   "icon": "https://yt3.googleusercontent.com/6E1EIhQ_hNcNXSOTMnXM8pZgEMwr9Si3jRFCgOErfhfAQKMJiWqeODqekumpan8TVPGP-Wz3mQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 68,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 213,
   "scheduled": [
    "22 Nov 13:00, Short 22 Nov 16:00",
