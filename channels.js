@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T17:51:35.073Z";
+window.UPDATED = "2026-11-23T18:25:00.634Z";
 window.LOG_UPDATED = "2026-11-23 17:35 Accra";
 window.CHANNELS = [
  {
@@ -981,10 +981,10 @@ window.CHANNELS = [
   "name": "The Relationship Room",
   "url": "https://www.youtube.com/@TheRelationshipRoom-v9b",
   "icon": "https://yt3.googleusercontent.com/popvaPI7LZgguWvuExe7NYpj1u9y3CN5m-VmLr7hQzCFgFg5z1Vzv5PdVr5lQczh6qp0qrRT=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 12,
+  "videos": 13,
   "views": 378,
   "subs": 2,
-  "week": 5,
+  "week": 6,
   "added": 35,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -1222,7 +1222,7 @@ window.CHANNELS = [
   "videos": 49,
   "views": 3487,
   "subs": 1070,
-  "week": 8,
+  "week": 7,
   "added": 44,
   "scheduled": [
    "28 Sep 18:05",
@@ -2270,10 +2270,10 @@ window.CHANNELS = [
   "name": "Kingdom Builders",
   "url": "https://www.youtube.com/@KingdomBuilders-d1p",
   "icon": "https://yt3.googleusercontent.com/FWSZCHGTdgX3bLpRpWdwGjqVJLWWTPw3I5mKxxfcBPK8AP59P7Ow4iAWdHNTzRf_-H0xuA-s=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 49,
+  "videos": 50,
   "views": 9168,
   "subs": 37,
-  "week": 7,
+  "week": 8,
   "added": 79,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -2917,10 +2917,10 @@ window.CHANNELS = [
   "name": "Scripture & Dust",
   "url": "https://www.youtube.com/@ScriptureandDust",
   "icon": "https://yt3.googleusercontent.com/VFQZivKOhhRuj_xv6pjHBuKSt-dQCqCsqRv6daoZ_tmb-DKagyuKmHwMxzJARH3AJmvV8A5G=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 344,
   "subs": 2,
-  "week": 5,
+  "week": 6,
   "added": 99,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -3202,7 +3202,7 @@ window.CHANNELS = [
   "videos": 36,
   "views": 3531,
   "subs": 6,
-  "week": 1,
+  "week": 0,
   "added": 108,
   "scheduled": [
    "30 Sep 17:40, Short 30 Sep 12:40",
@@ -3340,7 +3340,7 @@ window.CHANNELS = [
   "videos": 36,
   "views": 5157,
   "subs": 17,
-  "week": 1,
+  "week": 0,
   "added": 112,
   "scheduled": [
    "26 Oct 18:10",
@@ -4277,10 +4277,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@KruptosMangh",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9UxnvSEs8JwuJDQ-mV6u1Ei1FmVZ81IqmMkbvtyEEUuGBEHgOsXdETp1IQUaanB9mRA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 9,
+  "videos": 10,
   "views": 704,
   "subs": 7,
-  "week": 5,
+  "week": 6,
   "added": 142,
   "scheduled": [
    "29 Oct 00:45",
@@ -5569,10 +5569,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@ChineduOkafor-o3h",
   "icon": "https://yt3.googleusercontent.com/BILybmqLHEmee6SUMXn33FfUdIR06SjdhhYsdR-iuKrg63iPsy8R7Iz_zJBsBYkK-ybSterRrg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 67,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 211,
   "scheduled": [
    "22 Nov 12:15, Short 22 Nov 15:15",
@@ -5665,10 +5665,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@TundeAdeyemi-s8g",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_ntIewhqHLJ0jb4i8htlVqSetwgNKRcHmRn-O7k5fEhFy5geBaAVhx4v3nsZfmDVAxzbw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 21,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 217,
   "scheduled": [
    "22 Nov 13:40, Short 22 Nov 16:40",
