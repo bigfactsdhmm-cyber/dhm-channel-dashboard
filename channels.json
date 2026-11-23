@@ -1,14 +1,14 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T00:09:54.234Z",
- "data_updated": "2026-11-23T00:09:54.110Z",
+ "generated": "2026-11-23T02:44:50.693Z",
+ "data_updated": "2026-11-23T02:44:50.570Z",
  "upload_log_updated": "2026-11-22 18:58 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542434,
-  "views": 20419743,
+  "views": 20419744,
   "videos": 11765,
   "videos_this_week": 656,
   "videos_scheduled": 0
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47911,
+   "views": 47912,
    "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
