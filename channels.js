@@ -4,18 +4,18 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T14:27:21.119Z";
-window.LOG_UPDATED = "2026-11-23 12:21 Accra";
+window.UPDATED = "2026-11-23T15:02:11.466Z";
+window.LOG_UPDATED = "2026-11-23 14:41 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
   "name": "Daily Bread Word",
   "url": "https://www.youtube.com/@DailyBreadWord-c4s",
   "icon": "https://yt3.googleusercontent.com/EHFT9rogwWo7OlfaMvIdsiG9eoKUqFb6WFsmAD0W_mMBQBeBcjOmZXxUEcOPpGtwRDyx-sr6KyM=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 45,
+  "videos": 46,
   "views": 7955,
   "subs": 31,
-  "week": 2,
+  "week": 3,
   "added": 0,
   "scheduled": [
    "28 Sep 18:40",
@@ -1996,7 +1996,7 @@ window.CHANNELS = [
   "videos": 42,
   "views": 5753,
   "subs": 20,
-  "week": 3,
+  "week": 2,
   "added": 70,
   "scheduled": [
    "28 Sep 18:40, Short 28 Sep 12:40",
@@ -2917,10 +2917,10 @@ window.CHANNELS = [
   "name": "Scripture & Dust",
   "url": "https://www.youtube.com/@ScriptureandDust",
   "icon": "https://yt3.googleusercontent.com/VFQZivKOhhRuj_xv6pjHBuKSt-dQCqCsqRv6daoZ_tmb-DKagyuKmHwMxzJARH3AJmvV8A5G=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 344,
   "subs": 2,
-  "week": 4,
+  "week": 5,
   "added": 99,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -3107,7 +3107,7 @@ window.CHANNELS = [
   "videos": 27,
   "views": 1541,
   "subs": 8,
-  "week": 2,
+  "week": 1,
   "added": 105,
   "scheduled": [
    "30 Oct 07:03, Short 30 Oct 07:04",
@@ -3671,10 +3671,10 @@ window.CHANNELS = [
   "name": "The Third Pew",
   "url": "https://www.youtube.com/@The3rdpew3",
   "icon": "https://yt3.googleusercontent.com/50B_TH2_2WNK2RCFoUbREw1t_70OxqR1yOaueh7EM45odk1g6dWiWHULJo1kztMq1KGI7x-fIw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 24,
+  "videos": 25,
   "views": 633,
   "subs": 3,
-  "week": 2,
+  "week": 3,
   "added": 122,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -5043,7 +5043,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 60,
+  "videos": 61,
   "views": 65,
   "subs": 1,
   "week": 38,
@@ -5070,7 +5070,8 @@ window.CHANNELS = [
    "22 Nov 10:42",
    "23 Nov 12:14",
    "23 Nov 12:35",
-   "23 Nov 12:42"
+   "23 Nov 12:42",
+   "23 Nov 14:36"
   ]
  },
  {
@@ -5692,10 +5693,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@KwameMensah-l8t",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_n7T2HLU7JQUvDRxPv3L4O8Bt6iJvjdFI3DbJCb2haaET6FyolDnJdpfFCiEZLMcXsZpw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 1,
+  "videos": 2,
   "views": 0,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 219,
   "scheduled": [
    "23 Nov 11:30, Short 23 Nov 14:30"
