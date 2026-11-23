@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T09:14:38.455Z";
-window.LOG_UPDATED = "2026-11-23 07:43 Accra";
+window.UPDATED = "2026-11-23T09:51:32.873Z";
+window.LOG_UPDATED = "2026-11-23 09:16 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -195,6 +195,7 @@ window.CHANNELS = [
    "18 Nov 16:30, Short 18 Nov 19:30",
    "20 Nov 13:50, Short 20 Nov 16:50",
    "21 Nov 15:20, Short 21 Nov 18:20",
+   "23 Nov 15:40, Short 23 Nov 18:40",
    "Short 19 Oct 14:36",
    "Short 14 Oct 12:40",
    "Short 4 Oct 12:40"
@@ -295,6 +296,7 @@ window.CHANNELS = [
    "18 Nov 07:00, Short 18 Nov 10:00",
    "20 Nov 15:10, Short 20 Nov 18:10",
    "21 Nov 16:11, Short 21 Nov 19:11",
+   "23 Nov 16:00, Short 23 Nov 19:00",
    "Short 18 Oct 12:10",
    "Short 14 Oct 12:10",
    "Short 23 Oct 12:10"
@@ -415,6 +417,7 @@ window.CHANNELS = [
    "18 Nov 09:00, Short 18 Nov 12:00",
    "21 Nov 10:31, Short 21 Nov 13:31",
    "22 Nov 07:30",
+   "23 Nov 17:00, Short 23 Nov 20:00",
    "Short 18 Oct 13:00",
    "Short 11 Oct 12:40",
    "Short 8 Oct 12:40",
@@ -447,6 +450,7 @@ window.CHANNELS = [
    "18 Nov 17:30, Short 18 Nov 20:30",
    "21 Nov 14:40, Short 21 Nov 17:40",
    "22 Nov 08:00",
+   "23 Nov 17:10, Short 23 Nov 20:10",
    "Short 19 Oct 14:04",
    "Short 14 Oct 12:45",
    "Short 6 Oct 12:45",
@@ -473,6 +477,7 @@ window.CHANNELS = [
    "18 Nov 18:00, Short 18 Nov 21:00",
    "21 Nov 14:50, Short 21 Nov 17:50",
    "22 Nov 06:00, Short 22 Nov 09:00",
+   "23 Nov 16:40, Short 23 Nov 19:40",
    "Short 19 Oct 14:12",
    "Short 14 Oct 12:55"
   ]
@@ -768,6 +773,7 @@ window.CHANNELS = [
    "17 Nov 13:50, Short 17 Nov 16:50",
    "20 Nov 16:12, Short 20 Nov 19:12",
    "21 Nov 16:51",
+   "23 Nov 16:10, Short 23 Nov 19:10",
    "Short 19 Oct 12:52",
    "Short 14 Oct 12:25"
   ]
@@ -2045,10 +2051,10 @@ window.CHANNELS = [
   "name": "Happy Marriage",
   "url": "https://www.youtube.com/@HappyMarriage-n7j",
   "icon": "https://yt3.googleusercontent.com/xREggn-UB9MmhOhILakPKO3M8ljFtwWk34IupPjBQquopUtEFQC5i_v_MyEvxVe68lzeITN6lm8=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 8,
+  "videos": 9,
   "views": 833,
   "subs": 8,
-  "week": 0,
+  "week": 1,
   "added": 72,
   "scheduled": [
    "29 Sep 18:00, Short 29 Sep 12:00",
@@ -2326,6 +2332,7 @@ window.CHANNELS = [
    "18 Nov 09:20, Short 18 Nov 12:20",
    "21 Nov 11:01, Short 21 Nov 14:01",
    "22 Nov 07:00, Short 22 Nov 10:00",
+   "23 Nov 16:50, Short 23 Nov 19:50",
    "Short 18 Oct 12:25",
    "Short 14 Oct 12:25",
    "Short 13 Oct 12:25"
@@ -2815,6 +2822,7 @@ window.CHANNELS = [
    "18 Nov 10:45, Short 18 Nov 13:45",
    "20 Nov 16:40, Short 20 Nov 19:40",
    "21 Nov 17:21, Short 21 Nov 20:21",
+   "23 Nov 16:30, Short 23 Nov 19:30",
    "Short 18 Oct 12:40",
    "Short 13 Oct 12:45",
    "Short 11 Oct 12:45",
@@ -2851,6 +2859,7 @@ window.CHANNELS = [
    "18 Nov 11:00, Short 18 Nov 14:00",
    "21 Nov 12:30, Short 21 Nov 15:30",
    "22 Nov 08:30, Short 22 Nov 11:30",
+   "23 Nov 17:20, Short 23 Nov 20:20",
    "Short 18 Oct 12:15",
    "Short 14 Oct 12:15",
    "Short 12 Oct 12:15",
@@ -3134,6 +3143,7 @@ window.CHANNELS = [
    "17 Nov 14:00, Short 17 Nov 17:00",
    "20 Nov 16:22, Short 20 Nov 19:22",
    "21 Nov 17:02, Short 21 Nov 20:02",
+   "23 Nov 16:20, Short 23 Nov 19:20",
    "Short 19 Oct 14:56",
    "Short 14 Oct 12:40"
   ]
@@ -3479,6 +3489,7 @@ window.CHANNELS = [
    "1 Oct 06:29, Short 1 Oct 06:28",
    "20 Nov 14:30, Short 20 Nov 17:30",
    "21 Nov 15:50, Short 21 Nov 18:50",
+   "23 Nov 15:50, Short 23 Nov 18:50",
    "Short 19 Oct 15:04",
    "Short 14 Oct 12:05",
    "Short 13 Oct 12:05",
@@ -5508,7 +5519,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 208,
   "scheduled": [
-   "22 Nov 11:15, Short 22 Nov 14:15"
+   "22 Nov 11:15, Short 22 Nov 14:15",
+   "23 Nov 17:30, Short 23 Nov 20:30"
   ]
  },
  {
@@ -5538,7 +5550,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 210,
   "scheduled": [
-   "22 Nov 12:00, Short 22 Nov 15:00"
+   "22 Nov 12:00, Short 22 Nov 15:00",
+   "23 Nov 18:00, Short 24 Nov 09:00"
   ]
  },
  {
@@ -5553,7 +5566,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 211,
   "scheduled": [
-   "22 Nov 12:15, Short 22 Nov 15:15"
+   "22 Nov 12:15, Short 22 Nov 15:15",
+   "23 Nov 18:15, Short 24 Nov 09:15"
   ]
  },
  {
@@ -5568,7 +5582,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 212,
   "scheduled": [
-   "22 Nov 12:30, Short 22 Nov 15:30"
+   "22 Nov 12:30, Short 22 Nov 15:30",
+   "23 Nov 18:30, Short 24 Nov 09:30"
   ]
  },
  {
@@ -5583,7 +5598,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 213,
   "scheduled": [
-   "22 Nov 13:00, Short 22 Nov 16:00"
+   "22 Nov 13:00, Short 22 Nov 16:00",
+   "23 Nov 19:00, Short 24 Nov 09:45"
   ]
  },
  {
@@ -5598,7 +5614,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 214,
   "scheduled": [
-   "22 Nov 13:10, Short 22 Nov 16:10"
+   "22 Nov 13:10, Short 22 Nov 16:10",
+   "23 Nov 19:30, Short 24 Nov 10:00"
   ]
  },
  {
@@ -5613,7 +5630,8 @@ window.CHANNELS = [
   "week": 2,
   "added": 215,
   "scheduled": [
-   "22 Nov 13:20, Short 22 Nov 16:20"
+   "22 Nov 13:20, Short 22 Nov 16:20",
+   "23 Nov 20:00, Short 24 Nov 10:15"
   ]
  },
  {
