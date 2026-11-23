@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T08:04:09.267Z",
- "data_updated": "2026-11-23T08:04:09.146Z",
+ "generated": "2026-11-23T08:39:34.781Z",
+ "data_updated": "2026-11-23T08:39:34.667Z",
  "upload_log_updated": "2026-11-23 07:43 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542434,
-  "views": 20419747,
-  "videos": 11769,
+  "views": 20419748,
+  "videos": 11770,
   "videos_this_week": 655,
-  "videos_scheduled": 49
+  "videos_scheduled": 48
  },
  "channels": [
   {
@@ -272,7 +272,7 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5570,
+   "views": 5571,
    "videos": 131,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -1017,9 +1017,9 @@
    "url": "https://www.youtube.com/@CrownedWithGlory-l1f",
    "subscribers": 20,
    "views": 6665,
-   "videos": 45,
+   "videos": 46,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
