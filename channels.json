@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T04:49:15.103Z",
- "data_updated": "2026-11-23T04:49:14.982Z",
+ "generated": "2026-11-23T06:24:17.010Z",
+ "data_updated": "2026-11-23T06:24:16.877Z",
  "upload_log_updated": "2026-11-22 18:58 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542434,
-  "views": 20419745,
+  "views": 20419747,
   "videos": 11766,
-  "videos_this_week": 657,
+  "videos_this_week": 656,
   "videos_scheduled": 0
  },
  "channels": [
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11507,
+   "views": 11509,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -1666,7 +1666,7 @@
    "subscribers": 31,
    "views": 5804,
    "videos": 44,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
