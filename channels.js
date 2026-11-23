@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T20:05:54.637Z";
+window.UPDATED = "2026-11-23T20:39:20.939Z";
 window.LOG_UPDATED = "2026-11-23 19:59 Accra";
 window.CHANNELS = [
  {
@@ -433,10 +433,10 @@ window.CHANNELS = [
   "name": "Kingdom Pulse",
   "url": "https://www.youtube.com/@KingdomPulse-j3w",
   "icon": "https://yt3.googleusercontent.com/j6bYn8uzCWFlBovDyPTmiLSqcnWe8KEAonDOs-Px4qrs9mk5CT5-33uSGO-pie6OxtdzvAWwiQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 22,
+  "videos": 23,
   "views": 1503,
   "subs": 2,
-  "week": 8,
+  "week": 9,
   "added": 14,
   "scheduled": [
    "29 Sep 17:45",
@@ -2841,10 +2841,10 @@ window.CHANNELS = [
   "name": "Saints in Training",
   "url": "https://www.youtube.com/@SaintsinTraining-x1p",
   "icon": "https://yt3.googleusercontent.com/dyMjae1DqtAyoPWCAP-kb9GmkUndB69FgEUe7In60jKdOYnda_2o86RacO6jOWC1_uLDMxnx=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 38,
+  "videos": 39,
   "views": 3286,
   "subs": 13,
-  "week": 7,
+  "week": 8,
   "added": 97,
   "scheduled": [
    "30 Oct 04:16",
@@ -4243,7 +4243,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 4628,
   "subs": 13,
-  "week": 7,
+  "week": 6,
   "added": 141,
   "scheduled": [
    "8 Nov 05:50, Short 8 Nov 05:53",
@@ -5524,10 +5524,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@FatimaBello-x3w",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mBIcRF7KJgZtH1sF9zpZLyP7dSzGRgl9uQCveLZwMNt8fOfoKZxIn1FLNP303YunpsIQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 3,
+  "videos": 4,
   "views": 75,
   "subs": 0,
-  "week": 3,
+  "week": 4,
   "added": 208,
   "scheduled": [
    "22 Nov 11:15, Short 22 Nov 14:15",
