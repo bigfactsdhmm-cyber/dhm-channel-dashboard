@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T19:32:18.918Z",
- "data_updated": "2026-11-23T19:32:18.777Z",
- "upload_log_updated": "2026-11-23 18:56 Accra",
+ "generated": "2026-11-23T20:05:54.767Z",
+ "data_updated": "2026-11-23T20:05:54.637Z",
+ "upload_log_updated": "2026-11-23 19:59 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471887,
-  "videos": 11776,
-  "videos_this_week": 686,
-  "videos_scheduled": 17
+  "videos": 11783,
+  "videos_this_week": 689,
+  "videos_scheduled": 13
  },
  "channels": [
   {
@@ -501,9 +501,9 @@
    "url": "https://www.youtube.com/@KingdomMinded-h4d",
    "subscribers": 62,
    "views": 33316,
-   "videos": 43,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 44,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -525,9 +525,9 @@
    "url": "https://www.youtube.com/@KingdomSpotlight-j4n",
    "subscribers": 2,
    "views": 990,
-   "videos": 15,
-   "videos_this_week": 9,
-   "scheduled": 1,
+   "videos": 16,
+   "videos_this_week": 10,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1258,7 +1258,7 @@
    "subscribers": 3,
    "views": 3192,
    "videos": 33,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1305,9 +1305,9 @@
    "url": "https://www.youtube.com/@KingdomNotes-u8w",
    "subscribers": 7,
    "views": 1012,
-   "videos": 23,
-   "videos_this_week": 9,
-   "scheduled": 1,
+   "videos": 24,
+   "videos_this_week": 10,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1497,8 +1497,8 @@
    "url": "https://www.youtube.com/@RootedinChrist-i8x",
    "subscribers": 59,
    "views": 27932,
-   "videos": 47,
-   "videos_this_week": 7,
+   "videos": 48,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1918,7 +1918,7 @@
    "subscribers": 0,
    "views": 563,
    "videos": 34,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1930,7 +1930,7 @@
    "subscribers": 8,
    "views": 3817,
    "videos": 37,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 65,
-   "videos": 65,
+   "videos": 66,
    "videos_this_week": 38,
    "scheduled": 0,
    "ministers": ""
@@ -2901,8 +2901,8 @@
    "url": "https://www.youtube.com/@OtienoOchieng-l9n",
    "subscribers": 1,
    "views": 209,
-   "videos": 2,
-   "videos_this_week": 2,
+   "videos": 3,
+   "videos_this_week": 3,
    "scheduled": 1,
    "ministers": ""
   },
@@ -2913,9 +2913,9 @@
    "url": "https://www.youtube.com/@AishaIbrahimMusa-x9p",
    "subscribers": 6,
    "views": 1492,
-   "videos": 2,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 3,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {

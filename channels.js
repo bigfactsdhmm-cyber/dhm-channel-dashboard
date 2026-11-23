@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T19:32:18.777Z";
-window.LOG_UPDATED = "2026-11-23 18:56 Accra";
+window.UPDATED = "2026-11-23T20:05:54.637Z";
+window.LOG_UPDATED = "2026-11-23 19:59 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -393,10 +393,10 @@ window.CHANNELS = [
   "name": "Kingdom Minded",
   "url": "https://www.youtube.com/@KingdomMinded-h4d",
   "icon": "https://yt3.googleusercontent.com/QAuID-4x2xdjqR5hBfrpXJx5Lu3AuO5Ew_QFibnaYYUgPAxJjCHsldKrpUKq5yPVPejqBNesbA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 43,
+  "videos": 44,
   "views": 33316,
   "subs": 62,
-  "week": 6,
+  "week": 7,
   "added": 13,
   "scheduled": [
    "28 Sep 18:40",
@@ -462,10 +462,10 @@ window.CHANNELS = [
   "name": "Kingdom Spotlight",
   "url": "https://www.youtube.com/@KingdomSpotlight-j4n",
   "icon": "https://yt3.googleusercontent.com/U6ZwsqHBVkiNvYJbABOqeVxCZYVBRAhub44rVCVBsq2K7WobINy89SQBM3EBhuos92KsEY-9WA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 990,
   "subs": 2,
-  "week": 9,
+  "week": 10,
   "added": 15,
   "scheduled": [
    "3 Oct 18:35",
@@ -2180,7 +2180,7 @@ window.CHANNELS = [
   "videos": 33,
   "views": 3192,
   "subs": 3,
-  "week": 4,
+  "week": 3,
   "added": 76,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -2314,10 +2314,10 @@ window.CHANNELS = [
   "name": "Kingdom Notes",
   "url": "https://www.youtube.com/@KingdomNotes-u8w",
   "icon": "https://yt3.googleusercontent.com/hWPD-MgS-EnwqKt1rvQgdeCoblgn_4GK_SS0jRjdD_SqAIf4JSjcxQkO-IXBau3aps5INf5Gsg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 23,
+  "videos": 24,
   "views": 1012,
   "subs": 7,
-  "week": 9,
+  "week": 10,
   "added": 80,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -2803,10 +2803,10 @@ window.CHANNELS = [
   "name": "Rooted in Christ",
   "url": "https://www.youtube.com/@RootedinChrist-i8x",
   "icon": "https://yt3.googleusercontent.com/bkDaZytfwlRkc-Q5ZNuf_YaPCq9iswuYZTF3HqCvtm6IJQjzLj5DjNt22SLKKkGxtfe23FdpmuI=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 47,
+  "videos": 48,
   "views": 27932,
   "subs": 59,
-  "week": 7,
+  "week": 8,
   "added": 96,
   "scheduled": [
    "6 Nov 01:10, Short 6 Nov 01:13",
@@ -3976,7 +3976,7 @@ window.CHANNELS = [
   "videos": 34,
   "views": 563,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 131,
   "scheduled": [
    "3 Nov 02:20",
@@ -4011,7 +4011,7 @@ window.CHANNELS = [
   "videos": 37,
   "views": 3817,
   "subs": 8,
-  "week": 5,
+  "week": 4,
   "added": 132,
   "scheduled": [
    "26 Oct 18:20, Short 26 Oct 12:20",
@@ -5043,7 +5043,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 65,
+  "videos": 66,
   "views": 65,
   "subs": 1,
   "week": 38,
@@ -5075,7 +5075,8 @@ window.CHANNELS = [
    "23 Nov 17:30",
    "23 Nov 17:30",
    "23 Nov 17:30",
-   "23 Nov 18:50"
+   "23 Nov 18:50",
+   "23 Nov 19:55"
   ]
  },
  {
@@ -5618,10 +5619,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@OtienoOchieng-l9n",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_l9jaN2DSCtxDxrwsf0C9s7kZypukJ6RDO4hmBP0i96PKF4kMCghS8kcBN7rq3a0W9btg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 209,
   "subs": 1,
-  "week": 2,
+  "week": 3,
   "added": 214,
   "scheduled": [
    "22 Nov 13:10, Short 22 Nov 16:10",
@@ -5634,10 +5635,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@AishaIbrahimMusa-x9p",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 1492,
   "subs": 6,
-  "week": 2,
+  "week": 3,
   "added": 215,
   "scheduled": [
    "22 Nov 13:20, Short 22 Nov 16:20",
