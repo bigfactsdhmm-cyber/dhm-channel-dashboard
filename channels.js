@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T16:10:42.555Z";
+window.UPDATED = "2026-11-23T16:44:22.558Z";
 window.LOG_UPDATED = "2026-11-23 14:41 Accra";
 window.CHANNELS = [
  {
@@ -462,10 +462,10 @@ window.CHANNELS = [
   "name": "Kingdom Spotlight",
   "url": "https://www.youtube.com/@KingdomSpotlight-j4n",
   "icon": "https://yt3.googleusercontent.com/U6ZwsqHBVkiNvYJbABOqeVxCZYVBRAhub44rVCVBsq2K7WobINy89SQBM3EBhuos92KsEY-9WA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 990,
   "subs": 2,
-  "week": 8,
+  "week": 9,
   "added": 15,
   "scheduled": [
    "3 Oct 18:35",
@@ -596,10 +596,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@NotANoviceGh",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mvRD3li-d41yRn_E5Os_4vOsBVZjneUdJDuG7vaq5mQf2ukH8_J5e7d4ICjs5ajyz-7g=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 12,
+  "videos": 13,
   "views": 133,
   "subs": 2,
-  "week": 5,
+  "week": 6,
   "added": 21,
   "scheduled": [
    "28 Sep 18:10",
@@ -689,10 +689,10 @@ window.CHANNELS = [
   "name": "Purpose Network",
   "url": "https://www.youtube.com/@PurposeNetwork-u6z",
   "icon": "https://yt3.googleusercontent.com/r6aqLMz_Hx2f2oc9oiAgh0cHgtyEePcLY5cQ1LJWLNtNKU76vxHE-ik3niGLvKVl7eKdLyP9Ug=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 717,
   "subs": 0,
-  "week": 3,
+  "week": 4,
   "added": 25,
   "scheduled": [
    "29 Sep 18:35",
@@ -759,10 +759,10 @@ window.CHANNELS = [
   "name": "Still Speaking",
   "url": "https://www.youtube.com/@StillSpeaking-u5h",
   "icon": "https://yt3.googleusercontent.com/PeNPbF4aRDVkQRNzzDkfMQ5XR5EemEhr1aFCe_9kIPWIMVLM95juAeddJD3knVVA2_K0h7ytnQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 828,
   "subs": 2,
-  "week": 5,
+  "week": 6,
   "added": 28,
   "scheduled": [
    "29 Sep 18:25",
@@ -1114,7 +1114,7 @@ window.CHANNELS = [
   "videos": 49,
   "views": 7128,
   "subs": 21,
-  "week": 6,
+  "week": 5,
   "added": 40,
   "scheduled": [
    "28 Sep 17:15",
@@ -1887,10 +1887,10 @@ window.CHANNELS = [
   "name": "From the Back Row",
   "url": "https://www.youtube.com/@FrmtheBackRow-0",
   "icon": "https://yt3.googleusercontent.com/AvKW_ygxfIHRP3O5LTZ5hWdopfrORWsd4NPrQWulw6LD3aJoAYLbRmeTfmy9HEpjm4ZW-Tzr=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 13,
+  "videos": 14,
   "views": 344,
   "subs": 1,
-  "week": 2,
+  "week": 3,
   "added": 66,
   "scheduled": [
    "29 Sep 17:25",
@@ -2032,10 +2032,10 @@ window.CHANNELS = [
   "name": "Grace Wave TV",
   "url": "https://www.youtube.com/@GraceWaveTV-u5j",
   "icon": "https://yt3.googleusercontent.com/k3Fc387g0vTX8abf-tMIEpNHsAHoKvO8PXkk-dKj_wY-l7RgMK6EXiDSzgj8GrZDsF5Aceu2vcE=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 12,
+  "videos": 13,
   "views": 1516,
   "subs": 5,
-  "week": 5,
+  "week": 6,
   "added": 71,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -2769,7 +2769,7 @@ window.CHANNELS = [
   "videos": 46,
   "views": 14935,
   "subs": 54,
-  "week": 7,
+  "week": 6,
   "added": 95,
   "scheduled": [
    "28 Sep 17:45, Short 28 Sep 12:45",
@@ -2803,7 +2803,7 @@ window.CHANNELS = [
   "name": "Rooted in Christ",
   "url": "https://www.youtube.com/@RootedinChrist-i8x",
   "icon": "https://yt3.googleusercontent.com/bkDaZytfwlRkc-Q5ZNuf_YaPCq9iswuYZTF3HqCvtm6IJQjzLj5DjNt22SLKKkGxtfe23FdpmuI=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 46,
+  "videos": 47,
   "views": 27932,
   "subs": 59,
   "week": 7,
@@ -3130,10 +3130,10 @@ window.CHANNELS = [
   "name": "The Believer's Desk",
   "url": "https://www.youtube.com/@TheBelieversDesk",
   "icon": "https://yt3.googleusercontent.com/i6B8qoWPGMAhYM49ykm7IBLiETkwjwI3SDcV1C06VRegkTK3rxU1S9mDqjINaKHU4YROff9l=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 19,
+  "videos": 20,
   "views": 2719,
   "subs": 11,
-  "week": 6,
+  "week": 7,
   "added": 106,
   "scheduled": [
    "29 Sep 17:40, Short 29 Sep 12:40",
@@ -3976,7 +3976,7 @@ window.CHANNELS = [
   "videos": 34,
   "views": 563,
   "subs": 0,
-  "week": 2,
+  "week": 1,
   "added": 131,
   "scheduled": [
    "3 Nov 02:20",
@@ -5043,7 +5043,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 61,
+  "videos": 62,
   "views": 65,
   "subs": 1,
   "week": 38,

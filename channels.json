@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T16:10:42.674Z",
- "data_updated": "2026-11-23T16:10:42.555Z",
+ "generated": "2026-11-23T16:44:22.678Z",
+ "data_updated": "2026-11-23T16:44:22.558Z",
  "upload_log_updated": "2026-11-23 14:41 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471884,
-  "videos": 11736,
-  "videos_this_week": 668,
-  "videos_scheduled": 52
+  "videos": 11745,
+  "videos_this_week": 672,
+  "videos_scheduled": 46
  },
  "channels": [
   {
@@ -525,9 +525,9 @@
    "url": "https://www.youtube.com/@KingdomSpotlight-j4n",
    "subscribers": 2,
    "views": 990,
-   "videos": 14,
-   "videos_this_week": 8,
-   "scheduled": 2,
+   "videos": 15,
+   "videos_this_week": 9,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -597,9 +597,9 @@
    "url": "https://www.youtube.com/@NotANoviceGh",
    "subscribers": 2,
    "views": 133,
-   "videos": 12,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 13,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -645,9 +645,9 @@
    "url": "https://www.youtube.com/@PurposeNetwork-u6z",
    "subscribers": 0,
    "views": 717,
-   "videos": 11,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 12,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -681,8 +681,8 @@
    "url": "https://www.youtube.com/@StillSpeaking-u5h",
    "subscribers": 2,
    "views": 828,
-   "videos": 15,
-   "videos_this_week": 5,
+   "videos": 16,
+   "videos_this_week": 6,
    "scheduled": 1,
    "ministers": ""
   },
@@ -826,7 +826,7 @@
    "subscribers": 21,
    "views": 7128,
    "videos": 49,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1137,9 +1137,9 @@
    "url": "https://www.youtube.com/@FrmtheBackRow-0",
    "subscribers": 1,
    "views": 344,
-   "videos": 13,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 14,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1197,8 +1197,8 @@
    "url": "https://www.youtube.com/@GraceWaveTV-u5j",
    "subscribers": 5,
    "views": 1516,
-   "videos": 12,
-   "videos_this_week": 5,
+   "videos": 13,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1486,7 +1486,7 @@
    "subscribers": 54,
    "views": 14935,
    "videos": 46,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1497,9 +1497,9 @@
    "url": "https://www.youtube.com/@RootedinChrist-i8x",
    "subscribers": 59,
    "views": 27932,
-   "videos": 46,
+   "videos": 47,
    "videos_this_week": 7,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1617,9 +1617,9 @@
    "url": "https://www.youtube.com/@TheBelieversDesk",
    "subscribers": 11,
    "views": 2719,
-   "videos": 19,
-   "videos_this_week": 6,
-   "scheduled": 2,
+   "videos": 20,
+   "videos_this_week": 7,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1918,7 +1918,7 @@
    "subscribers": 0,
    "views": 563,
    "videos": 34,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 65,
-   "videos": 61,
+   "videos": 62,
    "videos_this_week": 38,
    "scheduled": 0,
    "ministers": ""
