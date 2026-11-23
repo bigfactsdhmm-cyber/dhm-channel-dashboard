@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T13:20:14.611Z";
+window.UPDATED = "2026-11-23T13:53:45.797Z";
 window.LOG_UPDATED = "2026-11-23 12:21 Accra";
 window.CHANNELS = [
  {
@@ -596,10 +596,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@NotANoviceGh",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mvRD3li-d41yRn_E5Os_4vOsBVZjneUdJDuG7vaq5mQf2ukH8_J5e7d4ICjs5ajyz-7g=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 133,
   "subs": 2,
-  "week": 4,
+  "week": 5,
   "added": 21,
   "scheduled": [
    "28 Sep 18:10",
@@ -689,10 +689,10 @@ window.CHANNELS = [
   "name": "Purpose Network",
   "url": "https://www.youtube.com/@PurposeNetwork-u6z",
   "icon": "https://yt3.googleusercontent.com/r6aqLMz_Hx2f2oc9oiAgh0cHgtyEePcLY5cQ1LJWLNtNKU76vxHE-ik3niGLvKVl7eKdLyP9Ug=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 10,
+  "videos": 11,
   "views": 717,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 25,
   "scheduled": [
    "29 Sep 18:35",
@@ -1363,10 +1363,10 @@ window.CHANNELS = [
   "name": "Ancient Paths",
   "url": "https://www.youtube.com/@AncientPaths-l9s",
   "icon": "https://yt3.googleusercontent.com/JE40RpAAmpzFuZ5GUQjHLeLoZOKvrW7nHOaevRwc9YOwCKmBuYiP85R-KVSYGqngILE3TMlGgg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 10,
+  "videos": 11,
   "views": 636,
   "subs": 3,
-  "week": 2,
+  "week": 3,
   "added": 49,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -1649,7 +1649,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 9205,
   "subs": 27,
-  "week": 7,
+  "week": 6,
   "added": 58,
   "scheduled": [
    "31 Oct 06:03, Short 31 Oct 06:05",
@@ -1887,10 +1887,10 @@ window.CHANNELS = [
   "name": "From the Back Row",
   "url": "https://www.youtube.com/@FrmtheBackRow-0",
   "icon": "https://yt3.googleusercontent.com/AvKW_ygxfIHRP3O5LTZ5hWdopfrORWsd4NPrQWulw6LD3aJoAYLbRmeTfmy9HEpjm4ZW-Tzr=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 12,
+  "videos": 13,
   "views": 344,
   "subs": 1,
-  "week": 1,
+  "week": 2,
   "added": 66,
   "scheduled": [
    "29 Sep 17:25",
@@ -2769,7 +2769,7 @@ window.CHANNELS = [
   "videos": 46,
   "views": 14935,
   "subs": 54,
-  "week": 8,
+  "week": 7,
   "added": 95,
   "scheduled": [
    "28 Sep 17:45, Short 28 Sep 12:45",
@@ -2806,7 +2806,7 @@ window.CHANNELS = [
   "videos": 46,
   "views": 27932,
   "subs": 59,
-  "week": 8,
+  "week": 7,
   "added": 96,
   "scheduled": [
    "6 Nov 01:10, Short 6 Nov 01:13",
