@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T15:02:11.583Z",
- "data_updated": "2026-11-23T15:02:11.466Z",
+ "generated": "2026-11-23T15:37:09.436Z",
+ "data_updated": "2026-11-23T15:37:09.312Z",
  "upload_log_updated": "2026-11-23 14:41 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471884,
-  "videos": 11724,
-  "videos_this_week": 664,
-  "videos_scheduled": 63
+  "videos": 11732,
+  "videos_this_week": 667,
+  "videos_scheduled": 58
  },
  "channels": [
   {
@@ -21,8 +21,8 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16141226,
-   "videos": 2193,
-   "videos_this_week": 13,
+   "videos": 2194,
+   "videos_this_week": 12,
    "scheduled": 0,
    "ministers": ""
   },
@@ -669,9 +669,9 @@
    "url": "https://www.youtube.com/@SaintandStories",
    "subscribers": 24,
    "views": 10992,
-   "videos": 11,
-   "videos_this_week": 5,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 6,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -765,9 +765,9 @@
    "url": "https://www.youtube.com/@TheRelationshipRoom-v9b",
    "subscribers": 2,
    "views": 378,
-   "videos": 11,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 5,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1293,8 +1293,8 @@
    "url": "https://www.youtube.com/@KingdomBuilders-d1p",
    "subscribers": 37,
    "views": 9168,
-   "videos": 48,
-   "videos_this_week": 6,
+   "videos": 49,
+   "videos_this_week": 7,
    "scheduled": 1,
    "ministers": ""
   },
@@ -1414,7 +1414,7 @@
    "subscribers": 13,
    "views": 6032,
    "videos": 42,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1642,7 +1642,7 @@
    "subscribers": 6,
    "views": 3531,
    "videos": 36,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1690,7 +1690,7 @@
    "subscribers": 17,
    "views": 5157,
    "videos": 36,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1749,9 +1749,9 @@
    "url": "https://www.youtube.com/@ThePottersHouseClips",
    "subscribers": 15,
    "views": 5355,
-   "videos": 36,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 37,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2049,9 +2049,9 @@
    "url": "https://www.youtube.com/@KruptosMangh",
    "subscribers": 7,
    "views": 704,
-   "videos": 8,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 9,
+   "videos_this_week": 5,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2973,8 +2973,8 @@
    "url": "https://www.youtube.com/@WanjikuNjeri-e4f",
    "subscribers": 0,
    "views": 0,
-   "videos": 1,
-   "videos_this_week": 1,
+   "videos": 2,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2985,9 +2985,9 @@
    "url": "https://www.youtube.com/@YawOfori-y1g",
    "subscribers": 0,
    "views": 0,
-   "videos": 1,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 2,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
