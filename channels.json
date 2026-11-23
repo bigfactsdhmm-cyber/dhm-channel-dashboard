@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T07:30:40.131Z",
- "data_updated": "2026-11-23T07:30:40.003Z",
- "upload_log_updated": "2026-11-23 06:24 Accra",
+ "generated": "2026-11-23T08:04:09.267Z",
+ "data_updated": "2026-11-23T08:04:09.146Z",
+ "upload_log_updated": "2026-11-23 07:43 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542434,
   "views": 20419747,
-  "videos": 11767,
+  "videos": 11769,
   "videos_this_week": 655,
-  "videos_scheduled": 32
+  "videos_scheduled": 49
  },
  "channels": [
   {
@@ -347,7 +347,7 @@
    "views": 7950,
    "videos": 45,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -611,7 +611,7 @@
    "views": 436,
    "videos": 13,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -647,7 +647,7 @@
    "views": 717,
    "videos": 8,
    "videos_this_week": 2,
-   "scheduled": 1,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -671,7 +671,7 @@
    "views": 10883,
    "videos": 13,
    "videos_this_week": 5,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -767,7 +767,7 @@
    "views": 378,
    "videos": 11,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -839,7 +839,7 @@
    "views": 11,
    "videos": 6,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1077,9 +1077,9 @@
    "url": "https://www.youtube.com/@FaithAfterMidnight-j7w",
    "subscribers": 5,
    "views": 1078,
-   "videos": 11,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 12,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1295,7 +1295,7 @@
    "views": 9145,
    "videos": 48,
    "videos_this_week": 6,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1450,7 +1450,7 @@
    "subscribers": 9,
    "views": 3737,
    "videos": 42,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1535,7 +1535,7 @@
    "views": 345,
    "videos": 14,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1726,7 +1726,7 @@
    "subscribers": 40,
    "views": 6623,
    "videos": 43,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1811,7 +1811,7 @@
    "views": 630,
    "videos": 24,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2051,7 +2051,7 @@
    "views": 672,
    "videos": 8,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2721,8 +2721,8 @@
    "url": "https://www.youtube.com/@IComeSeekingFruits",
    "subscribers": 1,
    "views": 322,
-   "videos": 2,
-   "videos_this_week": 2,
+   "videos": 3,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
