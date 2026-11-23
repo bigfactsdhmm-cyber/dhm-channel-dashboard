@@ -1,8 +1,8 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T06:24:17.010Z",
- "data_updated": "2026-11-23T06:24:16.877Z",
- "upload_log_updated": "2026-11-22 18:58 Accra",
+ "generated": "2026-11-23T06:57:30.628Z",
+ "data_updated": "2026-11-23T06:57:30.482Z",
+ "upload_log_updated": "2026-11-23 06:24 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
@@ -10,8 +10,8 @@
   "subscribers": 542434,
   "views": 20419747,
   "videos": 11766,
-  "videos_this_week": 656,
-  "videos_scheduled": 0
+  "videos_this_week": 655,
+  "videos_scheduled": 34
  },
  "channels": [
   {
@@ -359,7 +359,7 @@
    "views": 182,
    "videos": 8,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -563,7 +563,7 @@
    "views": 38142,
    "videos": 19,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -587,7 +587,7 @@
    "views": 176,
    "videos": 11,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": "Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)"
   },
   {
@@ -599,7 +599,7 @@
    "views": 133,
    "videos": 11,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -647,7 +647,7 @@
    "views": 717,
    "videos": 8,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -659,7 +659,7 @@
    "views": 132965,
    "videos": 13,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -935,7 +935,7 @@
    "views": 619,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -982,7 +982,7 @@
    "subscribers": 3,
    "views": 1323,
    "videos": 29,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1019,7 +1019,7 @@
    "views": 6665,
    "videos": 45,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1079,7 +1079,7 @@
    "views": 1078,
    "videos": 11,
    "videos_this_week": 3,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1127,7 +1127,7 @@
    "views": 2191,
    "videos": 14,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1139,7 +1139,7 @@
    "views": 344,
    "videos": 12,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1199,7 +1199,7 @@
    "views": 1510,
    "videos": 11,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1211,7 +1211,7 @@
    "views": 833,
    "videos": 8,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1751,7 +1751,7 @@
    "views": 5339,
    "videos": 35,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1991,7 +1991,7 @@
    "views": 452,
    "videos": 10,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2723,7 +2723,7 @@
    "views": 322,
    "videos": 2,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2955,6 +2955,42 @@
    "ministers": ""
   },
   {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Kwame Mensah",
+   "url": "https://www.youtube.com/@KwameMensah-l8t",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Wanjiku Njeri",
+   "url": "https://www.youtube.com/@WanjikuNjeri-e4f",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
+   "section": "People channels",
+   "platform": "YouTube",
+   "name": "Yaw Ofori",
+   "url": "https://www.youtube.com/@YawOfori-y1g",
+   "subscribers": 0,
+   "views": 0,
+   "videos": 0,
+   "videos_this_week": 0,
+   "scheduled": 2,
+   "ministers": ""
+  },
+  {
    "section": "Fan channels",
    "platform": "YouTube",
    "name": "Faith Nation TV",
@@ -3031,18 +3067,6 @@
    "platform": "YouTube",
    "name": "Kingdom Wave",
    "url": "https://www.youtube.com/@KingdomWave-l3u",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Kwame Mensah",
-   "url": "https://www.youtube.com/@KwameMensah-l8t",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
@@ -3135,34 +3159,10 @@
    "ministers": ""
   },
   {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Wanjiku Njeri",
-   "url": "https://www.youtube.com/@WanjikuNjeri-e4f",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
    "section": "Fan channels",
    "platform": "YouTube",
    "name": "Word & Spirit TV",
    "url": "https://www.youtube.com/@WordSpiritTV-h4p",
-   "subscribers": 0,
-   "views": 0,
-   "videos": 0,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "People channels",
-   "platform": "YouTube",
-   "name": "Yaw Ofori",
-   "url": "https://www.youtube.com/@YawOfori-y1g",
    "subscribers": 0,
    "views": 0,
    "videos": 0,
