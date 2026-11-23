@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T16:44:22.558Z";
+window.UPDATED = "2026-11-23T17:17:57.201Z";
 window.LOG_UPDATED = "2026-11-23 14:41 Accra";
 window.CHANNELS = [
  {
@@ -393,10 +393,10 @@ window.CHANNELS = [
   "name": "Kingdom Minded",
   "url": "https://www.youtube.com/@KingdomMinded-h4d",
   "icon": "https://yt3.googleusercontent.com/QAuID-4x2xdjqR5hBfrpXJx5Lu3AuO5Ew_QFibnaYYUgPAxJjCHsldKrpUKq5yPVPejqBNesbA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 42,
+  "videos": 43,
   "views": 33316,
   "subs": 62,
-  "week": 5,
+  "week": 6,
   "added": 13,
   "scheduled": [
    "28 Sep 18:40",
@@ -433,10 +433,10 @@ window.CHANNELS = [
   "name": "Kingdom Pulse",
   "url": "https://www.youtube.com/@KingdomPulse-j3w",
   "icon": "https://yt3.googleusercontent.com/j6bYn8uzCWFlBovDyPTmiLSqcnWe8KEAonDOs-Px4qrs9mk5CT5-33uSGO-pie6OxtdzvAWwiQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 21,
+  "videos": 22,
   "views": 1503,
   "subs": 2,
-  "week": 7,
+  "week": 8,
   "added": 14,
   "scheduled": [
    "29 Sep 17:45",
@@ -618,10 +618,10 @@ window.CHANNELS = [
   "name": "One More Chapter",
   "url": "https://www.youtube.com/@OneMoreChapter-k5s",
   "icon": "https://yt3.googleusercontent.com/p1irAEvaIyJ5yRV15UdhC6JmV-x3cHIEEenUBOPTvZdIbZ-2wJBBqHN4cR3cR2yV5yRGhDgrJQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 437,
   "subs": 3,
-  "week": 3,
+  "week": 4,
   "added": 22,
   "scheduled": [
    "29 Sep 17:30",
@@ -1363,10 +1363,10 @@ window.CHANNELS = [
   "name": "Ancient Paths",
   "url": "https://www.youtube.com/@AncientPaths-l9s",
   "icon": "https://yt3.googleusercontent.com/JE40RpAAmpzFuZ5GUQjHLeLoZOKvrW7nHOaevRwc9YOwCKmBuYiP85R-KVSYGqngILE3TMlGgg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 636,
   "subs": 3,
-  "week": 3,
+  "week": 4,
   "added": 49,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -2314,10 +2314,10 @@ window.CHANNELS = [
   "name": "Kingdom Notes",
   "url": "https://www.youtube.com/@KingdomNotes-u8w",
   "icon": "https://yt3.googleusercontent.com/hWPD-MgS-EnwqKt1rvQgdeCoblgn_4GK_SS0jRjdD_SqAIf4JSjcxQkO-IXBau3aps5INf5Gsg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 22,
+  "videos": 23,
   "views": 1012,
   "subs": 7,
-  "week": 8,
+  "week": 9,
   "added": 80,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -2983,7 +2983,7 @@ window.CHANNELS = [
   "videos": 44,
   "views": 4796,
   "subs": 11,
-  "week": 7,
+  "week": 6,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -4011,7 +4011,7 @@ window.CHANNELS = [
   "videos": 37,
   "views": 3817,
   "subs": 8,
-  "week": 6,
+  "week": 5,
   "added": 132,
   "scheduled": [
    "26 Oct 18:20, Short 26 Oct 12:20",

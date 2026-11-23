@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T16:44:22.678Z",
- "data_updated": "2026-11-23T16:44:22.558Z",
+ "generated": "2026-11-23T17:17:57.324Z",
+ "data_updated": "2026-11-23T17:17:57.201Z",
  "upload_log_updated": "2026-11-23 14:41 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471884,
-  "videos": 11745,
-  "videos_this_week": 672,
-  "videos_scheduled": 46
+  "videos": 11750,
+  "videos_this_week": 675,
+  "videos_scheduled": 41
  },
  "channels": [
   {
@@ -501,9 +501,9 @@
    "url": "https://www.youtube.com/@KingdomMinded-h4d",
    "subscribers": 62,
    "views": 33316,
-   "videos": 42,
-   "videos_this_week": 5,
-   "scheduled": 2,
+   "videos": 43,
+   "videos_this_week": 6,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -513,9 +513,9 @@
    "url": "https://www.youtube.com/@KingdomPulse-j3w",
    "subscribers": 2,
    "views": 1503,
-   "videos": 21,
-   "videos_this_week": 7,
-   "scheduled": 2,
+   "videos": 22,
+   "videos_this_week": 8,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -609,9 +609,9 @@
    "url": "https://www.youtube.com/@OneMoreChapter-k5s",
    "subscribers": 3,
    "views": 437,
-   "videos": 14,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 15,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -933,9 +933,9 @@
    "url": "https://www.youtube.com/@AncientPaths-l9s",
    "subscribers": 3,
    "views": 636,
-   "videos": 11,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 12,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1305,9 +1305,9 @@
    "url": "https://www.youtube.com/@KingdomNotes-u8w",
    "subscribers": 7,
    "views": 1012,
-   "videos": 22,
-   "videos_this_week": 8,
-   "scheduled": 2,
+   "videos": 23,
+   "videos_this_week": 9,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1558,7 +1558,7 @@
    "subscribers": 11,
    "views": 4796,
    "videos": 44,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1930,7 +1930,7 @@
    "subscribers": 8,
    "views": 3817,
    "videos": 37,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
