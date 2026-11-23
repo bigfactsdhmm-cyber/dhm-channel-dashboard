@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T18:25:00.763Z",
- "data_updated": "2026-11-23T18:25:00.634Z",
+ "generated": "2026-11-23T18:58:45.070Z",
+ "data_updated": "2026-11-23T18:58:44.935Z",
  "upload_log_updated": "2026-11-23 17:35 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542745,
-  "views": 20471884,
-  "videos": 11764,
-  "videos_this_week": 680,
-  "videos_scheduled": 29
+  "views": 20471887,
+  "videos": 11771,
+  "videos_this_week": 684,
+  "videos_scheduled": 24
  },
  "channels": [
   {
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47912,
+   "views": 47915,
    "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -405,9 +405,9 @@
    "url": "https://www.youtube.com/@GlobalSpotlight-r7j",
    "subscribers": 7,
    "views": 2826,
-   "videos": 19,
-   "videos_this_week": 9,
-   "scheduled": 1,
+   "videos": 20,
+   "videos_this_week": 10,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -669,9 +669,9 @@
    "url": "https://www.youtube.com/@SaintandStories",
    "subscribers": 24,
    "views": 10992,
-   "videos": 12,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 13,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -741,9 +741,9 @@
    "url": "https://www.youtube.com/@ThePeacefulHome-i3b",
    "subscribers": 8,
    "views": 1234,
-   "videos": 18,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 19,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1114,7 +1114,7 @@
    "subscribers": 9,
    "views": 4917,
    "videos": 41,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1630,7 +1630,7 @@
    "subscribers": 16,
    "views": 6255,
    "videos": 47,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1737,9 +1737,9 @@
    "url": "https://www.youtube.com/@ThePilgrimRadio",
    "subscribers": 2,
    "views": 1196,
-   "videos": 16,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 17,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 65,
-   "videos": 64,
+   "videos": 65,
    "videos_this_week": 38,
    "scheduled": 0,
    "ministers": ""
@@ -2853,8 +2853,8 @@
    "url": "https://www.youtube.com/@TanWeiMing9",
    "subscribers": 0,
    "views": 49,
-   "videos": 2,
-   "videos_this_week": 2,
+   "videos": 3,
+   "videos_this_week": 3,
    "scheduled": 1,
    "ministers": ""
   },
@@ -2877,9 +2877,9 @@
    "url": "https://www.youtube.com/@LimJiaHui23",
    "subscribers": 0,
    "views": 20,
-   "videos": 2,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 3,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {

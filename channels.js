@@ -1,10 +1,10 @@
 window.CREATED = 254;
-window.PLATFORMS = [{"platform":"Odysee","week":0,"views":1296,"name":"Pastors Conferences - Dag Heward-Mills","url":"https://odysee.com/@daghewardmillspastorsconferences","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UCKzD1RcWFLKLqJCUXYryztQ","videos":332,"followers":89,"latest":"2026-08-26"},{"platform":"Odysee","week":0,"views":200,"name":"Dag Heward-Mills - Revival at 7 ","url":"https://odysee.com/@daghewardmillsrevivalat7","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UC4kZIrxs5mEBIfSkdz3cUXg","videos":65,"followers":38,"latest":"2024-05-16"},{"platform":"Odysee","week":0,"views":182,"name":"Impartation Services - Dag Heward-Mills","url":"https://odysee.com/@daghewardmillsimpartationservices","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UCvUCYkSiLBDvk6mN9T0jKBg","videos":57,"followers":75,"latest":"2024-05-16"},{"platform":"Odysee","week":2,"views":1918,"name":"Dag Heward-Mills Flow Prayer Meetings","url":"https://odysee.com/@FlowChurchServices","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UC8DKNfwM7rdx1ZxN7JkoZ8g","videos":198,"followers":80,"latest":"2026-11-20"},{"platform":"Odysee","week":0,"views":83,"name":"Dag Heward-Mills GTWC International Conferences","url":"https://odysee.com/@GiveThyselfWhollyInternationalConferences","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbs.odycdn.com/5be70208f1d3a9b50c1252ac7171acce.webp","videos":58,"followers":34,"latest":"2024-05-22"},{"platform":"Odysee","week":0,"views":598,"name":"Flow Church Services - Dag Heward-Mills","url":"https://odysee.com/@daghewardmillsflowchurchservices","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbs.odycdn.com/1230442043d11f6c6776c26fbe0bfcc2.webp","videos":185,"followers":49,"latest":"2026-08-19"},{"platform":"Rumble","url":"https://rumble.com/c/DagHewardMills","videos":1,"views":64,"latest":"2026-05-06","name":"Dag Heward-Mills","icon":"https://hugh.cdn.rumble.cloud/video/z8/j/N/x/D/jNxDa.baa-DagHewardMills-svh1xh.jpeg","followers":204},{"platform":"Rumble","url":"https://rumble.com/c/c-6260523","videos":127,"views":47912,"latest":"2026-11-11","name":"Dag Heward-Mills Conventions","icon":"https://hugh.cdn.rumble.cloud/video/z8/R/C/4/x/RC4xa.baa-DagHewardMillsConventions-sdk0es.jpeg","followers":618},{"platform":"Rumble","url":"https://rumble.com/c/c-6116724","videos":8,"views":1861,"latest":"","name":"Dag Heward-Mills Shepherds' Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/0/v/v/x/0vvxa.baa-daghewardmillsshepherdsse-sdj5p1.jpeg","followers":273},{"platform":"Rumble","url":"https://rumble.com/c/daghewardmillstuesdayservices","videos":125,"views":3327,"latest":"","name":"Dag Heward-Mills Tuesday Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/Q/E/5/x/QE5xa.baa-DagHewardMillsTuesdayServ-sdl899.jpeg","followers":253},{"platform":"Rumble","url":"https://rumble.com/c/c-6264812","videos":273,"views":4215,"latest":"","name":"Dag Heward-Mills Korle Gonno","icon":"https://hugh.cdn.rumble.cloud/video/z8/S/F/5/x/SF5xa.baa-DagHewardMillsKorleGonno-sdl8hs.jpeg","followers":238},{"platform":"Rumble","url":"https://rumble.com/c/c-6257904","videos":29,"views":2509,"latest":"","name":"Dag Heward-Mills Wisdom Impartation Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/W/Z/3/x/WZ3xa.baa-WisdomImpartationDagHewar-sdjbxq.jpeg","followers":253},{"platform":"Rumble","url":"https://rumble.com/c/c-7805020","videos":18,"views":1204,"latest":"2026-09-11","name":"Dag Heward-Mills Love First Church Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/C/H/X/D/CHXDa.baa.1-DagHewardMillsLoveFirst-t4jzd1.jpeg","followers":69},{"platform":"BitChute","url":"https://www.bitchute.com/channel/Mg7id7fz3eCF/","name":"Dag Heward-Mills Qodesh","icon":"https://static-3.bitchute.com/live/channel_images/Mg7id7fz3eCF/0CUPwgjbJrBaT2i0wDeEI4eW_large.jpg","followers":5,"videos":131,"views":5571,"week":0,"latest":"2025-11-12"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/4MgIaXadefNI/","name":"Dag Heward-Mills Iron Sharpeneth Iron","icon":"https://static-3.bitchute.com/live/channel_images/4MgIaXadefNI/ZKwHUxHAVa1WXIE6ydEmdNXl_large.jpg","followers":5,"videos":142,"views":11509,"week":0,"latest":"2024-07-03"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/11UXeAys0iQY/","name":"Dag Heward-Mills Miracle Wave Conventions","icon":"https://static-3.bitchute.com/live/channel_images/11UXeAys0iQY/mOHtGNipKH79lfACcZkPkSpl_large.jpg","followers":5,"videos":19,"views":5152,"week":0,"latest":"2024-06-14"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/0PiH10KPVZix/","name":"Dag Heward-Mills Overcomers Services","icon":"https://static-3.bitchute.com/live/channel_images/0PiH10KPVZix/5QTLZOLEF36qmOsWk43S8m7Y_large.jpg","followers":5,"videos":11,"views":183,"week":0,"latest":"2024-06-12"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/zVljk4VmyC9q/","name":"Dag Heward-Mills Leaders Services","icon":"https://static-3.bitchute.com/live/channel_images/zVljk4VmyC9q/5yIarKFrx81124BLPs8gcRd5_large.jpg","followers":5,"videos":10,"views":241,"week":0,"latest":"2024-06-12"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/kwaYujwB7XMk/","name":"Dag Heward-Mills Unquenchable Fire Services","icon":"https://static-3.bitchute.com/live/channel_images/kwaYujwB7XMk/qgyjIBDToylbdJrx8NoKJ2ll_large.jpg","followers":4,"videos":32,"views":427,"week":0,"latest":"2024-06-13"}];
+window.PLATFORMS = [{"platform":"Odysee","week":0,"views":1296,"name":"Pastors Conferences - Dag Heward-Mills","url":"https://odysee.com/@daghewardmillspastorsconferences","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UCKzD1RcWFLKLqJCUXYryztQ","videos":332,"followers":89,"latest":"2026-08-26"},{"platform":"Odysee","week":0,"views":200,"name":"Dag Heward-Mills - Revival at 7 ","url":"https://odysee.com/@daghewardmillsrevivalat7","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UC4kZIrxs5mEBIfSkdz3cUXg","videos":65,"followers":38,"latest":"2024-05-16"},{"platform":"Odysee","week":0,"views":182,"name":"Impartation Services - Dag Heward-Mills","url":"https://odysee.com/@daghewardmillsimpartationservices","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UCvUCYkSiLBDvk6mN9T0jKBg","videos":57,"followers":75,"latest":"2024-05-16"},{"platform":"Odysee","week":2,"views":1918,"name":"Dag Heward-Mills Flow Prayer Meetings","url":"https://odysee.com/@FlowChurchServices","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbnails.lbry.com/UC8DKNfwM7rdx1ZxN7JkoZ8g","videos":198,"followers":80,"latest":"2026-11-20"},{"platform":"Odysee","week":0,"views":83,"name":"Dag Heward-Mills GTWC International Conferences","url":"https://odysee.com/@GiveThyselfWhollyInternationalConferences","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbs.odycdn.com/5be70208f1d3a9b50c1252ac7171acce.webp","videos":58,"followers":34,"latest":"2024-05-22"},{"platform":"Odysee","week":0,"views":598,"name":"Flow Church Services - Dag Heward-Mills","url":"https://odysee.com/@daghewardmillsflowchurchservices","icon":"https://thumbnails.odycdn.com/optimize/s:176:176/quality:85/plain/https://thumbs.odycdn.com/1230442043d11f6c6776c26fbe0bfcc2.webp","videos":185,"followers":49,"latest":"2026-08-19"},{"platform":"Rumble","url":"https://rumble.com/c/DagHewardMills","videos":1,"views":64,"latest":"2026-05-06","name":"Dag Heward-Mills","icon":"https://hugh.cdn.rumble.cloud/video/z8/j/N/x/D/jNxDa.baa-DagHewardMills-svh1xh.jpeg","followers":204},{"platform":"Rumble","url":"https://rumble.com/c/c-6260523","videos":127,"views":47915,"latest":"2026-11-11","name":"Dag Heward-Mills Conventions","icon":"https://hugh.cdn.rumble.cloud/video/z8/R/C/4/x/RC4xa.baa-DagHewardMillsConventions-sdk0es.jpeg","followers":618},{"platform":"Rumble","url":"https://rumble.com/c/c-6116724","videos":8,"views":1861,"latest":"","name":"Dag Heward-Mills Shepherds' Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/0/v/v/x/0vvxa.baa-daghewardmillsshepherdsse-sdj5p1.jpeg","followers":273},{"platform":"Rumble","url":"https://rumble.com/c/daghewardmillstuesdayservices","videos":125,"views":3327,"latest":"","name":"Dag Heward-Mills Tuesday Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/Q/E/5/x/QE5xa.baa-DagHewardMillsTuesdayServ-sdl899.jpeg","followers":253},{"platform":"Rumble","url":"https://rumble.com/c/c-6264812","videos":273,"views":4215,"latest":"","name":"Dag Heward-Mills Korle Gonno","icon":"https://hugh.cdn.rumble.cloud/video/z8/S/F/5/x/SF5xa.baa-DagHewardMillsKorleGonno-sdl8hs.jpeg","followers":238},{"platform":"Rumble","url":"https://rumble.com/c/c-6257904","videos":29,"views":2509,"latest":"","name":"Dag Heward-Mills Wisdom Impartation Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/W/Z/3/x/WZ3xa.baa-WisdomImpartationDagHewar-sdjbxq.jpeg","followers":253},{"platform":"Rumble","url":"https://rumble.com/c/c-7805020","videos":18,"views":1204,"latest":"2026-09-11","name":"Dag Heward-Mills Love First Church Services","icon":"https://hugh.cdn.rumble.cloud/video/z8/C/H/X/D/CHXDa.baa.1-DagHewardMillsLoveFirst-t4jzd1.jpeg","followers":69},{"platform":"BitChute","url":"https://www.bitchute.com/channel/Mg7id7fz3eCF/","name":"Dag Heward-Mills Qodesh","icon":"https://static-3.bitchute.com/live/channel_images/Mg7id7fz3eCF/0CUPwgjbJrBaT2i0wDeEI4eW_large.jpg","followers":5,"videos":131,"views":5571,"week":0,"latest":"2025-11-12"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/4MgIaXadefNI/","name":"Dag Heward-Mills Iron Sharpeneth Iron","icon":"https://static-3.bitchute.com/live/channel_images/4MgIaXadefNI/ZKwHUxHAVa1WXIE6ydEmdNXl_large.jpg","followers":5,"videos":142,"views":11509,"week":0,"latest":"2024-07-03"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/11UXeAys0iQY/","name":"Dag Heward-Mills Miracle Wave Conventions","icon":"https://static-3.bitchute.com/live/channel_images/11UXeAys0iQY/mOHtGNipKH79lfACcZkPkSpl_large.jpg","followers":5,"videos":19,"views":5152,"week":0,"latest":"2024-06-14"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/0PiH10KPVZix/","name":"Dag Heward-Mills Overcomers Services","icon":"https://static-3.bitchute.com/live/channel_images/0PiH10KPVZix/5QTLZOLEF36qmOsWk43S8m7Y_large.jpg","followers":5,"videos":11,"views":183,"week":0,"latest":"2024-06-12"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/zVljk4VmyC9q/","name":"Dag Heward-Mills Leaders Services","icon":"https://static-3.bitchute.com/live/channel_images/zVljk4VmyC9q/5yIarKFrx81124BLPs8gcRd5_large.jpg","followers":5,"videos":10,"views":241,"week":0,"latest":"2024-06-12"},{"platform":"BitChute","url":"https://www.bitchute.com/channel/kwaYujwB7XMk/","name":"Dag Heward-Mills Unquenchable Fire Services","icon":"https://static-3.bitchute.com/live/channel_images/kwaYujwB7XMk/qgyjIBDToylbdJrx8NoKJ2ll_large.jpg","followers":4,"videos":32,"views":427,"week":0,"latest":"2024-06-13"}];
 window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","url":"https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A","icon":"https://yt3.ggpht.com/e5VUjC_1AfYQvBzY43JZNi2MCfqGqLWi4yJ1v7kd6f-xSuamh78Z0BXPs2ZUj35BBhCqgLrc6A=s176-c-k-c0x00ffffff-no-rj","subs":389000,"videos":2195,"views":16141226,"week":12,"videos_api":2193,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UCVzCxR3llvWZ_CMwI9m4KsQ","name":"Dag Heward-Mills Books Channel","url":"https://www.youtube.com/channel/UCVzCxR3llvWZ_CMwI9m4KsQ","icon":"https://yt3.ggpht.com/s59XaBmk0vJM_kI1kBV8Bh4VsRQ0lPz1nQdqV8MdvU5lkOTF32dt3fDBHKHQmfp8JWbPzw-wDSc=s176-c-k-c0x00ffffff-no-rj","subs":8550,"videos":826,"views":72029,"week":0,"videos_api":826,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UCqCPZBYsAPQmy3OpjXbpPew","name":"Dag Heward-Mills Loyalty Channel","url":"https://www.youtube.com/channel/UCqCPZBYsAPQmy3OpjXbpPew","icon":"https://yt3.ggpht.com/eUDB8fKdaJU598OQfQh0pfLuZVBDzChYLqQpYgna5m_NvYXGiDsPaJGZPQ--q9AtxedleVOX=s176-c-k-c0x00ffffff-no-rj","subs":9540,"videos":115,"views":32876,"week":0,"videos_api":115,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UCkzOt9a_U5VnikkQ0lcmN9w","name":"Dag Heward-Mills Camps Channel","url":"https://www.youtube.com/channel/UCkzOt9a_U5VnikkQ0lcmN9w","icon":"https://yt3.ggpht.com/YGgxlEQVonz5WWrwNsVYGmJ1x0DNYVFGJGVcio4xo_doobofTCxTwwUkUW2WTYL5R3atL2urRw=s176-c-k-c0x00ffffff-no-rj","subs":26900,"videos":1763,"views":1696525,"week":0,"videos_api":1763,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UChldDpbRRb5tSvmS7S1oNMw","name":"Dag Heward-Mills Conference (GTWC) Channel","url":"https://www.youtube.com/channel/UChldDpbRRb5tSvmS7S1oNMw","icon":"https://yt3.ggpht.com/lbjQyRHToD1FpaQu6IjD9izhS3ExJtA1tRUEKM5p-qUFxBR0V32SQBWl8huMEVWvA4bNvoYd=s176-c-k-c0x00ffffff-no-rj","subs":15800,"videos":475,"views":538946,"week":0,"videos_api":475,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UCYYQSrD0b_1jtYN649pJOUQ","name":"Dag Heward-Mills Nations Channel","url":"https://www.youtube.com/channel/UCYYQSrD0b_1jtYN649pJOUQ","icon":"https://yt3.ggpht.com/XGmfsgzYcNPd8YvrJ3yGvMRCFq-jan5jUq98twMtmeT7ZrTe_ZqmC1yrmJEyn33JevRl0OmyYA=s176-c-k-c0x00ffffff-no-rj","subs":13400,"videos":237,"views":148669,"week":0,"videos_api":237,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UCptt7A7_dtkFvYzDNFnufvQ","name":"Dag Heward-Mills Crusades","url":"https://www.youtube.com/channel/UCptt7A7_dtkFvYzDNFnufvQ","icon":"https://yt3.ggpht.com/Xp7qi1i0KAKP41qERvNqqWVGyaMZWOuovjdARdjOMfHLPRWlxWemeU8OXXFqMYf7GnJ4i2LTVg=s176-c-k-c0x00ffffff-no-rj","subs":14200,"videos":484,"views":109374,"week":0,"videos_api":484,"api_at":"2026-11-23T13:13:23.723837+00:00"},{"id":"UCx0MhYkyJZ-bElQhu1Z43qQ","name":"Dag Heward-Mills Docufilms Channel","url":"https://www.youtube.com/channel/UCx0MhYkyJZ-bElQhu1Z43qQ","icon":"https://yt3.ggpht.com/4L3v2RoUlAe0LCX90Jxpz5246fvU2RvFuIyChOUDEG92r1C1gCanvARkps-t3x9mF4bxrrxH8Q=s176-c-k-c0x00ffffff-no-rj","subs":11000,"videos":49,"views":22240,"week":0,"videos_api":49,"api_at":"2026-11-23T13:13:23.723837+00:00"}];
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T18:25:00.634Z";
+window.UPDATED = "2026-11-23T18:58:44.935Z";
 window.LOG_UPDATED = "2026-11-23 17:35 Accra";
 window.CHANNELS = [
  {
@@ -177,10 +177,10 @@ window.CHANNELS = [
   "name": "Fresh Impact TV",
   "url": "https://www.youtube.com/@GlobalSpotlight-r7j",
   "icon": "https://yt3.googleusercontent.com/8x-U20OQkYBT4mkrkcf-7WXDOEtFeV0rrXLqpxiylnga5g1a8OcQR83Xcye2g_MJi4r5djzIaA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 19,
+  "videos": 20,
   "views": 2826,
   "subs": 7,
-  "week": 9,
+  "week": 10,
   "added": 5,
   "scheduled": [
    "29 Sep 17:40",
@@ -735,10 +735,10 @@ window.CHANNELS = [
   "name": "Saint & Stories",
   "url": "https://www.youtube.com/@SaintandStories",
   "icon": "https://yt3.googleusercontent.com/YshqkCIf1qWRxH3JBug-64t0wUbV8LTI_NkvtWOhcVMG72vuxmRvTHO0n2aue8TEG8BND9ooN3E=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 12,
+  "videos": 13,
   "views": 10992,
   "subs": 24,
-  "week": 6,
+  "week": 7,
   "added": 27,
   "scheduled": [
    "29 Sep 18:05",
@@ -915,10 +915,10 @@ window.CHANNELS = [
   "name": "The Peaceful Home",
   "url": "https://www.youtube.com/@ThePeacefulHome-i3b",
   "icon": "https://yt3.googleusercontent.com/65RCsyihJd0zUC1vhHAl5GXj0JFsa5F9hijknlLVFHSO56rH6ie9ppuHVfvqtozhAlJb25NczA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 18,
+  "videos": 19,
   "views": 1234,
   "subs": 8,
-  "week": 2,
+  "week": 3,
   "added": 33,
   "scheduled": [
    "29 Sep 17:15",
@@ -1828,7 +1828,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 4917,
   "subs": 9,
-  "week": 4,
+  "week": 3,
   "added": 64,
   "scheduled": [
    "2 Nov 06:49, Short 2 Nov 06:51",
@@ -3158,7 +3158,7 @@ window.CHANNELS = [
   "videos": 47,
   "views": 6255,
   "subs": 16,
-  "week": 6,
+  "week": 5,
   "added": 107,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -3476,10 +3476,10 @@ window.CHANNELS = [
   "name": "The Pilgrim Radio",
   "url": "https://www.youtube.com/@ThePilgrimRadio",
   "icon": "https://yt3.googleusercontent.com/oMR_aeWmYXVqdGG_BBHODfpZ3t27kHZZkI-U_jxm-ScjKBJfAcpPXyjOSmqnPA4GP_YReiKIRmw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 16,
+  "videos": 17,
   "views": 1196,
   "subs": 2,
-  "week": 5,
+  "week": 6,
   "added": 116,
   "scheduled": [
    "29 Sep 18:05, Short 29 Sep 12:05",
@@ -5043,7 +5043,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 64,
+  "videos": 65,
   "views": 65,
   "subs": 1,
   "week": 38,
@@ -5074,7 +5074,8 @@ window.CHANNELS = [
    "23 Nov 14:36",
    "23 Nov 17:30",
    "23 Nov 17:30",
-   "23 Nov 17:30"
+   "23 Nov 17:30",
+   "23 Nov 18:50"
   ]
  },
  {
@@ -5553,10 +5554,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@TanWeiMing9",
   "icon": "https://yt3.googleusercontent.com/hOJToUms9QTblUCC6bYO5eqJ1E_4Kb9nYRRREnXNNFEk9omN1Qq4XrRoXJL_I0ZnlsHfxcTG=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 49,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 210,
   "scheduled": [
    "22 Nov 12:00, Short 22 Nov 15:00",
@@ -5585,10 +5586,10 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@LimJiaHui23",
   "icon": "https://yt3.googleusercontent.com/XuxUuzeBRPGbl3BTrxtsG8nVT6USfbxpNaVnZ9PvZbJGfSzdF1WpCZMC-x1crIUcoyjwG06N=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 2,
+  "videos": 3,
   "views": 20,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 212,
   "scheduled": [
    "22 Nov 12:30, Short 22 Nov 15:30",
