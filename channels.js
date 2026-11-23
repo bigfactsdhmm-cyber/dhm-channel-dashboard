@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-23T13:53:45.797Z";
+window.UPDATED = "2026-11-23T14:27:21.119Z";
 window.LOG_UPDATED = "2026-11-23 12:21 Accra";
 window.CHANNELS = [
  {
@@ -618,10 +618,10 @@ window.CHANNELS = [
   "name": "One More Chapter",
   "url": "https://www.youtube.com/@OneMoreChapter-k5s",
   "icon": "https://yt3.googleusercontent.com/p1irAEvaIyJ5yRV15UdhC6JmV-x3cHIEEenUBOPTvZdIbZ-2wJBBqHN4cR3cR2yV5yRGhDgrJQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 13,
+  "videos": 14,
   "views": 437,
   "subs": 3,
-  "week": 2,
+  "week": 3,
   "added": 22,
   "scheduled": [
    "29 Sep 17:30",
@@ -1156,10 +1156,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@WarfareKeys",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nPJ4joKBNG1QXoFUaaTix47BBZ4PIGkUGACXcHu1D3JB7O_rQyCsb15fk7nwY3T_gC1A=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 6,
+  "videos": 7,
   "views": 13,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 41,
   "scheduled": [
    "28 Sep 18:30",
@@ -1689,7 +1689,7 @@ window.CHANNELS = [
   "videos": 43,
   "views": 39024,
   "subs": 63,
-  "week": 3,
+  "week": 2,
   "added": 59,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -1862,10 +1862,10 @@ window.CHANNELS = [
   "name": "Found in the Message",
   "url": "https://www.youtube.com/@FoundintheMessage",
   "icon": "https://yt3.googleusercontent.com/_XaLTwhe216cESZf6S2l2omn7_u7eEBnaZS0QusJMSRpOzDERkehkpuyIJVtjbHSOPMVPTeU0YA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 2190,
   "subs": 6,
-  "week": 1,
+  "week": 2,
   "added": 65,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -2983,7 +2983,7 @@ window.CHANNELS = [
   "videos": 44,
   "views": 4796,
   "subs": 11,
-  "week": 8,
+  "week": 7,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -3024,7 +3024,7 @@ window.CHANNELS = [
   "videos": 27,
   "views": 350,
   "subs": 3,
-  "week": 4,
+  "week": 3,
   "added": 102,
   "scheduled": [
    "6 Nov 03:54, Short 6 Nov 03:57",
@@ -4144,10 +4144,10 @@ window.CHANNELS = [
   "name": "Carry the Cross",
   "url": "https://www.youtube.com/@CarrytheCross-u1v",
   "icon": "https://yt3.googleusercontent.com/OXVGmVtj-vscbohIOE0So-EhirjE43NpmgBnAUMEmonH3sQfHI82uYUBaLh6ctpUBVr2gm6g=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 454,
   "subs": 1,
-  "week": 1,
+  "week": 2,
   "added": 137,
   "scheduled": [
    "30 Sep 18:40, Short 30 Sep 12:40",
