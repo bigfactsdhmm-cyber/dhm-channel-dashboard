@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T20:39:21.072Z",
- "data_updated": "2026-11-23T20:39:20.939Z",
+ "generated": "2026-11-23T21:12:51.441Z",
+ "data_updated": "2026-11-23T21:12:51.305Z",
  "upload_log_updated": "2026-11-23 19:59 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471887,
-  "videos": 11786,
-  "videos_this_week": 691,
+  "videos": 11788,
+  "videos_this_week": 690,
   "videos_scheduled": 10
  },
  "channels": [
@@ -21,7 +21,7 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16141226,
-   "videos": 2195,
+   "videos": 2196,
    "videos_this_week": 12,
    "scheduled": 0,
    "ministers": ""
@@ -874,7 +874,7 @@
    "subscribers": 1070,
    "views": 3487,
    "videos": 49,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2469,7 +2469,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 65,
-   "videos": 66,
+   "videos": 67,
    "videos_this_week": 38,
    "scheduled": 0,
    "ministers": ""
