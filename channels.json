@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-23T15:37:09.436Z",
- "data_updated": "2026-11-23T15:37:09.312Z",
+ "generated": "2026-11-23T16:10:42.674Z",
+ "data_updated": "2026-11-23T16:10:42.555Z",
  "upload_log_updated": "2026-11-23 14:41 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471884,
-  "videos": 11732,
-  "videos_this_week": 667,
-  "videos_scheduled": 58
+  "videos": 11736,
+  "videos_this_week": 668,
+  "videos_scheduled": 52
  },
  "channels": [
   {
@@ -357,9 +357,9 @@
    "url": "https://www.youtube.com/@DivineVoiceTV-k5c",
    "subscribers": 1,
    "views": 182,
-   "videos": 9,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 10,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -405,9 +405,9 @@
    "url": "https://www.youtube.com/@GlobalSpotlight-r7j",
    "subscribers": 7,
    "views": 2826,
-   "videos": 18,
-   "videos_this_week": 8,
-   "scheduled": 2,
+   "videos": 19,
+   "videos_this_week": 9,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -453,9 +453,9 @@
    "url": "https://www.youtube.com/@GodMe-p1y",
    "subscribers": 8,
    "views": 2691,
-   "videos": 17,
-   "videos_this_week": 6,
-   "scheduled": 2,
+   "videos": 18,
+   "videos_this_week": 7,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -683,7 +683,7 @@
    "views": 828,
    "videos": 15,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1114,7 +1114,7 @@
    "subscribers": 9,
    "views": 4917,
    "videos": 41,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1199,7 +1199,7 @@
    "views": 1516,
    "videos": 12,
    "videos_this_week": 5,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1426,7 +1426,7 @@
    "subscribers": 16,
    "views": 3293,
    "videos": 36,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1737,9 +1737,9 @@
    "url": "https://www.youtube.com/@ThePilgrimRadio",
    "subscribers": 2,
    "views": 1196,
-   "videos": 15,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 16,
+   "videos_this_week": 5,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1846,7 +1846,7 @@
    "subscribers": 7,
    "views": 2336,
    "videos": 45,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
