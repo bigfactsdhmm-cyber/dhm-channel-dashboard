@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T19:59:42.586Z";
-window.LOG_UPDATED = "2026-11-24 16:49 Accra";
+window.UPDATED = "2026-11-24T20:33:19.863Z";
+window.LOG_UPDATED = "2026-11-24 20:14 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -875,6 +875,7 @@ window.CHANNELS = [
    "23 Oct 18:50",
    "13 Oct 18:50",
    "5 Oct 18:50",
+   "25 Nov 07:30, Short 25 Nov 10:30",
    "Short 14 Oct 12:50",
    "Short 5 Oct 12:50",
    "Short 23 Oct 12:50"
@@ -2505,6 +2506,7 @@ window.CHANNELS = [
    "13 Oct 17:40",
    "1 Oct 07:00, Short 1 Oct 10:00",
    "17 Nov 10:15, Short 17 Nov 13:15",
+   "25 Nov 08:00, Short 25 Nov 11:00",
    "Short 13 Oct 12:40"
   ]
  },
@@ -2733,10 +2735,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@RefinersFire-t1j",
   "icon": "https://yt3.googleusercontent.com/BOs0tObpUN27_ANSHNaLBZOaN8mN0lQju_k9kfyGx8AtB3czB0gC9izX6TZAaAW0qN9JQAAsNA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 46,
+  "videos": 47,
   "views": 1994,
   "subs": 3,
-  "week": 2,
+  "week": 3,
   "added": 94,
   "scheduled": [
    "5 Nov 00:32, Short 5 Nov 00:57",
@@ -2988,7 +2990,7 @@ window.CHANNELS = [
   "videos": 46,
   "views": 4796,
   "subs": 11,
-  "week": 8,
+  "week": 7,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -3030,7 +3032,7 @@ window.CHANNELS = [
   "videos": 27,
   "views": 350,
   "subs": 3,
-  "week": 2,
+  "week": 1,
   "added": 102,
   "scheduled": [
    "6 Nov 03:54, Short 6 Nov 03:57",
@@ -4064,6 +4066,7 @@ window.CHANNELS = [
    "5 Oct 17:15",
    "4 Oct 17:15",
    "1 Oct 17:50, Short 1 Oct 12:50",
+   "25 Nov 06:30, Short 25 Nov 09:30",
    "Short 6 Oct 12:15",
    "Short 5 Oct 12:15",
    "Short 4 Oct 12:15"
@@ -4112,6 +4115,7 @@ window.CHANNELS = [
   "added": 135,
   "scheduled": [
    "14 Oct 18:10",
+   "25 Nov 07:00, Short 25 Nov 10:00",
    "Short 14 Oct 12:10"
   ]
  },
@@ -4214,6 +4218,7 @@ window.CHANNELS = [
    "3 Oct 17:35, Short 3 Oct 00:00",
    "9 Nov 09:37, Short 9 Nov 09:37",
    "22 Nov 11:00, Short 22 Nov 14:00",
+   "25 Nov 06:00, Short 25 Nov 09:00",
    "Short 24 Oct 12:45",
    "Short 19 Oct 14:52",
    "Short 17 Oct 22:35",
@@ -4361,10 +4366,10 @@ window.CHANNELS = [
   "name": "Holy Hill",
   "url": "https://www.youtube.com/@HolyHill100",
   "icon": "https://yt3.googleusercontent.com/JjImjx5lOtYfDg8CfGMCCb6D7A68s5Dk4aPw2g11wiMCWBaO4kvSIObBaAnzJfif-qWAr90eKlM=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 137,
+  "videos": 138,
   "views": 8939,
   "subs": 1160,
-  "week": 4,
+  "week": 5,
   "added": 145,
   "scheduled": [
    "19 Oct 19:56",
@@ -6048,10 +6053,10 @@ window.CHANNELS = [
   "name": "Called2Ministry",
   "url": "https://www.youtube.com/@Called2MinistryDHMM",
   "icon": "https://yt3.googleusercontent.com/w_k6dtvCRkHyIxaddmYgSZyAbrwpbhC_wlCRp6mM--QCmyz6NZpFRJKZ-un4Y-alwksvm8ukpQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 21,
+  "videos": 22,
   "views": 42380,
   "subs": 1700,
-  "week": 0,
+  "week": 1,
   "added": 247
  },
  {

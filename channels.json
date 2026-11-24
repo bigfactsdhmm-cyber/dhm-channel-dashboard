@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T19:59:42.757Z",
- "data_updated": "2026-11-24T19:59:42.586Z",
- "upload_log_updated": "2026-11-24 16:49 Accra",
+ "generated": "2026-11-24T20:33:20.004Z",
+ "data_updated": "2026-11-24T20:33:19.863Z",
+ "upload_log_updated": "2026-11-24 20:14 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 272,
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410805,
-  "videos": 11834,
-  "videos_this_week": 649,
-  "videos_scheduled": 7
+  "videos": 11837,
+  "videos_this_week": 650,
+  "videos_scheduled": 15
  },
  "channels": [
   {
@@ -635,7 +635,7 @@
    "views": 2690,
    "videos": 11,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Paul Enenche (destiny, purpose, practical holiness)"
   },
   {
@@ -1295,7 +1295,7 @@
    "views": 848,
    "videos": 7,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1389,9 +1389,9 @@
    "url": "https://www.youtube.com/@RefinersFire-t1j",
    "subscribers": 3,
    "views": 1994,
-   "videos": 46,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 47,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1474,7 +1474,7 @@
    "subscribers": 11,
    "views": 4796,
    "videos": 46,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1486,7 +1486,7 @@
    "subscribers": 3,
    "views": 350,
    "videos": 27,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1859,7 +1859,7 @@
    "views": 602,
    "videos": 10,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Femi Lazarus (teaching for a younger church)"
   },
   {
@@ -1883,7 +1883,7 @@
    "views": 46,
    "videos": 4,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1931,7 +1931,7 @@
    "views": 6621,
    "videos": 87,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2001,9 +2001,9 @@
    "url": "https://www.youtube.com/@HolyHill100",
    "subscribers": 1160,
    "views": 8939,
-   "videos": 137,
-   "videos_this_week": 4,
-   "scheduled": 2,
+   "videos": 138,
+   "videos_this_week": 5,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -3213,8 +3213,8 @@
    "url": "https://www.youtube.com/@Called2MinistryDHMM",
    "subscribers": 1700,
    "views": 42380,
-   "videos": 21,
-   "videos_this_week": 0,
+   "videos": 22,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
