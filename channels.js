@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T17:46:08.799Z";
+window.UPDATED = "2026-11-24T18:19:39.223Z";
 window.LOG_UPDATED = "2026-11-24 16:49 Accra";
 window.CHANNELS = [
  {
@@ -1055,7 +1055,7 @@ window.CHANNELS = [
   "videos": 16,
   "views": 2304,
   "subs": 10,
-  "week": 5,
+  "week": 4,
   "added": 38,
   "scheduled": [
    "29 Sep 17:05",
@@ -2080,7 +2080,7 @@ window.CHANNELS = [
   "videos": 27,
   "views": 1111,
   "subs": 2,
-  "week": 3,
+  "week": 2,
   "added": 73,
   "scheduled": [
    "29 Sep 17:40, Short 29 Sep 12:40",
@@ -2320,7 +2320,7 @@ window.CHANNELS = [
   "videos": 24,
   "views": 1012,
   "subs": 7,
-  "week": 9,
+  "week": 8,
   "added": 80,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -2543,7 +2543,7 @@ window.CHANNELS = [
   "videos": 33,
   "views": 1824,
   "subs": 7,
-  "week": 3,
+  "week": 2,
   "added": 88,
   "scheduled": [
    "29 Sep 18:35, Short 29 Sep 12:35",
@@ -3712,7 +3712,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 3992,
   "subs": 10,
-  "week": 8,
+  "week": 7,
   "added": 123,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -4447,10 +4447,10 @@ window.CHANNELS = [
   "name": "Revival Watch TV ",
   "url": "https://www.youtube.com/@RevivalWatchTV1",
   "icon": "https://yt3.googleusercontent.com/OruKlT-z5asJix-RCGV1r3zriEUN7KpYBQAeUTiuLCNye0FU8J5scCJern82hG4V1nzVXK_T0w=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 84,
+  "videos": 85,
   "views": 30296,
   "subs": 2230,
-  "week": 2,
+  "week": 3,
   "added": 148,
   "scheduled": [
    "16 Oct 18:20",
@@ -4594,10 +4594,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@FireontheAltar-j1m",
   "icon": "https://yt3.googleusercontent.com/iMTZNOZRukLHpOJ__IV_8xwUqFG7qZgBNU6sBq1lzsx6tSjeeK-gZ7UJiF6fkDuLlMq9haJPtIk=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 8,
+  "videos": 9,
   "views": 757,
   "subs": 3,
-  "week": 0,
+  "week": 1,
   "added": 154,
   "scheduled": [
    "11 Oct 17:55",
@@ -4649,10 +4649,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldScopeNews-h9f",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nbrwlophLjcFrG9bwBSSd70JVu6Nq0ijnyQA3vq7VNBUgDOOuLnjqxdsLnrZ6OWgNPhw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 28,
+  "videos": 29,
   "views": 35368,
   "subs": 40,
-  "week": 1,
+  "week": 2,
   "added": 157,
   "scheduled": [
    "10 Nov 12:00",
@@ -4826,10 +4826,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsFrontGlobal-l1s",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_l3w5pHbAbv1UvTOPK0opzB0B7dPW0ZNUdarnydvhKgG4l6j3Av59TtPzgAeNOLj7pxDQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 65,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 165,
   "scheduled": [
    "9 Nov 18:00",
@@ -5032,10 +5032,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@GlobalBrief-l3w",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kou3dO5GhrvBQru7jrDY7-p0Ls3-FwpdfJn_A0CdgtFmBIy5ofV2XYbnym-k-Zi8t6WA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 58,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 175,
   "scheduled": [
    "12 Nov 10:00",
