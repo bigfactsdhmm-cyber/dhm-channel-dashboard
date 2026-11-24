@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T09:30:59.125Z",
- "data_updated": "2026-11-24T09:30:58.992Z",
- "upload_log_updated": "2026-11-24 05:59 Accra",
+ "generated": "2026-11-24T10:03:54.086Z",
+ "data_updated": "2026-11-24T10:03:53.963Z",
+ "upload_log_updated": "2026-11-24 09:37 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542745,
-  "views": 20471903,
-  "videos": 11796,
-  "videos_this_week": 688,
+  "views": 20471904,
+  "videos": 11803,
+  "videos_this_week": 691,
   "videos_scheduled": 18
  },
  "channels": [
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47919,
+   "views": 47920,
    "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -538,7 +538,7 @@
    "subscribers": 310,
    "views": 70597,
    "videos": 18,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -574,7 +574,7 @@
    "subscribers": 0,
    "views": 133,
    "videos": 10,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -898,7 +898,7 @@
    "subscribers": 27,
    "views": 6777,
    "videos": 18,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -910,7 +910,7 @@
    "subscribers": 1,
    "views": 1365,
    "videos": 16,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 1,
    "ministers": ""
   },
@@ -1235,7 +1235,7 @@
    "views": 3762,
    "videos": 51,
    "videos_this_week": 8,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1403,7 +1403,7 @@
    "views": 1824,
    "videos": 32,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1475,7 +1475,7 @@
    "views": 1994,
    "videos": 45,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2253,9 +2253,9 @@
    "url": "https://www.youtube.com/@NewsPulse24-n7i",
    "subscribers": 1,
    "views": 268,
-   "videos": 21,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 22,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2265,9 +2265,9 @@
    "url": "https://www.youtube.com/@GlobalFocus24-j1n",
    "subscribers": 1,
    "views": 1936,
-   "videos": 23,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 24,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2289,9 +2289,9 @@
    "url": "https://www.youtube.com/@WorldWatchDaily-x6d",
    "subscribers": 1,
    "views": 70,
-   "videos": 24,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 25,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2361,9 +2361,9 @@
    "url": "https://www.youtube.com/@DailyWorldReport-f1e",
    "subscribers": 0,
    "views": 100,
-   "videos": 7,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 8,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2877,8 +2877,8 @@
    "url": "https://www.youtube.com/@LimJiaHui23",
    "subscribers": 0,
    "views": 20,
-   "videos": 3,
-   "videos_this_week": 3,
+   "videos": 4,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2889,9 +2889,9 @@
    "url": "https://www.youtube.com/@ZawadiMuthoni-d3u",
    "subscribers": 0,
    "views": 68,
-   "videos": 3,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 4,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2901,9 +2901,9 @@
    "url": "https://www.youtube.com/@OtienoOchieng-l9n",
    "subscribers": 1,
    "views": 209,
-   "videos": 3,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 4,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
