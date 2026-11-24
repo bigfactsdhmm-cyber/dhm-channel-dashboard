@@ -1,25 +1,25 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-24T08:57:56.892Z   Numbers refreshed: 2026-11-24T08:57:56.773Z   Upload log: 2026-11-24 05:59 Accra
+Generated: 2026-11-24T09:30:59.125Z   Numbers refreshed: 2026-11-24T09:30:58.992Z   Upload log: 2026-11-24 05:59 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,745
   Views: 20,471,903
-  Videos on YouTube: 11,794
-  Videos posted in the last 7 days: 687
-  Videos scheduled (go-live time still ahead): 21
+  Videos on YouTube: 11,796
+  Videos posted in the last 7 days: 688
+  Videos scheduled (go-live time still ahead): 18
 
 SECTIONS
-  Official YouTube channels: 8 channels, 488,390 subscribers, 18,761,885 views, 13 videos this week
+  Official YouTube channels: 8 channels, 488,390 subscribers, 18,761,885 views, 14 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,471 views, 2 videos this week
-  Fan channels: 144 channels, 48,816 subscribers, 1,482,062 views, 417 videos this week
+  Fan channels: 144 channels, 48,816 subscribers, 1,482,062 views, 415 videos this week
   Men of God channels: 12 channels, 122 subscribers, 37,141 views, 36 videos this week
   FLOW Prayer Meeting channels: 26 channels, 3,023 subscribers, 54,588 views, 41 videos this week
   Camps channels: 40 channels, 27 subscribers, 4,552 views, 61 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 210 views, 68 videos this week
   Christian Gist channels: 13 channels, 54 subscribers, 40,384 views, 11 videos this week
-  People channels: 14 channels, 7 subscribers, 2,610 views, 38 videos this week
+  People channels: 14 channels, 7 subscribers, 2,610 views, 40 videos this week
 
 TOP 10 BY SUBSCRIBERS
   1. Dag Heward-Mills (Official YouTube channels): 389,000
@@ -48,7 +48,7 @@ TOP 10 BY VIEWS
 MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   1. Lovely Diamond Camps (Lovely Diamond channels): 38
   2. Lovely Diamond (Lovely Diamond channels): 30
-  3. Dag Heward-Mills (Official YouTube channels): 13
+  3. Dag Heward-Mills (Official YouTube channels): 14
   4. Fresh Impact TV (Fan channels): 10
   5. Kingdom Spotlight (Fan channels): 10
   6. Kingdom Notes (Fan channels): 10

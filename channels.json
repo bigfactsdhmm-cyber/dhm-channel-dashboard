@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T08:57:56.892Z",
- "data_updated": "2026-11-24T08:57:56.773Z",
+ "generated": "2026-11-24T09:30:59.125Z",
+ "data_updated": "2026-11-24T09:30:58.992Z",
  "upload_log_updated": "2026-11-24 05:59 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471903,
-  "videos": 11794,
-  "videos_this_week": 687,
-  "videos_scheduled": 21
+  "videos": 11796,
+  "videos_this_week": 688,
+  "videos_scheduled": 18
  },
  "channels": [
   {
@@ -22,7 +22,7 @@
    "subscribers": 389000,
    "views": 16141226,
    "videos": 2197,
-   "videos_this_week": 13,
+   "videos_this_week": 14,
    "scheduled": 0,
    "ministers": ""
   },
@@ -382,7 +382,7 @@
    "subscribers": 31,
    "views": 7950,
    "videos": 48,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1978,7 +1978,7 @@
    "subscribers": 4,
    "views": 1013,
    "videos": 24,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2853,9 +2853,9 @@
    "url": "https://www.youtube.com/@TanWeiMing9",
    "subscribers": 0,
    "views": 49,
-   "videos": 3,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 4,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2865,9 +2865,9 @@
    "url": "https://www.youtube.com/@ChineduOkafor-o3h",
    "subscribers": 0,
    "views": 67,
-   "videos": 3,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 4,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2879,7 +2879,7 @@
    "views": 20,
    "videos": 3,
    "videos_this_week": 3,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
