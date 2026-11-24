@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T21:06:48.658Z";
-window.LOG_UPDATED = "2026-11-24 20:14 Accra";
+window.UPDATED = "2026-11-24T21:39:39.871Z";
+window.LOG_UPDATED = "2026-11-24 21:07 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -250,10 +250,10 @@ window.CHANNELS = [
   "name": "Glorious Impartation",
   "url": "https://www.youtube.com/@GloriousImpartation",
   "icon": "https://yt3.googleusercontent.com/wMmheTde_PDxGLiALvG9nIoNAvyFpuQ6Mg7EcydAWaqQa0K_ik82zzAMal_Hx4xLvaEiD5LuNQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 73,
+  "videos": 74,
   "views": 125303,
   "subs": 7770,
-  "week": 3,
+  "week": 4,
   "added": 8,
   "scheduled": [
    "29 Sep 17:30",
@@ -2019,6 +2019,7 @@ window.CHANNELS = [
    "14 Nov 11:30, Short 14 Nov 14:30",
    "16 Nov 11:30, Short 16 Nov 14:30",
    "18 Nov 07:20, Short 18 Nov 10:20",
+   "25 Nov 10:00, Short 25 Nov 13:00",
    "Short 18 Oct 14:17",
    "Short 16 Oct 12:40",
    "Short 14 Oct 12:40",
@@ -2113,10 +2114,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@HiddenManna-j4h",
   "icon": "https://yt3.googleusercontent.com/yFUvatFGJcOQ-41nJhrjoRrpl63js6_8SJWYJfIMC_heJtNSE5Ue5GgULL_i3b8gv-t1MGcOFw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 52,
+  "videos": 53,
   "views": 3762,
   "subs": 6,
-  "week": 7,
+  "week": 8,
   "added": 74,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -2545,7 +2546,7 @@ window.CHANNELS = [
   "videos": 34,
   "views": 1824,
   "subs": 7,
-  "week": 3,
+  "week": 2,
   "added": 88,
   "scheduled": [
    "29 Sep 18:35, Short 29 Sep 12:35",
@@ -2575,7 +2576,7 @@ window.CHANNELS = [
   "videos": 42,
   "views": 6032,
   "subs": 13,
-  "week": 5,
+  "week": 4,
   "added": 89,
   "scheduled": [
    "29 Sep 17:00, Short 29 Sep 12:00",
@@ -2723,6 +2724,7 @@ window.CHANNELS = [
    "1 Oct 17:25, Short 1 Oct 12:25",
    "17 Nov 10:30, Short 17 Nov 13:30",
    "18 Nov 16:00, Short 18 Nov 19:00",
+   "25 Nov 10:30, Short 25 Nov 13:30",
    "Short 13 Oct 12:45",
    "Short 10 Oct 12:45",
    "Short 9 Oct 12:45",
@@ -2738,7 +2740,7 @@ window.CHANNELS = [
   "videos": 47,
   "views": 1994,
   "subs": 3,
-  "week": 3,
+  "week": 2,
   "added": 94,
   "scheduled": [
    "5 Nov 00:32, Short 5 Nov 00:57",
@@ -2990,7 +2992,7 @@ window.CHANNELS = [
   "videos": 46,
   "views": 4796,
   "subs": 11,
-  "week": 7,
+  "week": 6,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -3032,7 +3034,7 @@ window.CHANNELS = [
   "videos": 27,
   "views": 350,
   "subs": 3,
-  "week": 1,
+  "week": 0,
   "added": 102,
   "scheduled": [
    "6 Nov 03:54, Short 6 Nov 03:57",
@@ -3433,6 +3435,7 @@ window.CHANNELS = [
    "13 Oct 17:00",
    "1 Oct 10:15, Short 1 Oct 10:20",
    "17 Nov 14:10, Short 17 Nov 17:10",
+   "25 Nov 08:30, Short 25 Nov 11:30",
    "Short 19 Oct 13:00",
    "Short 14 Oct 12:00",
    "Short 13 Oct 12:00"
@@ -4540,6 +4543,7 @@ window.CHANNELS = [
    "15 Oct 17:20",
    "14 Oct 17:20",
    "20 Nov 13:56, Short 20 Nov 16:56",
+   "25 Nov 11:00",
    "Short 15 Oct 12:20",
    "Short 14 Oct 12:20"
   ]

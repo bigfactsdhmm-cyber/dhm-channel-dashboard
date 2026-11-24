@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T21:06:48.797Z",
- "data_updated": "2026-11-24T21:06:48.658Z",
- "upload_log_updated": "2026-11-24 20:14 Accra",
+ "generated": "2026-11-24T21:39:40.002Z",
+ "data_updated": "2026-11-24T21:39:39.871Z",
+ "upload_log_updated": "2026-11-24 21:07 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 272,
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410805,
-  "videos": 11838,
-  "videos_this_week": 649,
-  "videos_scheduled": 14
+  "videos": 11840,
+  "videos_this_week": 646,
+  "videos_scheduled": 19
  },
  "channels": [
   {
@@ -357,9 +357,9 @@
    "url": "https://www.youtube.com/@GloriousImpartation",
    "subscribers": 7770,
    "views": 125303,
-   "videos": 73,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 74,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1103,7 +1103,7 @@
    "views": 5753,
    "videos": 42,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1149,9 +1149,9 @@
    "url": "https://www.youtube.com/@HiddenManna-j4h",
    "subscribers": 6,
    "views": 3762,
-   "videos": 52,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 53,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1318,7 +1318,7 @@
    "subscribers": 7,
    "views": 1824,
    "videos": 34,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1330,7 +1330,7 @@
    "subscribers": 13,
    "views": 6032,
    "videos": 42,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1379,7 +1379,7 @@
    "views": 2364,
    "videos": 18,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "E.A. Adeboye (holiness, grace, generational faith)"
   },
   {
@@ -1390,7 +1390,7 @@
    "subscribers": 3,
    "views": 1994,
    "videos": 47,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1474,7 +1474,7 @@
    "subscribers": 11,
    "views": 4796,
    "videos": 46,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1486,7 +1486,7 @@
    "subscribers": 3,
    "views": 350,
    "videos": 27,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1631,7 +1631,7 @@
    "views": 554,
    "videos": 11,
    "videos_this_week": 0,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2075,7 +2075,7 @@
    "views": 244,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
