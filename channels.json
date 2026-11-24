@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T16:25:17.437Z",
- "data_updated": "2026-11-24T16:25:17.304Z",
- "upload_log_updated": "2026-11-24 15:50 Accra",
+ "generated": "2026-11-24T17:02:03.747Z",
+ "data_updated": "2026-11-24T17:02:03.606Z",
+ "upload_log_updated": "2026-11-24 16:49 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
-  "channels": 279,
+  "channels": 272,
   "youtube_channels": 260,
-  "subscribers": 542745,
-  "views": 20471906,
-  "videos": 11820,
-  "videos_this_week": 658,
-  "videos_scheduled": 12
+  "subscribers": 540837,
+  "views": 20410805,
+  "videos": 11822,
+  "videos_this_week": 654,
+  "videos_scheduled": 18
  },
  "channels": [
   {
@@ -184,90 +184,6 @@
   },
   {
    "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills",
-   "url": "https://rumble.com/c/DagHewardMills",
-   "subscribers": 204,
-   "views": 64,
-   "videos": 1,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Conventions",
-   "url": "https://rumble.com/c/c-6260523",
-   "subscribers": 618,
-   "views": 47920,
-   "videos": 127,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Shepherds' Services",
-   "url": "https://rumble.com/c/c-6116724",
-   "subscribers": 273,
-   "views": 1862,
-   "videos": 8,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Tuesday Services",
-   "url": "https://rumble.com/c/daghewardmillstuesdayservices",
-   "subscribers": 253,
-   "views": 3327,
-   "videos": 125,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Korle Gonno",
-   "url": "https://rumble.com/c/c-6264812",
-   "subscribers": 238,
-   "views": 4215,
-   "videos": 273,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Wisdom Impartation Services",
-   "url": "https://rumble.com/c/c-6257904",
-   "subscribers": 253,
-   "views": 2509,
-   "videos": 29,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "Rumble",
-   "name": "Dag Heward-Mills Love First Church Services",
-   "url": "https://rumble.com/c/c-7805020",
-   "subscribers": 69,
-   "views": 1204,
-   "videos": 18,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
    "platform": "BitChute",
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
@@ -371,7 +287,7 @@
    "views": 3822,
    "videos": 32,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -443,7 +359,7 @@
    "views": 125303,
    "videos": 72,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -514,7 +430,7 @@
    "subscribers": 2,
    "views": 1503,
    "videos": 23,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -526,7 +442,7 @@
    "subscribers": 2,
    "views": 990,
    "videos": 16,
-   "videos_this_week": 9,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -682,7 +598,7 @@
    "subscribers": 2,
    "views": 828,
    "videos": 17,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1174,7 +1090,7 @@
    "subscribers": 7,
    "views": 3412,
    "videos": 27,
-   "videos_this_week": 2,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1401,9 +1317,9 @@
    "url": "https://www.youtube.com/@MountCarmelFire",
    "subscribers": 7,
    "views": 1824,
-   "videos": 32,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 33,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1557,9 +1473,9 @@
    "url": "https://www.youtube.com/@SpiritLedLiving-p5q",
    "subscribers": 11,
    "views": 4796,
-   "videos": 44,
-   "videos_this_week": 6,
-   "scheduled": 2,
+   "videos": 45,
+   "videos_this_week": 7,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1798,7 +1714,7 @@
    "subscribers": 38,
    "views": 6511,
    "videos": 48,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2087,7 +2003,7 @@
    "views": 8939,
    "videos": 137,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2123,7 +2039,7 @@
    "views": 30296,
    "videos": 84,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
