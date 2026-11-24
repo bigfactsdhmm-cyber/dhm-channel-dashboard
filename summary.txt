@@ -1,21 +1,21 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-24T15:17:22.953Z   Numbers refreshed: 2026-11-24T15:17:22.810Z   Upload log: 2026-11-24 09:37 Accra
+Generated: 2026-11-24T15:51:10.842Z   Numbers refreshed: 2026-11-24T15:51:10.697Z   Upload log: 2026-11-24 09:37 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,745
   Views: 20,471,905
   Videos on YouTube: 11,820
-  Videos posted in the last 7 days: 668
+  Videos posted in the last 7 days: 662
   Videos scheduled (go-live time still ahead): 9
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,390 subscribers, 18,761,885 views, 14 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,473 views, 2 videos this week
-  Fan channels: 144 channels, 48,816 subscribers, 1,482,062 views, 393 videos this week
+  Fan channels: 144 channels, 48,816 subscribers, 1,482,062 views, 390 videos this week
   Men of God channels: 12 channels, 122 subscribers, 37,141 views, 31 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,023 subscribers, 54,588 views, 38 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,023 subscribers, 54,588 views, 35 videos this week
   Camps channels: 40 channels, 27 subscribers, 4,552 views, 61 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 210 views, 68 videos this week
   Christian Gist channels: 13 channels, 54 subscribers, 40,384 views, 15 videos this week
@@ -55,7 +55,7 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   7. God & Me (Fan channels): 8
   8. Kingdom Pulse (Fan channels): 8
   9. After the Service (Fan channels): 8
-  10. Hidden Manna (FLOW Prayer Meeting channels): 8
+  10. Rooted in Christ (Fan channels): 8
 
 MEN OF GOD CHANNELS
   Next Wave TV: Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)
