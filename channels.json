@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T06:49:35.683Z",
- "data_updated": "2026-11-24T06:49:35.485Z",
+ "generated": "2026-11-24T07:05:05.957Z",
+ "data_updated": "2026-11-24T07:05:05.840Z",
  "upload_log_updated": "2026-11-24 05:59 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471902,
-  "videos": 11789,
-  "videos_this_week": 684,
-  "videos_scheduled": 25
+  "videos": 11793,
+  "videos_this_week": 687,
+  "videos_scheduled": 21
  },
  "channels": [
   {
@@ -898,7 +898,7 @@
    "subscribers": 27,
    "views": 6777,
    "videos": 18,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2301,9 +2301,9 @@
    "url": "https://www.youtube.com/@BreakingWorldNews-o8x",
    "subscribers": 3,
    "views": 139,
-   "videos": 13,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 14,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2313,9 +2313,9 @@
    "url": "https://www.youtube.com/@WorldLineNews-q3u",
    "subscribers": 1,
    "views": 655,
-   "videos": 24,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 25,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2349,9 +2349,9 @@
    "url": "https://www.youtube.com/@NewsSphere-f6h",
    "subscribers": 0,
    "views": 13,
-   "videos": 5,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 6,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2409,9 +2409,9 @@
    "url": "https://www.youtube.com/@TheGlobalDesk-z1z",
    "subscribers": 1,
    "views": 177,
-   "videos": 14,
-   "videos_this_week": 0,
-   "scheduled": 1,
+   "videos": 15,
+   "videos_this_week": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {

@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T06:49:35.485Z";
+window.UPDATED = "2026-11-24T07:05:05.840Z";
 window.LOG_UPDATED = "2026-11-24 05:59 Accra";
 window.CHANNELS = [
  {
@@ -1282,7 +1282,7 @@ window.CHANNELS = [
   "videos": 18,
   "views": 6777,
   "subs": 27,
-  "week": 4,
+  "week": 3,
   "added": 46,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -4776,10 +4776,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@BreakingWorldNews-o8x",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mEZHvwRV0keWlWe2UghE8cXAaBJ4oGZBpTbw3Y2PtF4KjhE3lNuL5IOut58OWZDL5bag=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 13,
+  "videos": 14,
   "views": 139,
   "subs": 3,
-  "week": 0,
+  "week": 1,
   "added": 163,
   "scheduled": [
    "9 Nov 18:00",
@@ -4794,10 +4794,10 @@ window.CHANNELS = [
   "name": "Gospel Pulse News",
   "url": "https://www.youtube.com/@WorldLineNews-q3u",
   "icon": "https://yt3.googleusercontent.com/ttlQiAtiHI9LfFu6fSpXJmMAk44WMJUlug_lkRWGzu8FDkqX_6XwJ6wNinGCqzC1-pKUbL-d3Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 24,
+  "videos": 25,
   "views": 655,
   "subs": 1,
-  "week": 0,
+  "week": 1,
   "added": 164,
   "scheduled": [
    "9 Nov 18:00",
@@ -4857,10 +4857,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsSphere-f6h",
   "icon": "https://yt3.googleusercontent.com/JPJrv9k7STbw8Z4_bbstLZPYqey3QRtqN5jFNja0E6N1s8ahJSBqPbrQo1ZOf7CgH_VwwG_ldbs=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 5,
+  "videos": 6,
   "views": 13,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 167,
   "scheduled": [
    "10 Nov 07:00",
@@ -4959,10 +4959,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@TheGlobalDesk-z1z",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_laeprnjeHjiSdCtkIY5ZekgChoopKGcpUw4d6SjxNavZDbGCmy_rqh6gzdnVcZjWhtBQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 177,
   "subs": 1,
-  "week": 0,
+  "week": 1,
   "added": 172,
   "scheduled": [
    "10 Nov 12:00",
