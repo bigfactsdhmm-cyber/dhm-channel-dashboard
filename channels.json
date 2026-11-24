@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T07:54:30.648Z",
- "data_updated": "2026-11-24T07:54:30.522Z",
+ "generated": "2026-11-24T08:57:56.892Z",
+ "data_updated": "2026-11-24T08:57:56.773Z",
  "upload_log_updated": "2026-11-24 05:59 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -10,7 +10,7 @@
   "subscribers": 542745,
   "views": 20471903,
   "videos": 11794,
-  "videos_this_week": 688,
+  "videos_this_week": 687,
   "videos_scheduled": 21
  },
  "channels": [
@@ -1198,7 +1198,7 @@
    "subscribers": 5,
    "views": 1516,
    "videos": 13,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
