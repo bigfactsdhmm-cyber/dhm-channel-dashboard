@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T20:33:19.863Z";
+window.UPDATED = "2026-11-24T21:06:48.658Z";
 window.LOG_UPDATED = "2026-11-24 20:14 Accra";
 window.CHANNELS = [
  {
@@ -2519,7 +2519,7 @@ window.CHANNELS = [
   "videos": 18,
   "views": 206,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 87,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -3714,7 +3714,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 3992,
   "subs": 10,
-  "week": 7,
+  "week": 6,
   "added": 123,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -4452,10 +4452,10 @@ window.CHANNELS = [
   "name": "Revival Watch TV ",
   "url": "https://www.youtube.com/@RevivalWatchTV1",
   "icon": "https://yt3.googleusercontent.com/OruKlT-z5asJix-RCGV1r3zriEUN7KpYBQAeUTiuLCNye0FU8J5scCJern82hG4V1nzVXK_T0w=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 85,
+  "videos": 86,
   "views": 30296,
   "subs": 2230,
-  "week": 3,
+  "week": 4,
   "added": 148,
   "scheduled": [
    "16 Oct 18:20",
