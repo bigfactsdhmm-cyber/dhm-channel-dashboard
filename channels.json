@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T07:05:05.957Z",
- "data_updated": "2026-11-24T07:05:05.840Z",
+ "generated": "2026-11-24T07:54:30.648Z",
+ "data_updated": "2026-11-24T07:54:30.522Z",
  "upload_log_updated": "2026-11-24 05:59 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542745,
-  "views": 20471902,
-  "videos": 11793,
-  "videos_this_week": 687,
+  "views": 20471903,
+  "videos": 11794,
+  "videos_this_week": 688,
   "videos_scheduled": 21
  },
  "channels": [
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47918,
+   "views": 47919,
    "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -2121,8 +2121,8 @@
    "url": "https://www.youtube.com/@RevivalWatchTV1",
    "subscribers": 2230,
    "views": 30296,
-   "videos": 82,
-   "videos_this_week": 0,
+   "videos": 83,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
