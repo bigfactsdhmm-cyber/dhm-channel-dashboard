@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T19:26:31.445Z";
+window.UPDATED = "2026-11-24T19:59:42.586Z";
 window.LOG_UPDATED = "2026-11-24 16:49 Accra";
 window.CHANNELS = [
  {
@@ -2112,10 +2112,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@HiddenManna-j4h",
   "icon": "https://yt3.googleusercontent.com/yFUvatFGJcOQ-41nJhrjoRrpl63js6_8SJWYJfIMC_heJtNSE5Ue5GgULL_i3b8gv-t1MGcOFw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 51,
+  "videos": 52,
   "views": 3762,
   "subs": 6,
-  "week": 6,
+  "week": 7,
   "added": 74,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -2540,10 +2540,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@MountCarmelFire",
   "icon": "https://yt3.googleusercontent.com/Ur5Kynrvt1hpdWaqWLh2j3BWj4_Cvtt56HMCU8WgP7_oK9fZp9cbQ4BY72opgc-TQOM4Uq_WUls=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 33,
+  "videos": 34,
   "views": 1824,
   "subs": 7,
-  "week": 2,
+  "week": 3,
   "added": 88,
   "scheduled": [
    "29 Sep 18:35, Short 29 Sep 12:35",
@@ -2985,10 +2985,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@SpiritLedLiving-p5q",
   "icon": "https://yt3.googleusercontent.com/WabIssQWgTqm7mAn0bOIKKZZHvABDfhI8oyC6FNhO3sgfAqry3nu_vVg7sf9faZTqMiG7xl9xA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 45,
+  "videos": 46,
   "views": 4796,
   "subs": 11,
-  "week": 7,
+  "week": 8,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -3636,7 +3636,7 @@ window.CHANNELS = [
   "videos": 48,
   "views": 6511,
   "subs": 38,
-  "week": 7,
+  "week": 6,
   "added": 121,
   "scheduled": [
    "1 Nov 04:56, Short 1 Nov 04:59",

@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T19:26:31.580Z",
- "data_updated": "2026-11-24T19:26:31.445Z",
+ "generated": "2026-11-24T19:59:42.757Z",
+ "data_updated": "2026-11-24T19:59:42.586Z",
  "upload_log_updated": "2026-11-24 16:49 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410805,
-  "videos": 11831,
-  "videos_this_week": 647,
-  "videos_scheduled": 10
+  "videos": 11834,
+  "videos_this_week": 649,
+  "videos_scheduled": 7
  },
  "channels": [
   {
@@ -1149,9 +1149,9 @@
    "url": "https://www.youtube.com/@HiddenManna-j4h",
    "subscribers": 6,
    "views": 3762,
-   "videos": 51,
-   "videos_this_week": 6,
-   "scheduled": 2,
+   "videos": 52,
+   "videos_this_week": 7,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1317,9 +1317,9 @@
    "url": "https://www.youtube.com/@MountCarmelFire",
    "subscribers": 7,
    "views": 1824,
-   "videos": 33,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 34,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1473,9 +1473,9 @@
    "url": "https://www.youtube.com/@SpiritLedLiving-p5q",
    "subscribers": 11,
    "views": 4796,
-   "videos": 45,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 46,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1714,7 +1714,7 @@
    "subscribers": 38,
    "views": 6511,
    "videos": 48,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
