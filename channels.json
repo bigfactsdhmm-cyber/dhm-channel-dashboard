@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T12:16:13.798Z",
- "data_updated": "2026-11-24T12:16:13.663Z",
+ "generated": "2026-11-24T15:17:22.953Z",
+ "data_updated": "2026-11-24T15:17:22.810Z",
  "upload_log_updated": "2026-11-24 09:37 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542745,
-  "views": 20471904,
-  "videos": 11819,
-  "videos_this_week": 693,
+  "views": 20471905,
+  "videos": 11820,
+  "videos_this_week": 668,
   "videos_scheduled": 9
  },
  "channels": [
@@ -21,7 +21,7 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16141226,
-   "videos": 2197,
+   "videos": 2198,
    "videos_this_week": 14,
    "scheduled": 0,
    "ministers": ""
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11512,
+   "views": 11513,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -406,7 +406,7 @@
    "subscribers": 7,
    "views": 2826,
    "videos": 20,
-   "videos_this_week": 10,
+   "videos_this_week": 9,
    "scheduled": 0,
    "ministers": ""
   },
@@ -466,7 +466,7 @@
    "subscribers": 20,
    "views": 4594,
    "videos": 32,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -478,7 +478,7 @@
    "subscribers": 2,
    "views": 2178,
    "videos": 14,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -514,7 +514,7 @@
    "subscribers": 2,
    "views": 1503,
    "videos": 23,
-   "videos_this_week": 9,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -526,7 +526,7 @@
    "subscribers": 2,
    "views": 990,
    "videos": 16,
-   "videos_this_week": 10,
+   "videos_this_week": 9,
    "scheduled": 0,
    "ministers": ""
   },
@@ -538,7 +538,7 @@
    "subscribers": 310,
    "views": 70597,
    "videos": 18,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -574,7 +574,7 @@
    "subscribers": 0,
    "views": 133,
    "videos": 10,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -682,7 +682,7 @@
    "subscribers": 2,
    "views": 828,
    "videos": 17,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -766,7 +766,7 @@
    "subscribers": 2,
    "views": 378,
    "videos": 13,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -802,7 +802,7 @@
    "subscribers": 10,
    "views": 2304,
    "videos": 16,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1030,7 +1030,7 @@
    "subscribers": 16,
    "views": 3097,
    "videos": 43,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1174,7 +1174,7 @@
    "subscribers": 7,
    "views": 3412,
    "videos": 27,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1222,7 +1222,7 @@
    "subscribers": 2,
    "views": 1111,
    "videos": 27,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1270,7 +1270,7 @@
    "subscribers": 8,
    "views": 1960,
    "videos": 34,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1294,7 +1294,7 @@
    "subscribers": 37,
    "views": 9168,
    "videos": 50,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1306,7 +1306,7 @@
    "subscribers": 7,
    "views": 1012,
    "videos": 24,
-   "videos_this_week": 10,
+   "videos_this_week": 9,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1378,7 +1378,7 @@
    "subscribers": 0,
    "views": 848,
    "videos": 7,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1462,7 +1462,7 @@
    "subscribers": 11,
    "views": 2364,
    "videos": 18,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": "E.A. Adeboye (holiness, grace, generational faith)"
   },
@@ -1534,7 +1534,7 @@
    "subscribers": 2,
    "views": 344,
    "videos": 16,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1582,7 +1582,7 @@
    "subscribers": 5,
    "views": 1812,
    "videos": 13,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1618,7 +1618,7 @@
    "subscribers": 11,
    "views": 2719,
    "videos": 21,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1714,7 +1714,7 @@
    "subscribers": 2,
    "views": 554,
    "videos": 11,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1774,7 +1774,7 @@
    "subscribers": 7,
    "views": 833,
    "videos": 9,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1894,7 +1894,7 @@
    "subscribers": 9,
    "views": 1556,
    "videos": 10,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
@@ -2062,7 +2062,7 @@
    "subscribers": 7,
    "views": 1149,
    "videos": 10,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
