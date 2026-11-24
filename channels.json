@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T10:37:23.392Z",
- "data_updated": "2026-11-24T10:37:23.241Z",
+ "generated": "2026-11-24T11:10:16.551Z",
+ "data_updated": "2026-11-24T11:10:16.400Z",
  "upload_log_updated": "2026-11-24 09:37 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471904,
-  "videos": 11805,
-  "videos_this_week": 691,
-  "videos_scheduled": 16
+  "videos": 11810,
+  "videos_this_week": 692,
+  "videos_scheduled": 14
  },
  "channels": [
   {
@@ -466,7 +466,7 @@
    "subscribers": 20,
    "views": 4594,
    "videos": 32,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -741,9 +741,9 @@
    "url": "https://www.youtube.com/@ThePeacefulHome-i3b",
    "subscribers": 8,
    "views": 1234,
-   "videos": 19,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 20,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2937,9 +2937,9 @@
    "url": "https://www.youtube.com/@TundeAdeyemi-s8g",
    "subscribers": 0,
    "views": 21,
-   "videos": 3,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 4,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 145,
-   "videos": 43,
+   "videos": 46,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""
