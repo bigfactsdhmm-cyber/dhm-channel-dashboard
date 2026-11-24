@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T18:51:39.322Z",
- "data_updated": "2026-11-24T18:51:39.200Z",
+ "generated": "2026-11-24T19:26:31.580Z",
+ "data_updated": "2026-11-24T19:26:31.445Z",
  "upload_log_updated": "2026-11-24 16:49 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410805,
-  "videos": 11830,
+  "videos": 11831,
   "videos_this_week": 647,
-  "videos_scheduled": 11
+  "videos_scheduled": 10
  },
  "channels": [
   {
@@ -285,9 +285,9 @@
    "url": "https://www.youtube.com/@EvangelismByFire123",
    "subscribers": 1130,
    "views": 3822,
-   "videos": 32,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 33,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1390,7 +1390,7 @@
    "subscribers": 3,
    "views": 1994,
    "videos": 46,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 1,
    "ministers": ""
   },
