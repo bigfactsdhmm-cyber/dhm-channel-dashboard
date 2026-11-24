@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T18:19:39.338Z",
- "data_updated": "2026-11-24T18:19:39.223Z",
+ "generated": "2026-11-24T18:51:39.322Z",
+ "data_updated": "2026-11-24T18:51:39.200Z",
  "upload_log_updated": "2026-11-24 16:49 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410805,
-  "videos": 11829,
-  "videos_this_week": 651,
-  "videos_scheduled": 12
+  "videos": 11830,
+  "videos_this_week": 647,
+  "videos_scheduled": 11
  },
  "channels": [
   {
@@ -357,9 +357,9 @@
    "url": "https://www.youtube.com/@GloriousImpartation",
    "subscribers": 7770,
    "views": 125303,
-   "videos": 72,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 73,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1150,7 +1150,7 @@
    "subscribers": 6,
    "views": 3762,
    "videos": 51,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 2,
    "ministers": ""
   },
@@ -1174,7 +1174,7 @@
    "subscribers": 3,
    "views": 3192,
    "videos": 33,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1270,7 +1270,7 @@
    "subscribers": 5,
    "views": 2523,
    "videos": 46,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1330,7 +1330,7 @@
    "subscribers": 13,
    "views": 6032,
    "videos": 42,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1702,7 +1702,7 @@
    "subscribers": 12,
    "views": 3480,
    "videos": 45,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
