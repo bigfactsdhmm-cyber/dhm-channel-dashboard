@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T21:39:40.002Z",
- "data_updated": "2026-11-24T21:39:39.871Z",
+ "generated": "2026-11-24T22:13:17.696Z",
+ "data_updated": "2026-11-24T22:13:17.557Z",
  "upload_log_updated": "2026-11-24 21:07 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410805,
-  "videos": 11840,
-  "videos_this_week": 646,
-  "videos_scheduled": 19
+  "videos": 11842,
+  "videos_this_week": 647,
+  "videos_scheduled": 18
  },
  "channels": [
   {
@@ -285,9 +285,9 @@
    "url": "https://www.youtube.com/@EvangelismByFire123",
    "subscribers": 1130,
    "views": 3822,
-   "videos": 33,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 34,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2385,7 +2385,7 @@
    "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
    "subscribers": 1,
    "views": 65,
-   "videos": 67,
+   "videos": 68,
    "videos_this_week": 38,
    "scheduled": 0,
    "ministers": ""

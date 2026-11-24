@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T21:39:39.871Z";
+window.UPDATED = "2026-11-24T22:13:17.557Z";
 window.LOG_UPDATED = "2026-11-24 21:07 Accra";
 window.CHANNELS = [
  {
@@ -73,10 +73,10 @@ window.CHANNELS = [
   "name": "Evangelism By Fire",
   "url": "https://www.youtube.com/@EvangelismByFire123",
   "icon": "https://yt3.googleusercontent.com/zR6ntyPY5V8hz-eKBZ2wJ6AF_oaA6to2z7WKjw9dNEzjx7BwpYH5-Y-NukJtNIOwyH5s1JiPmw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 33,
+  "videos": 34,
   "views": 3822,
   "subs": 1130,
-  "week": 3,
+  "week": 4,
   "added": 2,
   "scheduled": [
    "29 Sep 18:40",
@@ -5076,7 +5076,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@LovelyDiamondCamps-l7u",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_k9XrKEjeqnVQ_ExBSkLiNtUAbq9qlCdjlKe0ywClY98iY03q7dSB_WmMajNAsA2n6ytg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 67,
+  "videos": 68,
   "views": 65,
   "subs": 1,
   "week": 38,
