@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-24T11:43:12.827Z";
+window.UPDATED = "2026-11-24T12:16:13.663Z";
 window.LOG_UPDATED = "2026-11-24 09:37 Accra";
 window.CHANNELS = [
  {
@@ -112,7 +112,7 @@ window.CHANNELS = [
   "videos": 48,
   "views": 7950,
   "subs": 31,
-  "week": 5,
+  "week": 4,
   "added": 3,
   "scheduled": [
    "28 Sep 18:30",
@@ -2923,7 +2923,7 @@ window.CHANNELS = [
   "videos": 16,
   "views": 344,
   "subs": 2,
-  "week": 6,
+  "week": 5,
   "added": 99,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -4443,10 +4443,10 @@ window.CHANNELS = [
   "name": "Revival Watch TV ",
   "url": "https://www.youtube.com/@RevivalWatchTV1",
   "icon": "https://yt3.googleusercontent.com/OruKlT-z5asJix-RCGV1r3zriEUN7KpYBQAeUTiuLCNye0FU8J5scCJern82hG4V1nzVXK_T0w=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 83,
+  "videos": 84,
   "views": 30296,
   "subs": 2230,
-  "week": 1,
+  "week": 2,
   "added": 148,
   "scheduled": [
    "16 Oct 18:20",
@@ -4666,10 +4666,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldViewToday-j5q",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mSNCewYuvZ4m9_UB72NZFUF4Ge2_7Va3TDJyun7tD7Bn7Pel_CGJwrYXZHQT8cGIRc6Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 22,
+  "videos": 23,
   "views": 416,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 158,
   "scheduled": [
    "9 Nov 07:25",
@@ -4732,10 +4732,10 @@ window.CHANNELS = [
   "name": "Gospel Watch",
   "url": "https://www.youtube.com/@TheWorldDesk-x6j",
   "icon": "https://yt3.googleusercontent.com/PILxUjpyZu_cjb2UwnYXgVYrE1ikLLQA11SxvL9laJJlupAYekz4ePOdZtpxTGqmuv1CUj1aCA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 24,
+  "videos": 25,
   "views": 379,
   "subs": 1,
-  "week": 1,
+  "week": 2,
   "added": 161,
   "scheduled": [
    "9 Nov 12:00",
@@ -4915,10 +4915,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@GlobalPulse24-r4d",
   "icon": "https://yt3.googleusercontent.com/gbqp9yBVeDjyEvXGAZ4YnWV-SPUYC-XhRjaxKtV312X8-pvZg7r5DhQ9CQqM_IufrERsdRnGsQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 29,
+  "videos": 30,
   "views": 2032,
   "subs": 6,
-  "week": 1,
+  "week": 2,
   "added": 170,
   "scheduled": [
    "10 Nov 10:00",
@@ -5003,10 +5003,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsHubGlobal-e9w",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nv8CUIQDdwQReKARt8EO2hJzLBVG6vYlndMtqrPLAbhErysRDW9CwEbhllNhAXVn-3gQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 23,
+  "videos": 24,
   "views": 304,
   "subs": 1,
-  "week": 1,
+  "week": 2,
   "added": 174,
   "scheduled": [
    "12 Nov 12:00",
@@ -6020,7 +6020,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@lovelydiamond-l9e",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 48,
+  "videos": 49,
   "views": 145,
   "subs": 2,
   "week": 30,

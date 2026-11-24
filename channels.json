@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T11:43:12.971Z",
- "data_updated": "2026-11-24T11:43:12.827Z",
+ "generated": "2026-11-24T12:16:13.798Z",
+ "data_updated": "2026-11-24T12:16:13.663Z",
  "upload_log_updated": "2026-11-24 09:37 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542745,
   "views": 20471904,
-  "videos": 11813,
-  "videos_this_week": 690,
-  "videos_scheduled": 13
+  "videos": 11819,
+  "videos_this_week": 693,
+  "videos_scheduled": 9
  },
  "channels": [
   {
@@ -382,7 +382,7 @@
    "subscribers": 31,
    "views": 7950,
    "videos": 48,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1534,7 +1534,7 @@
    "subscribers": 2,
    "views": 344,
    "videos": 16,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2121,8 +2121,8 @@
    "url": "https://www.youtube.com/@RevivalWatchTV1",
    "subscribers": 2230,
    "views": 30296,
-   "videos": 83,
-   "videos_this_week": 1,
+   "videos": 84,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2241,9 +2241,9 @@
    "url": "https://www.youtube.com/@WorldViewToday-j5q",
    "subscribers": 0,
    "views": 416,
-   "videos": 22,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 23,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2277,9 +2277,9 @@
    "url": "https://www.youtube.com/@TheWorldDesk-x6j",
    "subscribers": 1,
    "views": 379,
-   "videos": 24,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 25,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2385,9 +2385,9 @@
    "url": "https://www.youtube.com/@GlobalPulse24-r4d",
    "subscribers": 6,
    "views": 2032,
-   "videos": 29,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 30,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2433,9 +2433,9 @@
    "url": "https://www.youtube.com/@NewsHubGlobal-e9w",
    "subscribers": 1,
    "views": 304,
-   "videos": 23,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 24,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 145,
-   "videos": 48,
+   "videos": 49,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""
