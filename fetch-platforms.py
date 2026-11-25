@@ -163,5 +163,22 @@ for cid in BITCHUTE:
                     views=max(sum(v.get("view_count") or 0 for v in vids), ch.get("view_count") or 0),
                     week=week, latest=(ch.get("last_video_published") or "")[:10]))
 
+# A site that blocks us (Rumble's Cloudflare sometimes 403s) must not wipe its channels off the page:
+# keep each failed channel's last good entry, marked stale.
+LAST = os.path.join(HERE, "data/platforms-last-good.json")
+try:
+    last = {o["url"]: o for o in json.load(open(LAST))}
+except Exception:
+    last = {}
+got = {o["url"] for o in out}
+wanted = ([f"https://rumble.com/c/{h}" for h in RUMBLE] + [f"https://www.bitchute.com/channel/{c}/" for c in BITCHUTE]
+          + ["https://odysee.com/" + n for n in ODYSEE])
+kept = [dict(last[u], stale=True) for u in wanted if u not in got and u in last]
+if kept:
+    print(f"  kept last numbers for {len(kept)} channels that could not be read: " + ", ".join(k["name"] for k in kept))
+for o in out:
+    last[o["url"]] = o
+json.dump(list(last.values()), open(LAST, "w"), indent=1)
+out += kept
 json.dump(out, open(os.path.join(HERE, "data/platforms.json"), "w"), indent=1)
 print(" + ".join(f"{sum(o['platform'] == pf for o in out)} {pf}" for pf in ("Odysee", "Rumble", "BitChute")) + " channels")
