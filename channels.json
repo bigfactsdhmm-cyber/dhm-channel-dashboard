@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T21:01:33.163Z",
- "data_updated": "2026-11-25T21:01:33.034Z",
+ "generated": "2026-11-25T21:34:48.980Z",
+ "data_updated": "2026-11-25T21:34:48.837Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542963,
-  "views": 20542142,
+  "views": 20542128,
   "videos": 11961,
-  "videos_this_week": 616,
+  "videos_this_week": 612,
   "videos_scheduled": 0
  },
  "channels": [
@@ -140,7 +140,7 @@
    "name": "Impartation Services - Dag Heward-Mills",
    "url": "https://odysee.com/@daghewardmillsimpartationservices",
    "subscribers": 75,
-   "views": 182,
+   "views": 168,
    "videos": 57,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -526,7 +526,7 @@
    "subscribers": 3,
    "views": 1388,
    "videos": 20,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -634,7 +634,7 @@
    "subscribers": 22,
    "views": 6820,
    "videos": 21,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
@@ -646,7 +646,7 @@
    "subscribers": 3,
    "views": 1031,
    "videos": 12,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2074,7 +2074,7 @@
    "subscribers": 4950,
    "views": 75225,
    "videos": 244,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
