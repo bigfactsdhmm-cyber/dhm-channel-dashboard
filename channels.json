@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T12:05:47.718Z",
- "data_updated": "2026-11-25T12:05:47.611Z",
+ "generated": "2026-11-25T12:38:32.204Z",
+ "data_updated": "2026-11-25T12:38:32.094Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 541055,
   "views": 20481032,
-  "videos": 11928,
-  "videos_this_week": 653,
-  "videos_scheduled": 29
+  "videos": 11929,
+  "videos_this_week": 651,
+  "videos_scheduled": 28
  },
  "channels": [
   {
@@ -1222,7 +1222,7 @@
    "subscribers": 7,
    "views": 1037,
    "videos": 28,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1582,7 +1582,7 @@
    "subscribers": 31,
    "views": 5844,
    "videos": 44,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 2,
    "ministers": ""
   },
@@ -1689,9 +1689,9 @@
    "url": "https://www.youtube.com/@TheRedLetterRoom3",
    "subscribers": 7,
    "views": 834,
-   "videos": 9,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 10,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1714,7 +1714,7 @@
    "subscribers": 38,
    "views": 6569,
    "videos": 48,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
