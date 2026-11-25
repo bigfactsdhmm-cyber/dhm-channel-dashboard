@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T11:32:48.587Z",
- "data_updated": "2026-11-25T11:32:48.474Z",
+ "generated": "2026-11-25T12:05:47.718Z",
+ "data_updated": "2026-11-25T12:05:47.611Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 541055,
   "views": 20481032,
-  "videos": 11923,
-  "videos_this_week": 650,
-  "videos_scheduled": 34
+  "videos": 11928,
+  "videos_this_week": 653,
+  "videos_scheduled": 29
  },
  "channels": [
   {
@@ -418,7 +418,7 @@
    "subscribers": 62,
    "views": 33450,
    "videos": 46,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -586,7 +586,7 @@
    "subscribers": 24,
    "views": 11103,
    "videos": 15,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -790,7 +790,7 @@
    "subscribers": 1070,
    "views": 3508,
    "videos": 49,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1294,7 +1294,7 @@
    "subscribers": 0,
    "views": 850,
    "videos": 9,
-   "videos_this_week": 1,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1497,9 +1497,9 @@
    "url": "https://www.youtube.com/@SundayWasntEnough",
    "subscribers": 5,
    "views": 1820,
-   "videos": 13,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 14,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2169,9 +2169,9 @@
    "url": "https://www.youtube.com/@NewsPulse24-n7i",
    "subscribers": 1,
    "views": 287,
-   "videos": 22,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 23,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2193,9 +2193,9 @@
    "url": "https://www.youtube.com/@TheWorldDesk-x6j",
    "subscribers": 1,
    "views": 383,
-   "videos": 25,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 26,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2229,9 +2229,9 @@
    "url": "https://www.youtube.com/@WorldLineNews-q3u",
    "subscribers": 1,
    "views": 659,
-   "videos": 25,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 26,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2301,9 +2301,9 @@
    "url": "https://www.youtube.com/@GlobalPulse24-r4d",
    "subscribers": 6,
    "views": 2053,
-   "videos": 30,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 31,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
