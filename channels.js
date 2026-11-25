@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T09:49:47.777Z";
+window.UPDATED = "2026-11-25T10:22:44.923Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -284,7 +284,7 @@ window.CHANNELS = [
   "videos": 19,
   "views": 2691,
   "subs": 8,
-  "week": 7,
+  "week": 6,
   "added": 9,
   "scheduled": [
    "29 Sep 17:10",
@@ -2001,7 +2001,7 @@ window.CHANNELS = [
   "name": "Good Soil Teachings",
   "url": "https://www.youtube.com/@GoodSoilTeachings",
   "icon": "https://yt3.googleusercontent.com/hHYsrioPGVZDzgW2HHBXbfT2pa2T4CWkG6Dnl25wN68Bi7rUJWloFPNq38mvzhAtHMvDWtFo5Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 42,
+  "videos": 43,
   "views": 5753,
   "subs": 20,
   "week": 1,
@@ -2622,7 +2622,7 @@ window.CHANNELS = [
   "videos": 36,
   "views": 3293,
   "subs": 16,
-  "week": 4,
+  "week": 3,
   "added": 90,
   "scheduled": [
    "6 Nov 18:31, Short 6 Nov 18:31",
@@ -2681,7 +2681,7 @@ window.CHANNELS = [
   "videos": 42,
   "views": 3879,
   "subs": 9,
-  "week": 5,
+  "week": 4,
   "added": 92,
   "scheduled": [
    "8 Nov 04:52",
@@ -4122,10 +4122,10 @@ window.CHANNELS = [
   "name": "When Love Hurts",
   "url": "https://www.youtube.com/@WhenLoveHurts-t2m",
   "icon": "https://yt3.googleusercontent.com/H9NIvS6P9xkdf45KMoKWaF27CZYFXKDk6kRX6wBf6zIIKDR_hRwX5EOIJs79mk1nnNfmFdq8=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 5,
+  "videos": 6,
   "views": 46,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 135,
   "scheduled": [
    "14 Oct 18:10",
@@ -4695,10 +4695,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldViewToday-j5q",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mSNCewYuvZ4m9_UB72NZFUF4Ge2_7Va3TDJyun7tD7Bn7Pel_CGJwrYXZHQT8cGIRc6Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 23,
+  "videos": 24,
   "views": 416,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 158,
   "scheduled": [
    "9 Nov 07:25",
@@ -4812,10 +4812,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@BreakingWorldNews-o8x",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_mEZHvwRV0keWlWe2UghE8cXAaBJ4oGZBpTbw3Y2PtF4KjhE3lNuL5IOut58OWZDL5bag=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 139,
   "subs": 3,
-  "week": 1,
+  "week": 2,
   "added": 163,
   "scheduled": [
    "9 Nov 18:00",
@@ -4896,10 +4896,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsSphere-f6h",
   "icon": "https://yt3.googleusercontent.com/JPJrv9k7STbw8Z4_bbstLZPYqey3QRtqN5jFNja0E6N1s8ahJSBqPbrQo1ZOf7CgH_VwwG_ldbs=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 6,
+  "videos": 7,
   "views": 13,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 167,
   "scheduled": [
    "10 Nov 07:00",
@@ -4915,10 +4915,10 @@ window.CHANNELS = [
   "name": "Kingdom News 24",
   "url": "https://www.youtube.com/@DailyWorldReport-f1e",
   "icon": "https://yt3.googleusercontent.com/kMLLQ-XEDG5qsDjvg8rA7uhGlDSGMlD_Eu8BgJ1pLAqIkQup_olKBgtLNes0QeQFsMGOaAT0cg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 8,
+  "videos": 9,
   "views": 100,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 168,
   "scheduled": [
    "10 Nov 07:00",
@@ -6064,7 +6064,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@lovelydiamond-l9e",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 52,
+  "videos": 55,
   "views": 145,
   "subs": 2,
   "week": 15,

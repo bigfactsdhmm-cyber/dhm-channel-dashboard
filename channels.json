@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T09:49:47.884Z",
- "data_updated": "2026-11-25T09:49:47.777Z",
+ "generated": "2026-11-25T10:22:45.028Z",
+ "data_updated": "2026-11-25T10:22:44.923Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11858,
-  "videos_this_week": 632,
-  "videos_scheduled": 46
+  "videos": 11867,
+  "videos_this_week": 634,
+  "videos_scheduled": 40
  },
  "channels": [
   {
@@ -370,7 +370,7 @@
    "subscribers": 8,
    "views": 2691,
    "videos": 19,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1101,9 +1101,9 @@
    "url": "https://www.youtube.com/@GoodSoilTeachings",
    "subscribers": 20,
    "views": 5753,
-   "videos": 42,
+   "videos": 43,
    "videos_this_week": 1,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1342,7 +1342,7 @@
    "subscribers": 16,
    "views": 3293,
    "videos": 36,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1366,7 +1366,7 @@
    "subscribers": 9,
    "views": 3879,
    "videos": 42,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1881,9 +1881,9 @@
    "url": "https://www.youtube.com/@WhenLoveHurts-t2m",
    "subscribers": 0,
    "views": 46,
-   "videos": 5,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 6,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2157,9 +2157,9 @@
    "url": "https://www.youtube.com/@WorldViewToday-j5q",
    "subscribers": 0,
    "views": 416,
-   "videos": 23,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 24,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2217,9 +2217,9 @@
    "url": "https://www.youtube.com/@BreakingWorldNews-o8x",
    "subscribers": 3,
    "views": 139,
-   "videos": 14,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 15,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2265,9 +2265,9 @@
    "url": "https://www.youtube.com/@NewsSphere-f6h",
    "subscribers": 0,
    "views": 13,
-   "videos": 6,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 7,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2277,9 +2277,9 @@
    "url": "https://www.youtube.com/@DailyWorldReport-f1e",
    "subscribers": 0,
    "views": 100,
-   "videos": 8,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 9,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -3189,7 +3189,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 145,
-   "videos": 52,
+   "videos": 55,
    "videos_this_week": 15,
    "scheduled": 0,
    "ministers": ""
