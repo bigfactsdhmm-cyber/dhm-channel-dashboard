@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T12:38:32.094Z";
+window.UPDATED = "2026-11-25T13:11:30.020Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -716,7 +716,7 @@ window.CHANNELS = [
   "videos": 15,
   "views": 133850,
   "subs": 601,
-  "week": 6,
+  "week": 5,
   "added": 26,
   "scheduled": [
    "29 Sep 17:20",
@@ -2001,10 +2001,10 @@ window.CHANNELS = [
   "name": "Good Soil Teachings",
   "url": "https://www.youtube.com/@GoodSoilTeachings",
   "icon": "https://yt3.googleusercontent.com/hHYsrioPGVZDzgW2HHBXbfT2pa2T4CWkG6Dnl25wN68Bi7rUJWloFPNq38mvzhAtHMvDWtFo5Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 43,
+  "videos": 44,
   "views": 5765,
   "subs": 20,
-  "week": 1,
+  "week": 2,
   "added": 70,
   "scheduled": [
    "28 Sep 18:40, Short 28 Sep 12:40",
@@ -2622,7 +2622,7 @@ window.CHANNELS = [
   "videos": 38,
   "views": 3305,
   "subs": 16,
-  "week": 3,
+  "week": 2,
   "added": 90,
   "scheduled": [
    "6 Nov 18:31, Short 6 Nov 18:31",
@@ -4322,10 +4322,10 @@ window.CHANNELS = [
   "name": "Listen Again",
   "url": "https://www.youtube.com/@listenagain-r4k",
   "icon": "https://yt3.googleusercontent.com/2-NJ6D-XRKQ73ynZ5CZ0eS4Kpq-LgiCYC9eVJFK32nGNRjtyZvd-APVplYDcHCJl9uqY6b_A=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 10,
+  "videos": 11,
   "views": 1150,
   "subs": 7,
-  "week": 1,
+  "week": 2,
   "added": 143,
   "scheduled": [
    "22 Oct 18:40",
@@ -4640,7 +4640,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 327,
   "subs": 10,
-  "week": 4,
+  "week": 3,
   "added": 155,
   "scheduled": [
    "6 Oct 17:40",
