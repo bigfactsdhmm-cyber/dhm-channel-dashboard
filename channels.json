@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T07:14:05.946Z",
- "data_updated": "2026-11-25T07:14:05.831Z",
+ "generated": "2026-11-25T07:47:24.338Z",
+ "data_updated": "2026-11-25T07:47:24.214Z",
  "upload_log_updated": "2026-11-24 23:51 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11846,
-  "videos_this_week": 647,
-  "videos_scheduled": 40
+  "videos": 11847,
+  "videos_this_week": 646,
+  "videos_scheduled": 39
  },
  "channels": [
   {
@@ -382,7 +382,7 @@
    "subscribers": 20,
    "views": 4594,
    "videos": 32,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 2,
    "ministers": ""
   },
@@ -633,9 +633,9 @@
    "url": "https://www.youtube.com/@TheMediaHub-l8m",
    "subscribers": 13,
    "views": 2690,
-   "videos": 11,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": "Paul Enenche (destiny, purpose, practical holiness)"
   },
   {
@@ -1102,7 +1102,7 @@
    "subscribers": 20,
    "views": 5753,
    "videos": 42,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 2,
    "ministers": ""
   },
