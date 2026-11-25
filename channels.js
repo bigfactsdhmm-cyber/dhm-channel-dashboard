@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T18:33:37.453Z";
+window.UPDATED = "2026-11-25T19:07:47.043Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -493,7 +493,7 @@ window.CHANNELS = [
   "videos": 20,
   "views": 70730,
   "subs": 310,
-  "week": 3,
+  "week": 2,
   "added": 16,
   "scheduled": [
    "3 Oct 17:10",
@@ -560,7 +560,7 @@ window.CHANNELS = [
   "videos": 10,
   "views": 138,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 19,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -670,7 +670,7 @@ window.CHANNELS = [
   "videos": 21,
   "views": 6820,
   "subs": 22,
-  "week": 6,
+  "week": 5,
   "added": 24,
   "scheduled": [
    "29 Sep 17:30",
@@ -2362,7 +2362,7 @@ window.CHANNELS = [
   "videos": 14,
   "views": 709,
   "subs": 0,
-  "week": 5,
+  "week": 4,
   "added": 81,
   "scheduled": [
    "29 Sep 17:35, Short 29 Sep 12:35",
@@ -2717,7 +2717,7 @@ window.CHANNELS = [
   "videos": 20,
   "views": 2403,
   "subs": 12,
-  "week": 3,
+  "week": 2,
   "added": 93,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -3286,10 +3286,10 @@ window.CHANNELS = [
   "name": "The Faith Walk",
   "url": "https://www.youtube.com/@TheFaithWalk-p5z",
   "icon": "https://yt3.googleusercontent.com/5kcmmUuhe1ZOc8En9plLDdcxyMvwq-fgHQQCSL6SUQZ1xmWwD6-TC2anlGsnYtCZ9lqDR3KjMw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 45,
+  "videos": 46,
   "views": 5844,
   "subs": 31,
-  "week": 3,
+  "week": 4,
   "added": 110,
   "scheduled": [
    "28 Oct 18:30, Short 28 Oct 18:31",
@@ -4349,7 +4349,7 @@ window.CHANNELS = [
   "videos": 244,
   "views": 75225,
   "subs": 4950,
-  "week": 4,
+  "week": 3,
   "added": 144,
   "scheduled": [
    "22 Oct 17:08",

@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T18:33:37.601Z",
- "data_updated": "2026-11-25T18:33:37.453Z",
+ "generated": "2026-11-25T19:07:47.181Z",
+ "data_updated": "2026-11-25T19:07:47.043Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 542963,
   "views": 20542142,
-  "videos": 11958,
-  "videos_this_week": 625,
+  "videos": 11959,
+  "videos_this_week": 620,
   "videos_scheduled": 1
  },
  "channels": [
@@ -538,7 +538,7 @@
    "subscribers": 310,
    "views": 70730,
    "videos": 20,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -574,7 +574,7 @@
    "subscribers": 0,
    "views": 138,
    "videos": 10,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -634,7 +634,7 @@
    "subscribers": 22,
    "views": 6820,
    "videos": 21,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": "Chris Oyakhilome + Poju Oyemade (the Word, wisdom, city-church teaching)"
   },
@@ -1318,7 +1318,7 @@
    "subscribers": 0,
    "views": 709,
    "videos": 14,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1462,7 +1462,7 @@
    "subscribers": 12,
    "views": 2403,
    "videos": 20,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": "E.A. Adeboye (holiness, grace, generational faith)"
   },
@@ -1665,8 +1665,8 @@
    "url": "https://www.youtube.com/@TheFaithWalk-p5z",
    "subscribers": 31,
    "views": 5844,
-   "videos": 45,
-   "videos_this_week": 3,
+   "videos": 46,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2074,7 +2074,7 @@
    "subscribers": 4950,
    "views": 75225,
    "videos": 244,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
