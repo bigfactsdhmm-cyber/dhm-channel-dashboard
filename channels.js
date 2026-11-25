@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T13:44:28.778Z";
+window.UPDATED = "2026-11-25T14:39:54.414Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -155,7 +155,7 @@ window.CHANNELS = [
   "videos": 55,
   "views": 8914,
   "subs": 1280,
-  "week": 4,
+  "week": 3,
   "added": 4,
   "scheduled": [
    "28 Sep 18:50",
@@ -232,7 +232,7 @@ window.CHANNELS = [
   "videos": 14,
   "views": 6219,
   "subs": 28,
-  "week": 2,
+  "week": 1,
   "added": 7,
   "scheduled": [
    "3 Oct 18:15",
@@ -1285,10 +1285,10 @@ window.CHANNELS = [
   "name": "A Voice in the Crowd",
   "url": "https://www.youtube.com/@AVoiceintheCrowd123",
   "icon": "https://yt3.googleusercontent.com/RrYvQowtgUjgK0UdED9HbUJzyyzRTxnE9ZjQ55K0tCvIr7Ii9t9ioNb6uX4uHAlQYaWaVRe7Tw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 20,
+  "videos": 21,
   "views": 7100,
   "subs": 26,
-  "week": 2,
+  "week": 3,
   "added": 46,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -1693,10 +1693,10 @@ window.CHANNELS = [
   "name": "Eagles Rising",
   "url": "https://www.youtube.com/@EaglesRising-c6g",
   "icon": "https://yt3.googleusercontent.com/i-4_o7emXZ0iCThXJLxkz-eADmO6pabY9-DJpGIgitERLdh6r9xy53Vw7uD34UsrfmQ736HN6uU=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 45,
+  "videos": 46,
   "views": 42146,
   "subs": 69,
-  "week": 2,
+  "week": 3,
   "added": 59,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -1775,7 +1775,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 1090,
   "subs": 5,
-  "week": 4,
+  "week": 3,
   "added": 61,
   "scheduled": [
    "29 Sep 18:20, Short 29 Sep 12:20",
@@ -1795,7 +1795,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 426,
   "subs": 2,
-  "week": 4,
+  "week": 3,
   "added": 62,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -1815,7 +1815,7 @@ window.CHANNELS = [
   "videos": 15,
   "views": 1332,
   "subs": 3,
-  "week": 6,
+  "week": 5,
   "added": 63,
   "scheduled": [
    "29 Sep 17:25, Short 29 Sep 12:25",
@@ -2820,7 +2820,7 @@ window.CHANNELS = [
   "videos": 50,
   "views": 28190,
   "subs": 60,
-  "week": 7,
+  "week": 6,
   "added": 96,
   "scheduled": [
    "6 Nov 01:10, Short 6 Nov 01:13",
@@ -2858,7 +2858,7 @@ window.CHANNELS = [
   "videos": 43,
   "views": 3351,
   "subs": 13,
-  "week": 7,
+  "week": 6,
   "added": 97,
   "scheduled": [
    "30 Oct 04:16",
@@ -3725,7 +3725,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 4031,
   "subs": 11,
-  "week": 5,
+  "week": 4,
   "added": 123,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -3803,10 +3803,10 @@ window.CHANNELS = [
   "name": "Treasures of Wisdom",
   "url": "https://www.youtube.com/@TreasuresofWisdom-u5k",
   "icon": "https://yt3.googleusercontent.com/IywH2lOf-EwPjDwzhHd_-sWLsvOrna07_0RMs2YADA37z49KQWuNL-pB3BSfLoKeHyzNh7JN=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 46,
+  "videos": 47,
   "views": 2354,
   "subs": 8,
-  "week": 2,
+  "week": 3,
   "added": 125,
   "scheduled": [
    "28 Sep 17:40, Short 28 Sep 12:40",
@@ -4268,7 +4268,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 4746,
   "subs": 13,
-  "week": 5,
+  "week": 4,
   "added": 141,
   "scheduled": [
    "8 Nov 05:50, Short 8 Nov 05:53",
@@ -4546,10 +4546,10 @@ window.CHANNELS = [
   "name": "Dag Heward-Mills Catch The Anointing Channel",
   "url": "https://www.youtube.com/@CatchTheAnointingChannel",
   "icon": "https://yt3.googleusercontent.com/Ho9Fq3bwePqVQ1lrhxbevlNyaOxvVVun7dgSUfbV7GHDOx6MqCX56V2EuAtvT9Y9n4KxUkjpyw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 245,
   "subs": 14,
-  "week": 3,
+  "week": 4,
   "added": 151,
   "scheduled": [
    "15 Oct 17:20",
