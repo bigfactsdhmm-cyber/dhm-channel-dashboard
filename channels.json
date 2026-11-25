@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T10:22:45.028Z",
- "data_updated": "2026-11-25T10:22:44.923Z",
+ "generated": "2026-11-25T10:55:41.445Z",
+ "data_updated": "2026-11-25T10:55:41.346Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11867,
-  "videos_this_week": 634,
-  "videos_scheduled": 40
+  "videos": 11869,
+  "videos_this_week": 633,
+  "videos_scheduled": 38
  },
  "channels": [
   {
@@ -382,7 +382,7 @@
    "subscribers": 20,
    "views": 4594,
    "videos": 32,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 2,
    "ministers": ""
   },
@@ -633,9 +633,9 @@
    "url": "https://www.youtube.com/@TheMediaHub-l8m",
    "subscribers": 13,
    "views": 2690,
-   "videos": 12,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 13,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": "Paul Enenche (destiny, purpose, practical holiness)"
   },
   {
@@ -1377,9 +1377,9 @@
    "url": "https://www.youtube.com/@PrimeSpotlight-z1i",
    "subscribers": 11,
    "views": 2364,
-   "videos": 18,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 19,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": "E.A. Adeboye (holiness, grace, generational faith)"
   },
   {
@@ -1402,7 +1402,7 @@
    "subscribers": 54,
    "views": 14935,
    "videos": 46,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1414,7 +1414,7 @@
    "subscribers": 59,
    "views": 27932,
    "videos": 48,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
