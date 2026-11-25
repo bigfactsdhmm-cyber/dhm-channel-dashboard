@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T14:39:54.547Z",
- "data_updated": "2026-11-25T14:39:54.414Z",
+ "generated": "2026-11-25T15:14:10.206Z",
+ "data_updated": "2026-11-25T15:14:10.073Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 541055,
   "views": 20481032,
-  "videos": 11938,
-  "videos_this_week": 642,
-  "videos_scheduled": 19
+  "videos": 11941,
+  "videos_this_week": 639,
+  "videos_scheduled": 16
  },
  "channels": [
   {
@@ -358,7 +358,7 @@
    "subscribers": 7770,
    "views": 125956,
    "videos": 74,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -381,9 +381,9 @@
    "url": "https://www.youtube.com/@GraceUnfolding-y5x",
    "subscribers": 20,
    "views": 4616,
-   "videos": 34,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 35,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -586,7 +586,7 @@
    "subscribers": 24,
    "views": 11103,
    "videos": 15,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -790,7 +790,7 @@
    "subscribers": 1070,
    "views": 3508,
    "videos": 49,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1114,7 +1114,7 @@
    "subscribers": 5,
    "views": 1577,
    "videos": 13,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1198,7 +1198,7 @@
    "subscribers": 5,
    "views": 744,
    "videos": 12,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": "Jerry Eze (prayer, breakthrough, morning declarations)"
   },
@@ -1497,9 +1497,9 @@
    "url": "https://www.youtube.com/@SundayWasntEnough",
    "subscribers": 5,
    "views": 1820,
-   "videos": 14,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 15,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1809,9 +1809,9 @@
    "url": "https://www.youtube.com/@ViralHorizon-j9f",
    "subscribers": 9,
    "views": 1564,
-   "videos": 12,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 13,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
   {
@@ -2002,7 +2002,7 @@
    "subscribers": 1160,
    "views": 9207,
    "videos": 139,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },

@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T14:39:54.414Z";
+window.UPDATED = "2026-11-25T15:14:10.073Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -253,7 +253,7 @@ window.CHANNELS = [
   "videos": 74,
   "views": 125956,
   "subs": 7770,
-  "week": 4,
+  "week": 3,
   "added": 8,
   "scheduled": [
    "29 Sep 17:30",
@@ -312,10 +312,10 @@ window.CHANNELS = [
   "name": "Grace Unfolding",
   "url": "https://www.youtube.com/@GraceUnfolding-y5x",
   "icon": "https://yt3.googleusercontent.com/GD4YQZ3FuH3SlVHuHb6LBrTrDhozPFyGBo8ec_j9dGkc2yhT1udpHWjUtJ2KpeMoCvdVl90SFA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 34,
+  "videos": 35,
   "views": 4616,
   "subs": 20,
-  "week": 2,
+  "week": 3,
   "added": 10,
   "scheduled": [
    "28 Sep 17:55",
@@ -741,7 +741,7 @@ window.CHANNELS = [
   "videos": 15,
   "views": 11103,
   "subs": 24,
-  "week": 5,
+  "week": 4,
   "added": 27,
   "scheduled": [
    "29 Sep 18:05",
@@ -1228,7 +1228,7 @@ window.CHANNELS = [
   "videos": 49,
   "views": 3508,
   "subs": 1070,
-  "week": 5,
+  "week": 4,
   "added": 44,
   "scheduled": [
    "28 Sep 18:05",
@@ -2044,7 +2044,7 @@ window.CHANNELS = [
   "videos": 13,
   "views": 1577,
   "subs": 5,
-  "week": 4,
+  "week": 3,
   "added": 71,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -2262,7 +2262,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 744,
   "subs": 5,
-  "week": 2,
+  "week": 1,
   "added": 78,
   "scheduled": [
    "29 Sep 17:40, Short 29 Sep 12:40",
@@ -3065,10 +3065,10 @@ window.CHANNELS = [
   "name": "Sunday Wasn't Enough",
   "url": "https://www.youtube.com/@SundayWasntEnough",
   "icon": "https://yt3.googleusercontent.com/vPEYyiSjyFbVk37prU3N0xrhSXqT1g0xqc-gUlmfIH-b8s6fJ8jjKplPXPayfgrR5bcTnnxlAvg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 1820,
   "subs": 5,
-  "week": 3,
+  "week": 4,
   "added": 103,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -3940,10 +3940,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@ViralHorizon-j9f",
   "icon": "https://yt3.googleusercontent.com/AnPRKHNtWLSOFZvdWLKWmvVludPhu_3ukQeSgueXDw2-BiZFyPGosFkl1Cp1P1jKhmeXcQ2Dc44=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 12,
+  "videos": 13,
   "views": 1564,
   "subs": 9,
-  "week": 2,
+  "week": 3,
   "added": 129,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -4384,7 +4384,7 @@ window.CHANNELS = [
   "videos": 139,
   "views": 9207,
   "subs": 1160,
-  "week": 6,
+  "week": 5,
   "added": 145,
   "scheduled": [
    "19 Oct 19:56",
