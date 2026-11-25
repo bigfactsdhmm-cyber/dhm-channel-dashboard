@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T08:43:48.831Z",
- "data_updated": "2026-11-25T08:43:48.707Z",
+ "generated": "2026-11-25T09:16:49.964Z",
+ "data_updated": "2026-11-25T09:16:49.853Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11853,
-  "videos_this_week": 650,
-  "videos_scheduled": 48
+  "videos": 11855,
+  "videos_this_week": 649,
+  "videos_scheduled": 47
  },
  "channels": [
   {
@@ -418,7 +418,7 @@
    "subscribers": 62,
    "views": 33316,
    "videos": 44,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1929,9 +1929,9 @@
    "url": "https://www.youtube.com/@manyarecalled123",
    "subscribers": 1140,
    "views": 6621,
-   "videos": 88,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 89,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2050,7 +2050,7 @@
    "subscribers": 14400,
    "views": 227778,
    "videos": 337,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3189,7 +3189,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 145,
-   "videos": 49,
+   "videos": 50,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""
