@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-24T22:13:17.696Z",
- "data_updated": "2026-11-24T22:13:17.557Z",
- "upload_log_updated": "2026-11-24 21:07 Accra",
+ "generated": "2026-11-25T07:14:05.946Z",
+ "data_updated": "2026-11-25T07:14:05.831Z",
+ "upload_log_updated": "2026-11-24 23:51 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 272,
   "youtube_channels": 260,
   "subscribers": 540837,
-  "views": 20410805,
-  "videos": 11842,
+  "views": 20410812,
+  "videos": 11846,
   "videos_this_week": 647,
-  "videos_scheduled": 18
+  "videos_scheduled": 40
  },
  "channels": [
   {
@@ -188,7 +188,7 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5577,
+   "views": 5581,
    "videos": 131,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -200,7 +200,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11513,
+   "views": 11515,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -212,7 +212,7 @@
    "name": "Dag Heward-Mills Miracle Wave Conventions",
    "url": "https://www.bitchute.com/channel/11UXeAys0iQY/",
    "subscribers": 5,
-   "views": 5152,
+   "views": 5153,
    "videos": 19,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -298,7 +298,7 @@
    "subscribers": 31,
    "views": 7950,
    "videos": 48,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -370,7 +370,7 @@
    "subscribers": 8,
    "views": 2691,
    "videos": 19,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -383,7 +383,7 @@
    "views": 4594,
    "videos": 32,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -707,7 +707,7 @@
    "views": 13876,
    "videos": 6,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)"
   },
   {
@@ -779,7 +779,7 @@
    "views": 22596,
    "videos": 11,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -815,7 +815,7 @@
    "views": 6777,
    "videos": 18,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -958,7 +958,7 @@
    "subscribers": 27,
    "views": 9205,
    "videos": 41,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -971,7 +971,7 @@
    "views": 39024,
    "videos": 43,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1499,7 +1499,7 @@
    "views": 1812,
    "videos": 13,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1583,7 +1583,7 @@
    "views": 5835,
    "videos": 42,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1691,7 +1691,7 @@
    "views": 833,
    "videos": 9,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1763,7 +1763,7 @@
    "views": 2336,
    "videos": 45,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1799,7 +1799,7 @@
    "views": 1022,
    "videos": 5,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -1811,7 +1811,7 @@
    "views": 1556,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
   {
@@ -1857,9 +1857,9 @@
    "url": "https://www.youtube.com/@WorldPulseTV-y9s",
    "subscribers": 2,
    "views": 602,
-   "videos": 10,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 11,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": "Femi Lazarus (teaching for a younger church)"
   },
   {
@@ -1881,9 +1881,9 @@
    "url": "https://www.youtube.com/@WhenLoveHurts-t2m",
    "subscribers": 0,
    "views": 46,
-   "videos": 4,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 5,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1929,9 +1929,9 @@
    "url": "https://www.youtube.com/@manyarecalled123",
    "subscribers": 1140,
    "views": 6621,
-   "videos": 87,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 88,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1979,7 +1979,7 @@
    "views": 1149,
    "videos": 10,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2001,9 +2001,9 @@
    "url": "https://www.youtube.com/@HolyHill100",
    "subscribers": 1160,
    "views": 8939,
-   "videos": 138,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 139,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2050,7 +2050,7 @@
    "subscribers": 14400,
    "views": 227778,
    "videos": 337,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2075,7 +2075,7 @@
    "views": 244,
    "videos": 10,
    "videos_this_week": 2,
-   "scheduled": 1,
+   "scheduled": 2,
    "ministers": ""
   },
   {
@@ -2123,7 +2123,7 @@
    "views": 323,
    "videos": 10,
    "videos_this_week": 4,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
