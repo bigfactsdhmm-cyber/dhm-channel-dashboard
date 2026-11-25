@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T19:07:47.181Z",
- "data_updated": "2026-11-25T19:07:47.043Z",
+ "generated": "2026-11-25T20:27:38.917Z",
+ "data_updated": "2026-11-25T20:27:38.770Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542963,
   "views": 20542142,
-  "videos": 11959,
-  "videos_this_week": 620,
-  "videos_scheduled": 1
+  "videos": 11961,
+  "videos_this_week": 617,
+  "videos_scheduled": 0
  },
  "channels": [
   {
@@ -406,7 +406,7 @@
    "subscribers": 8,
    "views": 2854,
    "videos": 22,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -490,7 +490,7 @@
    "subscribers": 6,
    "views": 889,
    "videos": 14,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -646,7 +646,7 @@
    "subscribers": 3,
    "views": 1031,
    "videos": 12,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -849,8 +849,8 @@
    "url": "https://www.youtube.com/@WhyAreYouNotAMissionary",
    "subscribers": 4,
    "views": 679,
-   "videos": 9,
-   "videos_this_week": 4,
+   "videos": 10,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -861,9 +861,9 @@
    "url": "https://www.youtube.com/@youmustbeaWitness",
    "subscribers": 92,
    "views": 22645,
-   "videos": 14,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 15,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -910,7 +910,7 @@
    "subscribers": 1,
    "views": 1453,
    "videos": 17,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1786,7 +1786,7 @@
    "subscribers": 12,
    "views": 3527,
    "videos": 45,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },

@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T19:07:47.043Z";
+window.UPDATED = "2026-11-25T20:27:38.770Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -181,7 +181,7 @@ window.CHANNELS = [
   "videos": 22,
   "views": 2854,
   "subs": 8,
-  "week": 7,
+  "week": 6,
   "added": 5,
   "scheduled": [
    "29 Sep 17:40",
@@ -376,7 +376,7 @@ window.CHANNELS = [
   "videos": 14,
   "views": 889,
   "subs": 6,
-  "week": 5,
+  "week": 4,
   "added": 12,
   "scheduled": [
    "29 Sep 18:15",
@@ -695,7 +695,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 1031,
   "subs": 3,
-  "week": 4,
+  "week": 3,
   "added": 25,
   "scheduled": [
    "29 Sep 18:35",
@@ -1184,10 +1184,10 @@ window.CHANNELS = [
   "category": "Camps channels",
   "url": "https://www.youtube.com/@WhyAreYouNotAMissionary",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kmZYzKVWQjJAUlnH7IlLfloqTLqWwElYOqabfpVNV6I-jDwgTR-fRhzJ0ofbX0v5rhbA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 9,
+  "videos": 10,
   "views": 679,
   "subs": 4,
-  "week": 4,
+  "week": 5,
   "added": 42,
   "scheduled": [
    "29 Sep 18:45, Short 29 Sep 12:45",
@@ -1203,10 +1203,10 @@ window.CHANNELS = [
   "name": "Witness",
   "url": "https://www.youtube.com/@youmustbeaWitness",
   "icon": "https://yt3.googleusercontent.com/nYDy80zUQPM8H5SrPvqwziaLkSOkmUd7iP9MLl34bQ8LteAj6a5veEmfidKsg2nsuzNmrPVedQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 22645,
   "subs": 92,
-  "week": 5,
+  "week": 6,
   "added": 43,
   "scheduled": [
    "29 Sep 18:10, Short 29 Sep 12:10",
@@ -1313,7 +1313,7 @@ window.CHANNELS = [
   "videos": 17,
   "views": 1453,
   "subs": 1,
-  "week": 7,
+  "week": 6,
   "added": 47,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -3608,7 +3608,7 @@ window.CHANNELS = [
   "videos": 45,
   "views": 3527,
   "subs": 12,
-  "week": 4,
+  "week": 3,
   "added": 120,
   "scheduled": [
    "28 Sep 18:00, Short 28 Sep 12:00",
