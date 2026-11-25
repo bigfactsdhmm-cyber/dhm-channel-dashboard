@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T08:10:48.509Z",
- "data_updated": "2026-11-25T08:10:48.394Z",
- "upload_log_updated": "2026-11-24 23:51 Accra",
+ "generated": "2026-11-25T08:43:48.831Z",
+ "data_updated": "2026-11-25T08:43:48.707Z",
+ "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 272,
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11848,
-  "videos_this_week": 646,
-  "videos_scheduled": 38
+  "videos": 11853,
+  "videos_this_week": 650,
+  "videos_scheduled": 48
  },
  "channels": [
   {
@@ -1210,7 +1210,7 @@
    "subscribers": 37,
    "views": 9168,
    "videos": 50,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1629,9 +1629,9 @@
    "url": "https://www.youtube.com/@TheMessageFoundMe",
    "subscribers": 2,
    "views": 554,
-   "videos": 11,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 12,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2147,7 +2147,7 @@
    "views": 35368,
    "videos": 29,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2159,7 +2159,7 @@
    "views": 416,
    "videos": 23,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2171,7 +2171,7 @@
    "views": 268,
    "videos": 22,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2183,7 +2183,7 @@
    "views": 1936,
    "videos": 24,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2195,7 +2195,7 @@
    "views": 379,
    "videos": 25,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2219,7 +2219,7 @@
    "views": 139,
    "videos": 14,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2231,7 +2231,7 @@
    "views": 655,
    "videos": 25,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2253,8 +2253,8 @@
    "url": "https://www.youtube.com/@TheNewsRoom-l5z",
    "subscribers": 0,
    "views": 208,
-   "videos": 8,
-   "videos_this_week": 1,
+   "videos": 9,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2267,7 +2267,7 @@
    "views": 13,
    "videos": 6,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2279,7 +2279,7 @@
    "views": 100,
    "videos": 8,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2289,8 +2289,8 @@
    "url": "https://www.youtube.com/@WorldNewsNow-h4o",
    "subscribers": 0,
    "views": 57,
-   "videos": 5,
-   "videos_this_week": 0,
+   "videos": 6,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2303,7 +2303,7 @@
    "views": 2032,
    "videos": 30,
    "videos_this_week": 2,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2313,8 +2313,8 @@
    "url": "https://www.youtube.com/@WorldPointNews-b6p",
    "subscribers": 2,
    "views": 464,
-   "videos": 25,
-   "videos_this_week": 1,
+   "videos": 26,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2327,7 +2327,7 @@
    "views": 177,
    "videos": 15,
    "videos_this_week": 1,
-   "scheduled": 0,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2337,8 +2337,8 @@
    "url": "https://www.youtube.com/@NewsCentral24-g5b",
    "subscribers": 0,
    "views": 61,
-   "videos": 14,
-   "videos_this_week": 1,
+   "videos": 15,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },

@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T08:10:48.394Z";
-window.LOG_UPDATED = "2026-11-24 23:51 Accra";
+window.UPDATED = "2026-11-25T08:43:48.707Z";
+window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -2283,7 +2283,7 @@ window.CHANNELS = [
   "videos": 50,
   "views": 9168,
   "subs": 37,
-  "week": 6,
+  "week": 5,
   "added": 79,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -3430,10 +3430,10 @@ window.CHANNELS = [
   "name": "The Message Found Me",
   "url": "https://www.youtube.com/@TheMessageFoundMe",
   "icon": "https://yt3.googleusercontent.com/05s5r_fRhOOruu3YSAMH74HBYPqI8brubN4JTRwshQC9HAD4105Vod8BEUMUCOXTctvgMXlw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 554,
   "subs": 2,
-  "week": 0,
+  "week": 1,
   "added": 114,
   "scheduled": [
    "29 Sep 17:00, Short 29 Sep 12:00",
@@ -4685,7 +4685,8 @@ window.CHANNELS = [
    "22 Oct 14:26",
    "15 Nov 12:00",
    "19 Nov 12:00",
-   "24 Nov 18:00"
+   "24 Nov 18:00",
+   "25 Nov 18:00"
   ]
  },
  {
@@ -4708,7 +4709,8 @@ window.CHANNELS = [
    "24 Oct 12:00",
    "15 Nov 18:00",
    "19 Nov 12:00",
-   "24 Nov 12:00"
+   "24 Nov 12:00",
+   "25 Nov 10:00"
   ]
  },
  {
@@ -4731,7 +4733,8 @@ window.CHANNELS = [
    "23 Oct 12:00",
    "24 Oct 12:00",
    "19 Nov 09:34",
-   "24 Nov 10:00"
+   "24 Nov 10:00",
+   "25 Nov 12:00"
   ]
  },
  {
@@ -4752,7 +4755,8 @@ window.CHANNELS = [
    "22 Oct 14:29",
    "15 Nov 10:00",
    "19 Nov 09:36",
-   "24 Nov 10:00"
+   "24 Nov 10:00",
+   "25 Nov 18:00"
   ]
  },
  {
@@ -4775,7 +4779,8 @@ window.CHANNELS = [
    "23 Oct 08:30",
    "15 Nov 10:00",
    "19 Nov 10:00",
-   "24 Nov 12:00"
+   "24 Nov 12:00",
+   "25 Nov 12:00"
   ]
  },
  {
@@ -4817,7 +4822,8 @@ window.CHANNELS = [
    "11 Nov 07:00",
    "14 Nov 10:00",
    "22 Oct 14:35",
-   "24 Nov 07:00"
+   "24 Nov 07:00",
+   "25 Nov 10:00"
   ]
  },
  {
@@ -4839,7 +4845,8 @@ window.CHANNELS = [
    "22 Oct 18:00",
    "23 Oct 10:00",
    "15 Nov 10:00",
-   "24 Nov 07:00"
+   "24 Nov 07:00",
+   "25 Nov 12:00"
   ]
  },
  {
@@ -4868,10 +4875,10 @@ window.CHANNELS = [
   "name": "Church News Today",
   "url": "https://www.youtube.com/@TheNewsRoom-l5z",
   "icon": "https://yt3.googleusercontent.com/nF_bsHJR35E-sF3XeaisFzjKsYZvhBnKfHYaKBWu0d8-rNXnIJyL4xQnNGYXs2eyyT1cbPWI=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 8,
+  "videos": 9,
   "views": 208,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 166,
   "scheduled": [
    "10 Nov 07:00",
@@ -4879,7 +4886,8 @@ window.CHANNELS = [
    "13 Nov 10:00",
    "14 Nov 10:00",
    "15 Nov 12:00",
-   "19 Nov 10:00"
+   "19 Nov 10:00",
+   "25 Nov 08:29"
   ]
  },
  {
@@ -4898,7 +4906,8 @@ window.CHANNELS = [
    "12 Nov 07:00",
    "13 Nov 10:00",
    "21 Oct 10:43",
-   "24 Nov 07:00"
+   "24 Nov 07:00",
+   "25 Nov 10:00"
   ]
  },
  {
@@ -4916,7 +4925,8 @@ window.CHANNELS = [
    "12 Nov 12:00",
    "13 Nov 07:00",
    "14 Nov 07:00",
-   "24 Nov 10:00"
+   "24 Nov 10:00",
+   "25 Nov 10:00"
   ]
  },
  {
@@ -4925,16 +4935,17 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldNewsNow-h4o",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kNz_6aT-NycY4qt2fXvKjNAZKgnU-RWARilIH00fMc1hywr9x8YSSH3p64Yrcz7pNH6Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 5,
+  "videos": 6,
   "views": 57,
   "subs": 0,
-  "week": 0,
+  "week": 1,
   "added": 169,
   "scheduled": [
    "10 Nov 07:00",
    "12 Nov 07:00",
    "14 Nov 12:00",
-   "15 Nov 18:00"
+   "15 Nov 18:00",
+   "25 Nov 08:29"
   ]
  },
  {
@@ -4958,7 +4969,8 @@ window.CHANNELS = [
    "23 Oct 08:00",
    "15 Nov 12:00",
    "19 Nov 12:00",
-   "24 Nov 12:00"
+   "24 Nov 12:00",
+   "25 Nov 12:00"
   ]
  },
  {
@@ -4966,10 +4978,10 @@ window.CHANNELS = [
   "name": "Kingdom Report",
   "url": "https://www.youtube.com/@WorldPointNews-b6p",
   "icon": "https://yt3.googleusercontent.com/vJ0pllqSH5KpRC2fpVu8-NebslP_AtdfrOi1BrtVajwAd5FSIV_qWh6b1g7S6KyL-gSu-aKr=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 25,
+  "videos": 26,
   "views": 464,
   "subs": 2,
-  "week": 1,
+  "week": 2,
   "added": 171,
   "scheduled": [
    "10 Nov 10:00",
@@ -4981,7 +4993,8 @@ window.CHANNELS = [
    "23 Oct 12:00",
    "24 Oct 12:00",
    "15 Nov 12:00",
-   "19 Nov 18:00"
+   "19 Nov 18:00",
+   "25 Nov 08:29"
   ]
  },
  {
@@ -5002,7 +5015,8 @@ window.CHANNELS = [
    "14 Nov 12:00",
    "22 Oct 18:00",
    "24 Oct 18:00",
-   "24 Nov 07:00"
+   "24 Nov 07:00",
+   "25 Nov 18:00"
   ]
  },
  {
@@ -5011,10 +5025,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsCentral24-g5b",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nqG5kNb9WDoM5cFrNSQr9fzliieK8lWbCqB52t7OKShdvcGjZ-DNkPlowQu3IE1MHYgQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 61,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 173,
   "scheduled": [
    "12 Nov 12:00",
@@ -5022,7 +5036,8 @@ window.CHANNELS = [
    "22 Oct 18:00",
    "24 Oct 18:00",
    "15 Nov 10:00",
-   "19 Nov 10:00"
+   "19 Nov 10:00",
+   "25 Nov 08:29"
   ]
  },
  {
