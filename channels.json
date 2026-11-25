@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T15:50:10.202Z",
- "data_updated": "2026-11-25T15:50:10.065Z",
+ "generated": "2026-11-25T16:25:59.843Z",
+ "data_updated": "2026-11-25T16:25:59.710Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
-  "channels": 272,
+  "channels": 271,
   "youtube_channels": 260,
-  "subscribers": 541055,
-  "views": 20481034,
-  "videos": 11944,
-  "videos_this_week": 637,
-  "videos_scheduled": 13
+  "subscribers": 541050,
+  "views": 20469519,
+  "videos": 11946,
+  "videos_this_week": 631,
+  "videos_scheduled": 11
  },
  "channels": [
   {
@@ -190,18 +190,6 @@
    "subscribers": 5,
    "views": 5582,
    "videos": 131,
-   "videos_this_week": 0,
-   "scheduled": 0,
-   "ministers": ""
-  },
-  {
-   "section": "Alternative Platforms",
-   "platform": "BitChute",
-   "name": "Dag Heward-Mills Iron Sharpeneth Iron",
-   "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
-   "subscribers": 5,
-   "views": 11515,
-   "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -394,7 +382,7 @@
    "subscribers": 2,
    "views": 2315,
    "videos": 16,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -490,7 +478,7 @@
    "subscribers": 0,
    "views": 138,
    "videos": 10,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -502,7 +490,7 @@
    "subscribers": 0,
    "views": 204,
    "videos": 12,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": "Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)"
   },
@@ -574,7 +562,7 @@
    "subscribers": 601,
    "views": 133850,
    "videos": 15,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -705,9 +693,9 @@
    "url": "https://www.youtube.com/@TrendSphere-b3r",
    "subscribers": 31,
    "views": 13962,
-   "videos": 9,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 10,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": "Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)"
   },
   {
@@ -826,7 +814,7 @@
    "subscribers": 1,
    "views": 1453,
    "videos": 17,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1378,7 +1366,7 @@
    "subscribers": 12,
    "views": 2403,
    "videos": 20,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": "E.A. Adeboye (holiness, grace, generational faith)"
   },
@@ -1702,7 +1690,7 @@
    "subscribers": 12,
    "views": 3527,
    "videos": 45,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1977,9 +1965,9 @@
    "url": "https://www.youtube.com/@listenagain-r4k",
    "subscribers": 7,
    "views": 1150,
-   "videos": 11,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 12,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2122,7 +2110,7 @@
    "subscribers": 10,
    "views": 327,
    "videos": 13,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
