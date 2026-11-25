@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T16:25:59.843Z",
- "data_updated": "2026-11-25T16:25:59.710Z",
+ "generated": "2026-11-25T16:33:17.453Z",
+ "data_updated": "2026-11-25T16:33:17.321Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
-  "channels": 271,
+  "channels": 272,
   "youtube_channels": 260,
-  "subscribers": 541050,
-  "views": 20469519,
+  "subscribers": 541055,
+  "views": 20481034,
   "videos": 11946,
-  "videos_this_week": 631,
+  "videos_this_week": 629,
   "videos_scheduled": 11
  },
  "channels": [
@@ -197,6 +197,18 @@
   {
    "section": "Alternative Platforms",
    "platform": "BitChute",
+   "name": "Dag Heward-Mills Iron Sharpeneth Iron",
+   "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
+   "subscribers": 5,
+   "views": 11515,
+   "videos": 142,
+   "videos_this_week": 0,
+   "scheduled": 0,
+   "ministers": ""
+  },
+  {
+   "section": "Alternative Platforms",
+   "platform": "BitChute",
    "name": "Dag Heward-Mills Miracle Wave Conventions",
    "url": "https://www.bitchute.com/channel/11UXeAys0iQY/",
    "subscribers": 5,
@@ -310,7 +322,7 @@
    "subscribers": 8,
    "views": 2854,
    "videos": 22,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -874,7 +886,7 @@
    "subscribers": 218,
    "views": 42120,
    "videos": 13,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
