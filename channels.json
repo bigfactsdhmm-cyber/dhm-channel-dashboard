@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T07:47:24.338Z",
- "data_updated": "2026-11-25T07:47:24.214Z",
+ "generated": "2026-11-25T08:10:48.509Z",
+ "data_updated": "2026-11-25T08:10:48.394Z",
  "upload_log_updated": "2026-11-24 23:51 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11847,
+  "videos": 11848,
   "videos_this_week": 646,
-  "videos_scheduled": 39
+  "videos_scheduled": 38
  },
  "channels": [
   {
@@ -1186,7 +1186,7 @@
    "subscribers": 8,
    "views": 1960,
    "videos": 34,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1293,9 +1293,9 @@
    "url": "https://www.youtube.com/@ModelMarriage-k2k",
    "subscribers": 0,
    "views": 848,
-   "videos": 7,
-   "videos_this_week": 0,
-   "scheduled": 2,
+   "videos": 8,
+   "videos_this_week": 1,
+   "scheduled": 1,
    "ministers": ""
   },
   {
