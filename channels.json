@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T13:11:30.131Z",
- "data_updated": "2026-11-25T13:11:30.020Z",
+ "generated": "2026-11-25T13:44:28.881Z",
+ "data_updated": "2026-11-25T13:44:28.778Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 541055,
   "views": 20481032,
-  "videos": 11931,
-  "videos_this_week": 650,
-  "videos_scheduled": 26
+  "videos": 11934,
+  "videos_this_week": 647,
+  "videos_scheduled": 23
  },
  "channels": [
   {
@@ -274,7 +274,7 @@
    "subscribers": 1,
    "views": 293,
    "videos": 10,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -394,7 +394,7 @@
    "subscribers": 2,
    "views": 2315,
    "videos": 16,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -502,7 +502,7 @@
    "subscribers": 0,
    "views": 204,
    "videos": 12,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": "Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)"
   },
@@ -705,9 +705,9 @@
    "url": "https://www.youtube.com/@TrendSphere-b3r",
    "subscribers": 31,
    "views": 13962,
-   "videos": 8,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 9,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": "Johnson Suleman + Uebert Angel (prophetic ministry and deliverance)"
   },
   {
@@ -886,7 +886,7 @@
    "subscribers": 218,
    "views": 42120,
    "videos": 13,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1366,7 +1366,7 @@
    "subscribers": 9,
    "views": 3905,
    "videos": 40,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1377,9 +1377,9 @@
    "url": "https://www.youtube.com/@PrimeSpotlight-z1i",
    "subscribers": 12,
    "views": 2403,
-   "videos": 19,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 20,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": "E.A. Adeboye (holiness, grace, generational faith)"
   },
   {
@@ -1402,7 +1402,7 @@
    "subscribers": 54,
    "views": 15134,
    "videos": 46,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1797,9 +1797,9 @@
    "url": "https://www.youtube.com/@VictoryVoice-p1r",
    "subscribers": 2,
    "views": 1031,
-   "videos": 7,
-   "videos_this_week": 2,
-   "scheduled": 2,
+   "videos": 8,
+   "videos_this_week": 3,
+   "scheduled": 1,
    "ministers": ""
   },
   {

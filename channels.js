@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T13:11:30.020Z";
+window.UPDATED = "2026-11-25T13:44:28.778Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -56,7 +56,7 @@ window.CHANNELS = [
   "videos": 10,
   "views": 293,
   "subs": 1,
-  "week": 4,
+  "week": 3,
   "added": 1,
   "scheduled": [
    "29 Sep 17:20",
@@ -352,7 +352,7 @@ window.CHANNELS = [
   "videos": 16,
   "views": 2315,
   "subs": 2,
-  "week": 4,
+  "week": 3,
   "added": 11,
   "scheduled": [
    "29 Sep 18:25",
@@ -582,7 +582,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 204,
   "subs": 0,
-  "week": 3,
+  "week": 2,
   "added": 20,
   "scheduled": [
    "29 Sep 18:45, Short 29 Sep 12:45",
@@ -1035,10 +1035,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@TrendSphere-b3r",
   "icon": "https://yt3.googleusercontent.com/X7_GDn75nPjGgt0gmISbZ9NiK__jw9L5WKBZDcWL7ScTMHozvZqVjUVwsr_7TqvmHtLCnIcrtQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 8,
+  "videos": 9,
   "views": 13962,
   "subs": 31,
-  "week": 2,
+  "week": 3,
   "added": 37,
   "scheduled": [
    "29 Sep 17:00, Short 29 Sep 12:00",
@@ -1461,7 +1461,7 @@ window.CHANNELS = [
   "videos": 13,
   "views": 42120,
   "subs": 218,
-  "week": 2,
+  "week": 1,
   "added": 52,
   "scheduled": [
    "29 Sep 18:05, Short 29 Sep 12:05",
@@ -2681,7 +2681,7 @@ window.CHANNELS = [
   "videos": 40,
   "views": 3905,
   "subs": 9,
-  "week": 4,
+  "week": 3,
   "added": 92,
   "scheduled": [
    "8 Nov 04:52",
@@ -2714,10 +2714,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@PrimeSpotlight-z1i",
   "icon": "https://yt3.googleusercontent.com/EoaUibECeWgIB0_3sf2vRMM9x11ao0fOhtHeE_jYESkmHTUV3SeJm6IseMZ5yTwyVahquUwrgw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 19,
+  "videos": 20,
   "views": 2403,
   "subs": 12,
-  "week": 3,
+  "week": 4,
   "added": 93,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -2783,7 +2783,7 @@ window.CHANNELS = [
   "videos": 46,
   "views": 15134,
   "subs": 54,
-  "week": 5,
+  "week": 4,
   "added": 95,
   "scheduled": [
    "28 Sep 17:45, Short 28 Sep 12:45",
@@ -3918,10 +3918,10 @@ window.CHANNELS = [
   "name": "Victory Voice",
   "url": "https://www.youtube.com/@VictoryVoice-p1r",
   "icon": "https://yt3.googleusercontent.com/wYcYEO9ePP9aOI6Qx5mZSDwbF0cJHVvMuyFx7Q-vjS5ILAG61sb2llGidr_H_GeKSjbOCT0iLJQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 7,
+  "videos": 8,
   "views": 1031,
   "subs": 2,
-  "week": 2,
+  "week": 3,
   "added": 128,
   "scheduled": [
    "29 Sep 17:00, Short 29 Sep 12:00",
