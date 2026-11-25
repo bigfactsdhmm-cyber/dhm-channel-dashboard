@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-25T09:16:49.964Z",
- "data_updated": "2026-11-25T09:16:49.853Z",
+ "generated": "2026-11-25T09:49:47.884Z",
+ "data_updated": "2026-11-25T09:49:47.777Z",
  "upload_log_updated": "2026-11-25 08:32 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 540837,
   "views": 20410812,
-  "videos": 11855,
-  "videos_this_week": 649,
-  "videos_scheduled": 47
+  "videos": 11858,
+  "videos_this_week": 632,
+  "videos_scheduled": 46
  },
  "channels": [
   {
@@ -298,7 +298,7 @@
    "subscribers": 31,
    "views": 7950,
    "videos": 48,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -958,7 +958,7 @@
    "subscribers": 27,
    "views": 9205,
    "videos": 41,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1222,7 +1222,7 @@
    "subscribers": 7,
    "views": 1012,
    "videos": 24,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1857,9 +1857,9 @@
    "url": "https://www.youtube.com/@WorldPulseTV-y9s",
    "subscribers": 2,
    "views": 602,
-   "videos": 11,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 12,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": "Femi Lazarus (teaching for a younger church)"
   },
   {
@@ -3189,8 +3189,8 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 145,
-   "videos": 50,
-   "videos_this_week": 30,
+   "videos": 52,
+   "videos_this_week": 15,
    "scheduled": 0,
    "ministers": ""
   },

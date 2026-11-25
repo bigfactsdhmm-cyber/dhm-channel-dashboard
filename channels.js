@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-25T09:16:49.853Z";
+window.UPDATED = "2026-11-25T09:49:47.777Z";
 window.LOG_UPDATED = "2026-11-25 08:32 Accra";
 window.CHANNELS = [
  {
@@ -113,7 +113,7 @@ window.CHANNELS = [
   "videos": 48,
   "views": 7950,
   "subs": 31,
-  "week": 3,
+  "week": 2,
   "added": 3,
   "scheduled": [
    "28 Sep 18:30",
@@ -1656,7 +1656,7 @@ window.CHANNELS = [
   "videos": 41,
   "views": 9205,
   "subs": 27,
-  "week": 5,
+  "week": 4,
   "added": 58,
   "scheduled": [
    "31 Oct 06:03, Short 31 Oct 06:05",
@@ -2327,7 +2327,7 @@ window.CHANNELS = [
   "videos": 24,
   "views": 1012,
   "subs": 7,
-  "week": 8,
+  "week": 7,
   "added": 80,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -4069,10 +4069,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@WorldPulseTV-y9s",
   "icon": "https://yt3.googleusercontent.com/CnjJDmZPzbqCFTugy_Dv8aVlwi-EoKr2BRnZzdlOdUHq4JsS9DCUxxgZfZ4jGIQRqKS3sTRIKQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 11,
+  "videos": 12,
   "views": 602,
   "subs": 2,
-  "week": 1,
+  "week": 2,
   "added": 133,
   "scheduled": [
    "29 Sep 17:15, Short 29 Sep 12:15",
@@ -6064,10 +6064,10 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@lovelydiamond-l9e",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 50,
+  "videos": 52,
   "views": 145,
   "subs": 2,
-  "week": 30,
+  "week": 15,
   "added": 245
  },
  {
