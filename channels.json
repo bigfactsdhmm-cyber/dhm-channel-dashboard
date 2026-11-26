@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T16:15:46.850Z",
- "data_updated": "2026-11-26T16:15:46.703Z",
+ "generated": "2026-11-26T16:49:45.650Z",
+ "data_updated": "2026-11-26T16:49:45.513Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 543015,
-  "views": 20574490,
-  "videos": 12046,
-  "videos_this_week": 624,
-  "videos_scheduled": 12
+  "views": 20574491,
+  "videos": 12049,
+  "videos_this_week": 625,
+  "videos_scheduled": 10
  },
  "channels": [
   {
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11515,
+   "views": 11516,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -1125,9 +1125,9 @@
    "url": "https://www.youtube.com/@FoundintheMessage",
    "subscribers": 6,
    "views": 2327,
-   "videos": 17,
+   "videos": 18,
    "videos_this_week": 3,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1485,9 +1485,9 @@
    "url": "https://www.youtube.com/@RockofAgesTV-l5s",
    "subscribers": 54,
    "views": 15187,
-   "videos": 48,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 49,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2121,7 +2121,7 @@
    "url": "https://www.youtube.com/@RevivalWatchTV1",
    "subscribers": 2240,
    "views": 31161,
-   "videos": 85,
+   "videos": 86,
    "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
