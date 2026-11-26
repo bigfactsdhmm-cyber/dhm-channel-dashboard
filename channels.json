@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T21:46:42.188Z",
- "data_updated": "2026-11-26T21:46:42.054Z",
+ "generated": "2026-11-26T22:50:21.569Z",
+ "data_updated": "2026-11-26T22:50:21.424Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542844,
-  "views": 20593607,
-  "videos": 12063,
-  "videos_this_week": 639,
-  "videos_scheduled": 0
+  "views": 20593608,
+  "videos": 12064,
+  "videos_this_week": 640,
+  "videos_scheduled": 2
  },
  "channels": [
   {
@@ -332,7 +332,7 @@
    "name": "Dag Heward-Mills Unquenchable Fire Services",
    "url": "https://www.bitchute.com/channel/kwaYujwB7XMk/",
    "subscribers": 4,
-   "views": 428,
+   "views": 429,
    "videos": 32,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -561,9 +561,9 @@
    "url": "https://www.youtube.com/@LoveGodsWay-x8i",
    "subscribers": 88,
    "views": 39004,
-   "videos": 21,
-   "videos_this_week": 4,
-   "scheduled": 0,
+   "videos": 22,
+   "videos_this_week": 5,
+   "scheduled": 2,
    "ministers": ""
   },
   {
