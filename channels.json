@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T18:03:50.098Z",
- "data_updated": "2026-11-26T18:03:49.968Z",
+ "generated": "2026-11-26T18:38:38.076Z",
+ "data_updated": "2026-11-26T18:38:37.932Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 543009,
   "views": 20590218,
-  "videos": 12051,
-  "videos_this_week": 629,
-  "videos_scheduled": 4
+  "videos": 12053,
+  "videos_this_week": 631,
+  "videos_scheduled": 3
  },
  "channels": [
   {
@@ -1989,9 +1989,9 @@
    "url": "https://www.youtube.com/@CarrytheCross-u1v",
    "subscribers": 1,
    "views": 574,
-   "videos": 13,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 14,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2254,7 +2254,7 @@
    "subscribers": 1,
    "views": 284,
    "videos": 24,
-   "videos_this_week": 2,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2277,8 +2277,8 @@
    "url": "https://www.youtube.com/@TheWorldDesk-x6j",
    "subscribers": 1,
    "views": 384,
-   "videos": 26,
-   "videos_this_week": 2,
+   "videos": 27,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2398,7 +2398,7 @@
    "subscribers": 2,
    "views": 483,
    "videos": 27,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
