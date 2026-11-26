@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-26T14:32:46.231Z";
+window.UPDATED = "2026-11-26T15:06:33.454Z";
 window.LOG_UPDATED = "2026-11-26 12:52 Accra";
 window.CHANNELS = [
  {
@@ -12,7 +12,7 @@ window.CHANNELS = [
   "name": "Daily Bread Word",
   "url": "https://www.youtube.com/@DailyBreadWord-c4s",
   "icon": "https://yt3.googleusercontent.com/EHFT9rogwWo7OlfaMvIdsiG9eoKUqFb6WFsmAD0W_mMBQBeBcjOmZXxUEcOPpGtwRDyx-sr6KyM=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 48,
+  "videos": 49,
   "views": 8116,
   "subs": 31,
   "week": 5,
@@ -793,10 +793,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@TheDailyWave-s3x",
   "icon": "https://yt3.googleusercontent.com/3EJfUo4hZ9tCpY-tq6G6_tl6K5MNNMeisi3b1hdr-sOFM0Rg89hJsxtASkvbWKo5-hCc5uVB2g=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 22,
+  "videos": 23,
   "views": 3019,
   "subs": 15,
-  "week": 5,
+  "week": 6,
   "added": 29,
   "scheduled": [
    "29 Sep 17:30",
@@ -4288,7 +4288,7 @@ window.CHANNELS = [
   "name": "Word Alive Daily",
   "url": "https://www.youtube.com/@WordAliveDaily-y9l",
   "icon": "https://yt3.googleusercontent.com/fL45TcYN-RAs6VthYb7MAXCPxACHP7tyXZFJcM5m7xo-PbCt-8wFOQT8i7FAt8UsDr6LhO7t1Hk=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 42,
+  "videos": 43,
   "views": 4763,
   "subs": 13,
   "week": 5,

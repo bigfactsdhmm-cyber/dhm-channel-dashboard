@@ -1,20 +1,20 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-26T14:32:46.360Z   Numbers refreshed: 2026-11-26T14:32:46.231Z   Upload log: 2026-11-26 12:52 Accra
+Generated: 2026-11-26T15:06:33.588Z   Numbers refreshed: 2026-11-26T15:06:33.454Z   Upload log: 2026-11-26 12:52 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 543,015
   Views: 20,574,490
-  Videos on YouTube: 12,036
-  Videos posted in the last 7 days: 619
-  Videos scheduled (go-live time still ahead): 22
+  Videos on YouTube: 12,039
+  Videos posted in the last 7 days: 620
+  Videos scheduled (go-live time still ahead): 19
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,600 subscribers, 18,830,288 views, 16 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,496 views, 1 videos this week
   Fan channels: 144 channels, 48,865 subscribers, 1,510,850 views, 367 videos this week
-  Men of God channels: 12 channels, 128 subscribers, 39,052 views, 34 videos this week
+  Men of God channels: 12 channels, 128 subscribers, 39,052 views, 35 videos this week
   FLOW Prayer Meeting channels: 26 channels, 3,024 subscribers, 55,137 views, 26 videos this week
   Camps channels: 40 channels, 28 subscribers, 4,737 views, 45 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 237 views, 59 videos this week
@@ -54,8 +54,8 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   6. Fresh Impact TV (Fan channels): 6
   7. Kingdom Focus (Fan channels): 6
   8. Kingdom Spotlight (Fan channels): 6
-  9. The Watchman Desk (Fan channels): 6
-  10. Unseen Things (Fan channels): 6
+  9. The Daily Wave (Men of God channels): 6
+  10. The Watchman Desk (Fan channels): 6
 
 MEN OF GOD CHANNELS
   Next Wave TV: Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)
