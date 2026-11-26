@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T08:57:23.353Z",
- "data_updated": "2026-11-26T08:57:23.209Z",
- "upload_log_updated": "2026-11-26 08:32 Accra",
+ "generated": "2026-11-26T09:31:10.358Z",
+ "data_updated": "2026-11-26T09:31:10.209Z",
+ "upload_log_updated": "2026-11-26 08:56 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 543011,
   "views": 20572357,
-  "videos": 11979,
-  "videos_this_week": 601,
-  "videos_scheduled": 13
+  "videos": 11988,
+  "videos_this_week": 608,
+  "videos_scheduled": 12
  },
  "channels": [
   {
@@ -477,9 +477,9 @@
    "url": "https://www.youtube.com/@ImpactWorld-o1f",
    "subscribers": 3,
    "views": 2394,
-   "videos": 17,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 18,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -729,8 +729,8 @@
    "url": "https://www.youtube.com/@TheOvercomersChannel1",
    "subscribers": 1140,
    "views": 4248,
-   "videos": 33,
-   "videos_this_week": 0,
+   "videos": 34,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -777,8 +777,8 @@
    "url": "https://www.youtube.com/@TheWatchmanDesk",
    "subscribers": 29,
    "views": 1873,
-   "videos": 17,
-   "videos_this_week": 4,
+   "videos": 18,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -801,8 +801,8 @@
    "url": "https://www.youtube.com/@UnseenThings321",
    "subscribers": 10,
    "views": 2323,
-   "videos": 18,
-   "videos_this_week": 4,
+   "videos": 19,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1091,7 +1091,7 @@
    "views": 426,
    "videos": 13,
    "videos_this_week": 3,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1317,8 +1317,8 @@
    "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
    "subscribers": 0,
    "views": 709,
-   "videos": 14,
-   "videos_this_week": 4,
+   "videos": 15,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1629,8 +1629,8 @@
    "url": "https://www.youtube.com/@TheBelieversWalk",
    "subscribers": 16,
    "views": 6265,
-   "videos": 47,
-   "videos_this_week": 4,
+   "videos": 48,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1726,8 +1726,8 @@
    "subscribers": 44,
    "views": 6890,
    "videos": 44,
-   "videos_this_week": 3,
-   "scheduled": 0,
+   "videos_this_week": 4,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1761,8 +1761,8 @@
    "url": "https://www.youtube.com/@ThePrayerCorner-w4v",
    "subscribers": 90,
    "views": 22135,
-   "videos": 18,
-   "videos_this_week": 4,
+   "videos": 19,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2482,7 +2482,7 @@
    "subscribers": 0,
    "views": 67,
    "videos": 2,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 160,
-   "videos": 61,
+   "videos": 63,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""

@@ -4,8 +4,8 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-26T08:57:23.209Z";
-window.LOG_UPDATED = "2026-11-26 08:32 Accra";
+window.UPDATED = "2026-11-26T09:31:10.209Z";
+window.LOG_UPDATED = "2026-11-26 08:56 Accra";
 window.CHANNELS = [
  {
   "id": "UCct7kcuwueH0x4DOnUTNeyA",
@@ -349,10 +349,10 @@ window.CHANNELS = [
   "category": "Men of God channels",
   "url": "https://www.youtube.com/@ImpactWorld-o1f",
   "icon": "https://yt3.googleusercontent.com/23PH6SXVZ2xFDJY_e6dALphmshHFqiVtyPSb5kovj2v7eLjH4wXo3-BwoTLFY_eT1TGJrbeKBA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 17,
+  "videos": 18,
   "views": 2394,
   "subs": 3,
-  "week": 3,
+  "week": 4,
   "added": 11,
   "scheduled": [
    "29 Sep 18:25",
@@ -890,10 +890,10 @@ window.CHANNELS = [
   "name": "The Overcomers Channel",
   "url": "https://www.youtube.com/@TheOvercomersChannel1",
   "icon": "https://yt3.googleusercontent.com/VJwH9LxOJYcG9rmDDm4E1kGzhiEwv7lCk0t8nGZdt4eZ5EbMkM24EY7sZImiGWUomzhV9_L-Tg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 33,
+  "videos": 34,
   "views": 4248,
   "subs": 1140,
-  "week": 0,
+  "week": 1,
   "added": 32,
   "scheduled": [
    "28 Sep 17:40",
@@ -1010,10 +1010,10 @@ window.CHANNELS = [
   "name": "The Watchman Desk",
   "url": "https://www.youtube.com/@TheWatchmanDesk",
   "icon": "https://yt3.googleusercontent.com/waO1DoQmMWYrFws9Q2qcdrdryZsTwLdGjJ_jedpuHr07s9TVRH18wA-UTsOrrN-h7gfVwiIJ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 17,
+  "videos": 18,
   "views": 1873,
   "subs": 29,
-  "week": 4,
+  "week": 5,
   "added": 36,
   "scheduled": [
    "29 Sep 17:30",
@@ -1058,10 +1058,10 @@ window.CHANNELS = [
   "name": "Unseen Things",
   "url": "https://www.youtube.com/@UnseenThings321",
   "icon": "https://yt3.googleusercontent.com/_moTYeoBnqdwT3N7VSnpTAPBFcebr3bCSPZLUagB6PZvkb5tJj9BXsvBxQwRUjS4lkPEMkfXdKo=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 18,
+  "videos": 19,
   "views": 2323,
   "subs": 10,
-  "week": 4,
+  "week": 5,
   "added": 38,
   "scheduled": [
    "29 Sep 17:05",
@@ -2364,10 +2364,10 @@ window.CHANNELS = [
   "name": "Letters to the Church",
   "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
   "icon": "https://yt3.googleusercontent.com/YaEM0naNLrflUBrolQF7XJGm45unVgXqAsHP4GmtW_HQ2DalMWk_lzdxgwopKr1RL4cNODDOZ8E=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 14,
+  "videos": 15,
   "views": 709,
   "subs": 0,
-  "week": 4,
+  "week": 5,
   "added": 81,
   "scheduled": [
    "29 Sep 17:35, Short 29 Sep 12:35",
@@ -3176,10 +3176,10 @@ window.CHANNELS = [
   "name": "The Believer's Walk",
   "url": "https://www.youtube.com/@TheBelieversWalk",
   "icon": "https://yt3.googleusercontent.com/4kqkDXdMHR-rY4KaWqqEdQzRrV-Z0pjo9tT45WH9lEE5YInVqFKTZBwiP6T5RgZrchttJmRfq8g=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 47,
+  "videos": 48,
   "views": 6265,
   "subs": 16,
-  "week": 4,
+  "week": 5,
   "added": 107,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -3461,7 +3461,7 @@ window.CHANNELS = [
   "videos": 44,
   "views": 6890,
   "subs": 44,
-  "week": 3,
+  "week": 4,
   "added": 115,
   "scheduled": [
    "28 Sep 18:25, Short 28 Sep 12:25",
@@ -3484,6 +3484,7 @@ window.CHANNELS = [
    "16 Nov 08:00, Short 16 Nov 11:00",
    "20 Nov 15:30, Short 20 Nov 18:30",
    "21 Nov 16:41",
+   "26 Nov 10:00",
    "Short 17 Oct 21:05",
    "Short 11 Oct 12:25",
    "Short 8 Oct 12:25",
@@ -3566,10 +3567,10 @@ window.CHANNELS = [
   "name": "The Prayer Corner",
   "url": "https://www.youtube.com/@ThePrayerCorner-w4v",
   "icon": "https://yt3.googleusercontent.com/Po0bVN1KMdcHUrut_1YrikTqdCJUjqfH4AihAmMkqAxRA8B8Za5ZcJH8kJL-st4YH4sG3elvfg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 18,
+  "videos": 19,
   "views": 22135,
   "subs": 90,
-  "week": 4,
+  "week": 5,
   "added": 118,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -5168,7 +5169,7 @@ window.CHANNELS = [
   "videos": 2,
   "views": 67,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 179,
   "scheduled": [
    "19 Nov 06:00, Short 19 Nov 09:00"
@@ -6081,7 +6082,7 @@ window.CHANNELS = [
   "category": "Lovely Diamond channels",
   "url": "https://www.youtube.com/@lovelydiamond-l9e",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 61,
+  "videos": 63,
   "views": 160,
   "subs": 2,
   "week": 30,
