@@ -78,8 +78,8 @@
  {
   "platform": "Rumble",
   "url": "https://rumble.com/c/c-6260523",
-  "videos": 23,
-  "views": 1397,
+  "videos": 127,
+  "views": 47923,
   "latest": "2026-11-11",
   "name": "Dag Heward-Mills Conventions",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/R/C/4/x/RC4xa.baa-DagHewardMillsConventions-sdk0es.jpeg",
@@ -93,8 +93,7 @@
   "latest": "",
   "name": "Dag Heward-Mills Shepherds' Services",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/0/v/v/x/0vvxa.baa-daghewardmillsshepherdsse-sdj5p1.jpeg",
-  "followers": 273,
-  "stale": true
+  "followers": 273
  },
  {
   "platform": "Rumble",
@@ -104,8 +103,7 @@
   "latest": "",
   "name": "Dag Heward-Mills Tuesday Services",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/Q/E/5/x/QE5xa.baa-DagHewardMillsTuesdayServ-sdl899.jpeg",
-  "followers": 253,
-  "stale": true
+  "followers": 253
  },
  {
   "platform": "Rumble",
@@ -115,8 +113,7 @@
   "latest": "",
   "name": "Dag Heward-Mills Korle Gonno",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/S/F/5/x/SF5xa.baa-DagHewardMillsKorleGonno-sdl8hs.jpeg",
-  "followers": 238,
-  "stale": true
+  "followers": 238
  },
  {
   "platform": "Rumble",
@@ -126,8 +123,7 @@
   "latest": "",
   "name": "Dag Heward-Mills Wisdom Impartation Services",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/W/Z/3/x/WZ3xa.baa-WisdomImpartationDagHewar-sdjbxq.jpeg",
-  "followers": 253,
-  "stale": true
+  "followers": 253
  },
  {
   "platform": "Rumble",
@@ -137,8 +133,7 @@
   "latest": "2026-09-11",
   "name": "Dag Heward-Mills Love First Church Services",
   "icon": "https://hugh.cdn.rumble.cloud/video/z8/C/H/X/D/CHXDa.baa.1-DagHewardMillsLoveFirst-t4jzd1.jpeg",
-  "followers": 69,
-  "stale": true
+  "followers": 69
  },
  {
   "platform": "BitChute",
@@ -149,8 +144,7 @@
   "videos": 131,
   "views": 5585,
   "week": 0,
-  "latest": "2025-11-12",
-  "stale": true
+  "latest": "2025-11-12"
  },
  {
   "platform": "BitChute",
@@ -161,8 +155,7 @@
   "videos": 142,
   "views": 11515,
   "week": 0,
-  "latest": "2024-07-03",
-  "stale": true
+  "latest": "2024-07-03"
  },
  {
   "platform": "BitChute",
@@ -173,8 +166,7 @@
   "videos": 19,
   "views": 5153,
   "week": 0,
-  "latest": "2024-06-14",
-  "stale": true
+  "latest": "2024-06-14"
  },
  {
   "platform": "BitChute",
@@ -185,8 +177,7 @@
   "videos": 11,
   "views": 184,
   "week": 0,
-  "latest": "2024-06-12",
-  "stale": true
+  "latest": "2024-06-12"
  },
  {
   "platform": "BitChute",
@@ -197,8 +188,7 @@
   "videos": 10,
   "views": 241,
   "week": 0,
-  "latest": "2024-06-12",
-  "stale": true
+  "latest": "2024-06-12"
  },
  {
   "platform": "BitChute",
@@ -209,7 +199,6 @@
   "videos": 32,
   "views": 428,
   "week": 0,
-  "latest": "2024-06-13",
-  "stale": true
+  "latest": "2024-06-13"
  }
 ]

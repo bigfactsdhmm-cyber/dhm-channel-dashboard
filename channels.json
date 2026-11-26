@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T15:40:55.755Z",
- "data_updated": "2026-11-26T15:40:55.624Z",
+ "generated": "2026-11-26T16:15:46.850Z",
+ "data_updated": "2026-11-26T16:15:46.703Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 543015,
-  "views": 20527964,
-  "videos": 12042,
-  "videos_this_week": 622,
-  "videos_scheduled": 15
+  "views": 20574490,
+  "videos": 12046,
+  "videos_this_week": 624,
+  "videos_scheduled": 12
  },
  "channels": [
   {
@@ -200,8 +200,8 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 1397,
-   "videos": 23,
+   "views": 47923,
+   "videos": 127,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -1041,9 +1041,9 @@
    "url": "https://www.youtube.com/@DoersoftheWord-u4y",
    "subscribers": 28,
    "views": 9310,
-   "videos": 42,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 43,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1077,7 +1077,7 @@
    "url": "https://www.youtube.com/@FaithAfterMidnight-j7w",
    "subscribers": 5,
    "views": 1094,
-   "videos": 13,
+   "videos": 14,
    "videos_this_week": 4,
    "scheduled": 1,
    "ministers": ""
@@ -1113,9 +1113,9 @@
    "url": "https://www.youtube.com/@FaithfulServant-w8q",
    "subscribers": 9,
    "views": 4980,
-   "videos": 42,
-   "videos_this_week": 4,
-   "scheduled": 1,
+   "videos": 43,
+   "videos_this_week": 5,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2829,9 +2829,9 @@
    "url": "https://www.youtube.com/@FatimaBello-x3w",
    "subscribers": 1,
    "views": 355,
-   "videos": 5,
+   "videos": 6,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
