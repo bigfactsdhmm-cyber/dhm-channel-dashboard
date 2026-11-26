@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T15:06:33.588Z",
- "data_updated": "2026-11-26T15:06:33.454Z",
+ "generated": "2026-11-26T15:40:55.755Z",
+ "data_updated": "2026-11-26T15:40:55.624Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 543015,
-  "views": 20574490,
-  "videos": 12039,
-  "videos_this_week": 620,
-  "videos_scheduled": 19
+  "views": 20527964,
+  "videos": 12042,
+  "videos_this_week": 622,
+  "videos_scheduled": 15
  },
  "channels": [
   {
@@ -200,8 +200,8 @@
    "name": "Dag Heward-Mills Conventions",
    "url": "https://rumble.com/c/c-6260523",
    "subscribers": 618,
-   "views": 47923,
-   "videos": 127,
+   "views": 1397,
+   "videos": 23,
    "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
@@ -981,9 +981,9 @@
    "url": "https://www.youtube.com/@CalledandChosen-i2j",
    "subscribers": 3,
    "views": 1339,
-   "videos": 30,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 31,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1005,9 +1005,9 @@
    "url": "https://www.youtube.com/@CrossroadsofFaith-w1k",
    "subscribers": 14,
    "views": 2552,
-   "videos": 36,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 37,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1079,7 +1079,7 @@
    "views": 1094,
    "videos": 13,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1989,9 +1989,9 @@
    "url": "https://www.youtube.com/@CarrytheCross-u1v",
    "subscribers": 1,
    "views": 574,
-   "videos": 13,
+   "videos": 14,
    "videos_this_week": 3,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
