@@ -1,22 +1,22 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-26T13:24:54.800Z   Numbers refreshed: 2026-11-26T13:24:54.691Z   Upload log: 2026-11-26 12:52 Accra
+Generated: 2026-11-26T13:58:59.644Z   Numbers refreshed: 2026-11-26T13:58:59.517Z   Upload log: 2026-11-26 12:52 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 543,015
   Views: 20,574,490
-  Videos on YouTube: 12,026
-  Videos posted in the last 7 days: 613
-  Videos scheduled (go-live time still ahead): 28
+  Videos on YouTube: 12,032
+  Videos posted in the last 7 days: 618
+  Videos scheduled (go-live time still ahead): 26
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,600 subscribers, 18,830,288 views, 16 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,496 views, 1 videos this week
-  Fan channels: 144 channels, 48,865 subscribers, 1,510,850 views, 359 videos this week
+  Fan channels: 144 channels, 48,865 subscribers, 1,510,850 views, 365 videos this week
   Men of God channels: 12 channels, 128 subscribers, 39,052 views, 34 videos this week
   FLOW Prayer Meeting channels: 26 channels, 3,024 subscribers, 55,137 views, 26 videos this week
-  Camps channels: 40 channels, 28 subscribers, 4,737 views, 47 videos this week
+  Camps channels: 40 channels, 28 subscribers, 4,737 views, 46 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 237 views, 59 videos this week
   Christian Gist channels: 13 channels, 54 subscribers, 40,606 views, 24 videos this week
   People channels: 14 channels, 10 subscribers, 5,087 views, 47 videos this week
@@ -50,12 +50,12 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   2. Lovely Diamond Camps (Lovely Diamond channels): 29
   3. Dag Heward-Mills (Official YouTube channels): 16
   4. Hidden Manna (FLOW Prayer Meeting channels): 8
-  5. Fresh Impact TV (Fan channels): 6
-  6. God & Me (Fan channels): 6
+  5. God & Me (Fan channels): 7
+  6. Fresh Impact TV (Fan channels): 6
   7. Kingdom Focus (Fan channels): 6
   8. Kingdom Spotlight (Fan channels): 6
-  9. Voice of the Cross (Fan channels): 6
-  10. Witness (Fan channels): 6
+  9. The Watchman Desk (Fan channels): 6
+  10. Unseen Things (Fan channels): 6
 
 MEN OF GOD CHANNELS
   Next Wave TV: Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)

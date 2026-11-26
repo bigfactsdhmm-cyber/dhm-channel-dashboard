@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T13:24:54.800Z",
- "data_updated": "2026-11-26T13:24:54.691Z",
+ "generated": "2026-11-26T13:58:59.644Z",
+ "data_updated": "2026-11-26T13:58:59.517Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 543015,
   "views": 20574490,
-  "videos": 12026,
-  "videos_this_week": 613,
-  "videos_scheduled": 28
+  "videos": 12032,
+  "videos_this_week": 618,
+  "videos_scheduled": 26
  },
  "channels": [
   {
@@ -369,8 +369,8 @@
    "url": "https://www.youtube.com/@EvangelismByFire123",
    "subscribers": 1130,
    "views": 3909,
-   "videos": 34,
-   "videos_this_week": 4,
+   "videos": 35,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -453,8 +453,8 @@
    "url": "https://www.youtube.com/@GodMe-p1y",
    "subscribers": 9,
    "views": 3319,
-   "videos": 21,
-   "videos_this_week": 6,
+   "videos": 22,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -777,9 +777,9 @@
    "url": "https://www.youtube.com/@TheWatchmanDesk",
    "subscribers": 29,
    "views": 1876,
-   "videos": 18,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 19,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -801,8 +801,8 @@
    "url": "https://www.youtube.com/@UnseenThings321",
    "subscribers": 10,
    "views": 2323,
-   "videos": 19,
-   "videos_this_week": 5,
+   "videos": 20,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1317,9 +1317,9 @@
    "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
    "subscribers": 0,
    "views": 709,
-   "videos": 15,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 16,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1485,7 +1485,7 @@
    "url": "https://www.youtube.com/@RockofAgesTV-l5s",
    "subscribers": 54,
    "views": 15187,
-   "videos": 47,
+   "videos": 48,
    "videos_this_week": 5,
    "scheduled": 1,
    "ministers": ""
@@ -2122,7 +2122,7 @@
    "subscribers": 2240,
    "views": 31161,
    "videos": 85,
-   "videos_this_week": 3,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2542,7 +2542,7 @@
    "subscribers": 0,
    "views": 35,
    "videos": 3,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },

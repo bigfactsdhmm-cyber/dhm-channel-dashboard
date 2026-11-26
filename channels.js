@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-26T13:24:54.691Z";
+window.UPDATED = "2026-11-26T13:58:59.517Z";
 window.LOG_UPDATED = "2026-11-26 12:52 Accra";
 window.CHANNELS = [
  {
@@ -74,10 +74,10 @@ window.CHANNELS = [
   "name": "Evangelism By Fire",
   "url": "https://www.youtube.com/@EvangelismByFire123",
   "icon": "https://yt3.googleusercontent.com/zR6ntyPY5V8hz-eKBZ2wJ6AF_oaA6to2z7WKjw9dNEzjx7BwpYH5-Y-NukJtNIOwyH5s1JiPmw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 34,
+  "videos": 35,
   "views": 3909,
   "subs": 1130,
-  "week": 4,
+  "week": 5,
   "added": 2,
   "scheduled": [
    "29 Sep 18:40",
@@ -282,10 +282,10 @@ window.CHANNELS = [
   "name": "God & Me",
   "url": "https://www.youtube.com/@GodMe-p1y",
   "icon": "https://yt3.googleusercontent.com/n6uLHlRomAokVZfGxGnAzleURn-CfNQgTsp7Az86W1N9-CxUjVXkjNQDLwrQy5R3Deuv0RCDAA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 21,
+  "videos": 22,
   "views": 3319,
   "subs": 9,
-  "week": 6,
+  "week": 7,
   "added": 9,
   "scheduled": [
    "29 Sep 17:10",
@@ -1012,10 +1012,10 @@ window.CHANNELS = [
   "name": "The Watchman Desk",
   "url": "https://www.youtube.com/@TheWatchmanDesk",
   "icon": "https://yt3.googleusercontent.com/waO1DoQmMWYrFws9Q2qcdrdryZsTwLdGjJ_jedpuHr07s9TVRH18wA-UTsOrrN-h7gfVwiIJ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 18,
+  "videos": 19,
   "views": 1876,
   "subs": 29,
-  "week": 5,
+  "week": 6,
   "added": 36,
   "scheduled": [
    "29 Sep 17:30",
@@ -1061,10 +1061,10 @@ window.CHANNELS = [
   "name": "Unseen Things",
   "url": "https://www.youtube.com/@UnseenThings321",
   "icon": "https://yt3.googleusercontent.com/_moTYeoBnqdwT3N7VSnpTAPBFcebr3bCSPZLUagB6PZvkb5tJj9BXsvBxQwRUjS4lkPEMkfXdKo=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 19,
+  "videos": 20,
   "views": 2323,
   "subs": 10,
-  "week": 5,
+  "week": 6,
   "added": 38,
   "scheduled": [
    "29 Sep 17:05",
@@ -2374,10 +2374,10 @@ window.CHANNELS = [
   "name": "Letters to the Church",
   "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
   "icon": "https://yt3.googleusercontent.com/YaEM0naNLrflUBrolQF7XJGm45unVgXqAsHP4GmtW_HQ2DalMWk_lzdxgwopKr1RL4cNODDOZ8E=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 709,
   "subs": 0,
-  "week": 5,
+  "week": 6,
   "added": 81,
   "scheduled": [
    "29 Sep 17:35, Short 29 Sep 12:35",
@@ -2796,7 +2796,7 @@ window.CHANNELS = [
   "name": "Rock of Ages TV",
   "url": "https://www.youtube.com/@RockofAgesTV-l5s",
   "icon": "https://yt3.googleusercontent.com/HOlbEw_lZ51U40wN-FzJPaeLTCYIVfj8cfjuqN7MkbfGs3BUY2UeC2VnOnGymcWrVYSgwdoY=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 47,
+  "videos": 48,
   "views": 15187,
   "subs": 54,
   "week": 5,
@@ -4494,7 +4494,7 @@ window.CHANNELS = [
   "videos": 85,
   "views": 31161,
   "subs": 2240,
-  "week": 3,
+  "week": 4,
   "added": 148,
   "scheduled": [
    "16 Oct 18:20",
@@ -5263,7 +5263,7 @@ window.CHANNELS = [
   "videos": 3,
   "views": 35,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 184,
   "scheduled": [
    "19 Nov 10:30, Short 19 Nov 13:30"
