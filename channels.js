@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-26T13:58:59.517Z";
+window.UPDATED = "2026-11-26T14:32:46.231Z";
 window.LOG_UPDATED = "2026-11-26 12:52 Accra";
 window.CHANNELS = [
  {
@@ -3188,10 +3188,10 @@ window.CHANNELS = [
   "name": "The Believer's Walk",
   "url": "https://www.youtube.com/@TheBelieversWalk",
   "icon": "https://yt3.googleusercontent.com/4kqkDXdMHR-rY4KaWqqEdQzRrV-Z0pjo9tT45WH9lEE5YInVqFKTZBwiP6T5RgZrchttJmRfq8g=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 48,
+  "videos": 49,
   "views": 6269,
   "subs": 16,
-  "week": 5,
+  "week": 6,
   "added": 107,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -3580,10 +3580,10 @@ window.CHANNELS = [
   "name": "The Prayer Corner",
   "url": "https://www.youtube.com/@ThePrayerCorner-w4v",
   "icon": "https://yt3.googleusercontent.com/Po0bVN1KMdcHUrut_1YrikTqdCJUjqfH4AihAmMkqAxRA8B8Za5ZcJH8kJL-st4YH4sG3elvfg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 19,
+  "videos": 20,
   "views": 22158,
   "subs": 90,
-  "week": 5,
+  "week": 6,
   "added": 118,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -3625,7 +3625,7 @@ window.CHANNELS = [
   "name": "The Remnant Voice",
   "url": "https://www.youtube.com/@TheRemnantVoice-f7y",
   "icon": "https://yt3.googleusercontent.com/P6XPltYxVuKp6aXfPIz4gYP7OQ4ir8DrdLiorcHO2fPakkHfcJ9FAo0ZEajp7LB89q9_2_z7Hw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 46,
+  "videos": 47,
   "views": 3564,
   "subs": 12,
   "week": 4,
@@ -4051,7 +4051,7 @@ window.CHANNELS = [
   "name": "Wise Master Builder",
   "url": "https://www.youtube.com/@WiseMasterBuilder-o3y",
   "icon": "https://yt3.googleusercontent.com/32NkOG672ktMxNMkyM1lest9Ry_dtsW7WB8l8Vx50UJz-ETBwVbjYUT_PcsmGnQZRSKvvU5k=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 38,
+  "videos": 39,
   "views": 3841,
   "subs": 8,
   "week": 5,
@@ -4442,7 +4442,7 @@ window.CHANNELS = [
   "videos": 8,
   "views": 258,
   "subs": 1,
-  "week": 1,
+  "week": 0,
   "added": 146,
   "scheduled": [
    "18 Oct 18:10",

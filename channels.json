@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-26T13:58:59.644Z",
- "data_updated": "2026-11-26T13:58:59.517Z",
+ "generated": "2026-11-26T14:32:46.360Z",
+ "data_updated": "2026-11-26T14:32:46.231Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 543015,
   "views": 20574490,
-  "videos": 12032,
-  "videos_this_week": 618,
-  "videos_scheduled": 26
+  "videos": 12036,
+  "videos_this_week": 619,
+  "videos_scheduled": 22
  },
  "channels": [
   {
@@ -1629,9 +1629,9 @@
    "url": "https://www.youtube.com/@TheBelieversWalk",
    "subscribers": 16,
    "views": 6269,
-   "videos": 48,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 49,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1761,9 +1761,9 @@
    "url": "https://www.youtube.com/@ThePrayerCorner-w4v",
    "subscribers": 90,
    "views": 22158,
-   "videos": 19,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 20,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1785,9 +1785,9 @@
    "url": "https://www.youtube.com/@TheRemnantVoice-f7y",
    "subscribers": 12,
    "views": 3564,
-   "videos": 46,
+   "videos": 47,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1929,9 +1929,9 @@
    "url": "https://www.youtube.com/@WiseMasterBuilder-o3y",
    "subscribers": 8,
    "views": 3841,
-   "videos": 38,
+   "videos": 39,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2098,7 +2098,7 @@
    "subscribers": 1,
    "views": 258,
    "videos": 8,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
