@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T10:03:47.034Z",
- "data_updated": "2026-11-27T10:03:46.927Z",
+ "generated": "2026-11-27T10:43:59.400Z",
+ "data_updated": "2026-11-27T10:43:59.257Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
-  "subscribers": 542844,
-  "views": 20593615,
-  "videos": 12078,
-  "videos_this_week": 648,
+  "subscribers": 542806,
+  "views": 20593415,
+  "videos": 12081,
+  "videos_this_week": 647,
   "videos_scheduled": 6
  },
  "channels": [
@@ -127,8 +127,8 @@
    "platform": "Odysee",
    "name": "Dag Heward-Mills - Revival at 7 ",
    "url": "https://odysee.com/@daghewardmillsrevivalat7",
-   "subscribers": 38,
-   "views": 200,
+   "subscribers": "",
+   "views": "",
    "videos": 65,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -2566,7 +2566,7 @@
    "subscribers": 1,
    "views": 9,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 163,
-   "videos": 70,
+   "videos": 73,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""
