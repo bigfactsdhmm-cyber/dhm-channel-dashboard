@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T14:35:36.780Z",
- "data_updated": "2026-11-27T14:35:36.652Z",
+ "generated": "2026-11-27T15:09:01.289Z",
+ "data_updated": "2026-11-27T15:09:01.176Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -10,7 +10,7 @@
   "subscribers": 542983,
   "views": 20608976,
   "videos": 12075,
-  "videos_this_week": 611,
+  "videos_this_week": 603,
   "videos_scheduled": 2
  },
  "channels": [
@@ -346,7 +346,7 @@
    "subscribers": 32,
    "views": 8132,
    "videos": 49,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -694,7 +694,7 @@
    "subscribers": 20,
    "views": 3403,
    "videos": 23,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": "Grace Lubega + Robert Kayanja (East Africa — revival, healing, devotion)"
   },
@@ -814,7 +814,7 @@
    "subscribers": 8,
    "views": 2543,
    "videos": 26,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": "David Oyedepo + Oyedepo Jr (faith, prosperity, kingdom advancement)"
   },
@@ -982,7 +982,7 @@
    "subscribers": 3,
    "views": 1368,
    "videos": 31,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1006,7 +1006,7 @@
    "subscribers": 14,
    "views": 2583,
    "videos": 37,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1018,7 +1018,7 @@
    "subscribers": 20,
    "views": 6854,
    "videos": 47,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1114,7 +1114,7 @@
    "subscribers": 9,
    "views": 5027,
    "videos": 43,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2650,7 +2650,7 @@
    "subscribers": 0,
    "views": 50,
    "videos": 2,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
