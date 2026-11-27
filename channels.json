@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T15:47:52.084Z",
- "data_updated": "2026-11-27T15:47:51.970Z",
+ "generated": "2026-11-27T16:21:22.489Z",
+ "data_updated": "2026-11-27T16:21:22.383Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542988,
-  "views": 20611201,
-  "videos": 12076,
-  "videos_this_week": 594,
+  "views": 20611202,
+  "videos": 12079,
+  "videos_this_week": 588,
   "videos_scheduled": 2
  },
  "channels": [
@@ -272,7 +272,7 @@
    "name": "Dag Heward-Mills Qodesh",
    "url": "https://www.bitchute.com/channel/Mg7id7fz3eCF/",
    "subscribers": 5,
-   "views": 5587,
+   "views": 5588,
    "videos": 131,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -370,7 +370,7 @@
    "subscribers": 1130,
    "views": 3921,
    "videos": 36,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -418,7 +418,7 @@
    "subscribers": 2,
    "views": 1008,
    "videos": 14,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -682,7 +682,7 @@
    "subscribers": 2,
    "views": 838,
    "videos": 18,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -766,7 +766,7 @@
    "subscribers": 2,
    "views": 418,
    "videos": 13,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -874,7 +874,7 @@
    "subscribers": 1070,
    "views": 3509,
    "videos": 51,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1294,7 +1294,7 @@
    "subscribers": 38,
    "views": 9925,
    "videos": 51,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1413,8 +1413,8 @@
    "url": "https://www.youtube.com/@OverflowingCup-o4e",
    "subscribers": 13,
    "views": 6090,
-   "videos": 42,
-   "videos_this_week": 3,
+   "videos": 43,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1774,7 +1774,7 @@
    "subscribers": 7,
    "views": 870,
    "videos": 11,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2050,7 +2050,7 @@
    "subscribers": 7,
    "views": 797,
    "videos": 10,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2229,8 +2229,8 @@
    "url": "https://www.youtube.com/@WorldScopeNews-h9f",
    "subscribers": 40,
    "views": 35513,
-   "videos": 32,
-   "videos_this_week": 4,
+   "videos": 33,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2662,7 +2662,7 @@
    "subscribers": 1,
    "views": 10,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3249,8 +3249,8 @@
    "url": "https://www.youtube.com/@GlobalReportNetwork-f4j",
    "subscribers": 2,
    "views": 1624,
-   "videos": 3,
-   "videos_this_week": 0,
+   "videos": 4,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
