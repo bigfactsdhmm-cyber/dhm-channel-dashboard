@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-27T16:21:22.383Z";
+window.UPDATED = "2026-11-27T16:54:54.284Z";
 window.LOG_UPDATED = "2026-11-26 12:52 Accra";
 window.CHANNELS = [
  {
@@ -182,7 +182,7 @@ window.CHANNELS = [
   "videos": 22,
   "views": 2860,
   "subs": 8,
-  "week": 5,
+  "week": 4,
   "added": 5,
   "scheduled": [
    "29 Sep 17:40",
@@ -607,7 +607,7 @@ window.CHANNELS = [
   "videos": 13,
   "views": 188,
   "subs": 2,
-  "week": 3,
+  "week": 2,
   "added": 21,
   "scheduled": [
    "28 Sep 18:10",
@@ -629,7 +629,7 @@ window.CHANNELS = [
   "videos": 15,
   "views": 858,
   "subs": 3,
-  "week": 3,
+  "week": 2,
   "added": 22,
   "scheduled": [
    "29 Sep 17:30",
@@ -1065,7 +1065,7 @@ window.CHANNELS = [
   "videos": 20,
   "views": 2569,
   "subs": 10,
-  "week": 6,
+  "week": 5,
   "added": 38,
   "scheduled": [
    "29 Sep 17:05",
@@ -1173,7 +1173,7 @@ window.CHANNELS = [
   "videos": 7,
   "views": 15,
   "subs": 0,
-  "week": 2,
+  "week": 1,
   "added": 41,
   "scheduled": [
    "28 Sep 18:30",
@@ -1215,7 +1215,7 @@ window.CHANNELS = [
   "videos": 15,
   "views": 22760,
   "subs": 92,
-  "week": 5,
+  "week": 4,
   "added": 43,
   "scheduled": [
    "29 Sep 18:10, Short 29 Sep 12:10",
@@ -1322,7 +1322,7 @@ window.CHANNELS = [
   "videos": 17,
   "views": 1655,
   "subs": 1,
-  "week": 5,
+  "week": 4,
   "added": 47,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -1382,7 +1382,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 675,
   "subs": 3,
-  "week": 3,
+  "week": 2,
   "added": 49,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -2598,7 +2598,7 @@ window.CHANNELS = [
   "videos": 43,
   "views": 6090,
   "subs": 13,
-  "week": 4,
+  "week": 3,
   "added": 89,
   "scheduled": [
    "29 Sep 17:00, Short 29 Sep 12:00",
@@ -2698,7 +2698,7 @@ window.CHANNELS = [
   "videos": 42,
   "views": 3928,
   "subs": 10,
-  "week": 3,
+  "week": 2,
   "added": 92,
   "scheduled": [
    "8 Nov 04:52",
@@ -2838,7 +2838,7 @@ window.CHANNELS = [
   "videos": 50,
   "views": 28285,
   "subs": 60,
-  "week": 6,
+  "week": 5,
   "added": 96,
   "scheduled": [
    "6 Nov 01:10, Short 6 Nov 01:13",
@@ -3167,7 +3167,7 @@ window.CHANNELS = [
   "videos": 23,
   "views": 2814,
   "subs": 11,
-  "week": 6,
+  "week": 5,
   "added": 106,
   "scheduled": [
    "29 Sep 17:40, Short 29 Sep 12:40",
@@ -4350,7 +4350,7 @@ window.CHANNELS = [
   "videos": 12,
   "views": 2379,
   "subs": 12,
-  "week": 3,
+  "week": 2,
   "added": 143,
   "scheduled": [
    "22 Oct 18:40",
@@ -4518,7 +4518,7 @@ window.CHANNELS = [
   "videos": 337,
   "views": 229119,
   "subs": 14400,
-  "week": 4,
+  "week": 3,
   "added": 149,
   "scheduled": [
    "16 Oct 17:45",
@@ -4614,7 +4614,7 @@ window.CHANNELS = [
   "videos": 4,
   "views": 146,
   "subs": 3,
-  "week": 1,
+  "week": 0,
   "added": 153,
   "scheduled": [
    "12 Oct 18:20",
@@ -4696,10 +4696,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldScopeNews-h9f",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_nbrwlophLjcFrG9bwBSSd70JVu6Nq0ijnyQA3vq7VNBUgDOOuLnjqxdsLnrZ6OWgNPhw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 33,
+  "videos": 35,
   "views": 35513,
   "subs": 40,
-  "week": 5,
+  "week": 7,
   "added": 157,
   "scheduled": [
    "10 Nov 12:00",
