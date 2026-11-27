@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-27T07:23:45.851Z";
+window.UPDATED = "2026-11-27T08:26:20.101Z";
 window.LOG_UPDATED = "2026-11-26 12:52 Accra";
 window.CHANNELS = [
  {
@@ -4712,7 +4712,8 @@ window.CHANNELS = [
    "19 Nov 12:00",
    "24 Nov 18:00",
    "25 Nov 18:00",
-   "26 Nov 10:00"
+   "26 Nov 10:00",
+   "27 Nov 12:00"
   ]
  },
  {
@@ -4737,7 +4738,8 @@ window.CHANNELS = [
    "19 Nov 12:00",
    "24 Nov 12:00",
    "25 Nov 10:00",
-   "26 Nov 08:29"
+   "26 Nov 08:29",
+   "27 Nov 10:00"
   ]
  },
  {
@@ -4785,7 +4787,8 @@ window.CHANNELS = [
    "19 Nov 09:36",
    "24 Nov 10:00",
    "25 Nov 18:00",
-   "26 Nov 10:00"
+   "26 Nov 10:00",
+   "27 Nov 10:00"
   ]
  },
  {
@@ -4819,10 +4822,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@WorldWatchDaily-x6d",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_lVWraBn0a1sEA_1KpW2SM4uJwy_8yOlTYSuYPSgISNHCLQwyyu6T_DJvcGl5Wq2SmwtA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 25,
+  "videos": 26,
   "views": 71,
   "subs": 1,
-  "week": 1,
+  "week": 2,
   "added": 162,
   "scheduled": [
    "9 Nov 12:00",
@@ -4833,7 +4836,8 @@ window.CHANNELS = [
    "23 Oct 10:00",
    "24 Oct 10:00",
    "19 Nov 09:32",
-   "24 Nov 10:00"
+   "24 Nov 10:00",
+   "27 Nov 07:30"
   ]
  },
  {
@@ -4854,7 +4858,8 @@ window.CHANNELS = [
    "22 Oct 14:35",
    "24 Nov 07:00",
    "25 Nov 10:00",
-   "26 Nov 08:29"
+   "26 Nov 08:29",
+   "27 Nov 12:00"
   ]
  },
  {
@@ -4878,7 +4883,8 @@ window.CHANNELS = [
    "15 Nov 10:00",
    "24 Nov 07:00",
    "25 Nov 12:00",
-   "26 Nov 12:00"
+   "26 Nov 12:00",
+   "27 Nov 18:00"
   ]
  },
  {
@@ -4887,10 +4893,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@NewsFrontGlobal-l1s",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_l3w5pHbAbv1UvTOPK0opzB0B7dPW0ZNUdarnydvhKgG4l6j3Av59TtPzgAeNOLj7pxDQ=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 15,
+  "videos": 16,
   "views": 72,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 165,
   "scheduled": [
    "9 Nov 18:00",
@@ -4899,6 +4905,7 @@ window.CHANNELS = [
    "15 Nov 12:00",
    "19 Nov 12:00",
    "24 Nov 18:00",
+   "27 Nov 07:30",
    "14 Nov 18:00"
   ]
  },
@@ -4948,10 +4955,10 @@ window.CHANNELS = [
   "name": "Kingdom News 24",
   "url": "https://www.youtube.com/@DailyWorldReport-f1e",
   "icon": "https://yt3.googleusercontent.com/kMLLQ-XEDG5qsDjvg8rA7uhGlDSGMlD_Eu8BgJ1pLAqIkQup_olKBgtLNes0QeQFsMGOaAT0cg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 9,
+  "videos": 10,
   "views": 109,
   "subs": 0,
-  "week": 2,
+  "week": 3,
   "added": 168,
   "scheduled": [
    "10 Nov 07:00",
@@ -4959,7 +4966,8 @@ window.CHANNELS = [
    "13 Nov 07:00",
    "14 Nov 07:00",
    "24 Nov 10:00",
-   "25 Nov 10:00"
+   "25 Nov 10:00",
+   "27 Nov 07:30"
   ]
  },
  {
@@ -4978,7 +4986,8 @@ window.CHANNELS = [
    "12 Nov 07:00",
    "14 Nov 12:00",
    "15 Nov 18:00",
-   "25 Nov 08:29"
+   "25 Nov 08:29",
+   "27 Nov 10:00"
   ]
  },
  {
@@ -5029,7 +5038,8 @@ window.CHANNELS = [
    "15 Nov 12:00",
    "19 Nov 18:00",
    "25 Nov 08:29",
-   "26 Nov 08:29"
+   "26 Nov 08:29",
+   "27 Nov 12:00"
   ]
  },
  {
@@ -5052,7 +5062,8 @@ window.CHANNELS = [
    "24 Oct 18:00",
    "24 Nov 07:00",
    "25 Nov 18:00",
-   "26 Nov 10:00"
+   "26 Nov 10:00",
+   "27 Nov 18:00"
   ]
  },
  {
@@ -5073,7 +5084,8 @@ window.CHANNELS = [
    "24 Oct 18:00",
    "15 Nov 10:00",
    "19 Nov 10:00",
-   "25 Nov 08:29"
+   "25 Nov 08:29",
+   "27 Nov 10:00"
   ]
  },
  {
@@ -5097,7 +5109,8 @@ window.CHANNELS = [
    "15 Nov 10:00",
    "19 Nov 10:00",
    "24 Nov 12:00",
-   "26 Nov 08:29"
+   "26 Nov 08:29",
+   "27 Nov 12:00"
   ]
  },
  {
@@ -5106,10 +5119,10 @@ window.CHANNELS = [
   "category": "Christian Gist channels",
   "url": "https://www.youtube.com/@GlobalBrief-l3w",
   "icon": "https://yt3.googleusercontent.com/ytc/AIdro_kou3dO5GhrvBQru7jrDY7-p0Ls3-FwpdfJn_A0CdgtFmBIy5ofV2XYbnym-k-Zi8t6WA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 16,
+  "videos": 17,
   "views": 62,
   "subs": 0,
-  "week": 1,
+  "week": 2,
   "added": 175,
   "scheduled": [
    "12 Nov 10:00",
@@ -5118,7 +5131,8 @@ window.CHANNELS = [
    "22 Oct 18:00",
    "24 Oct 12:00",
    "19 Nov 09:30",
-   "24 Nov 18:00"
+   "24 Nov 18:00",
+   "27 Nov 07:30"
   ]
  },
  {
@@ -5847,7 +5861,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 222
+  "added": 223
  },
  {
   "id": "UChAcCPVwHES8nJf7Kk2p57A",
@@ -5858,7 +5872,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 223
+  "added": 224
  },
  {
   "id": "UCP_E2esfxZ_uCOJxwz6xqsg",
@@ -5869,7 +5883,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 224
+  "added": 225
  },
  {
   "id": "UC9qpNVx6pPnlNk0EQl8RNDA",
@@ -5880,7 +5894,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 225
+  "added": 226
  },
  {
   "id": "UC_rBJ6m9a0mc0ywEqlQFXPw",
@@ -5891,7 +5905,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 226
+  "added": 227
  },
  {
   "id": "UCrhezfAlcOxXQ1o9dByozFQ",
@@ -5902,7 +5916,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 227
+  "added": 228
  },
  {
   "id": "UCQmX0l0R4gs9TabnW8BPkVQ",
@@ -5913,7 +5927,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 228
+  "added": 229
  },
  {
   "id": "UCrzkeuYTiuqGf754MYthliw",
@@ -5924,7 +5938,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 229
+  "added": 230
  },
  {
   "id": "UCKjeDhw37nVvnTFrwMv4u7Q",
@@ -5935,7 +5949,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 230
+  "added": 231
  },
  {
   "id": "UCa6xuwvhICLmZ0AxR6h42Vg",
@@ -5946,7 +5960,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 231
+  "added": 232
  },
  {
   "id": "UCBJac-E8rhX08ixu1Npo2bA",
@@ -5957,7 +5971,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 232
+  "added": 233
  },
  {
   "id": "UC1b7qThonWQ4zBG0NBOMAvQ",
@@ -5968,7 +5982,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 233
+  "added": 234
  },
  {
   "id": "UChm11PMgdz1rgAnQyH0VxDQ",
@@ -5979,7 +5993,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 234
+  "added": 235
  },
  {
   "id": "UC57e7FUbns-7hjp2SEPYu5g",
@@ -5990,7 +6004,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 235
+  "added": 236
  },
  {
   "id": "UCtbVSZqNvACoHNtGMZruWuQ",
@@ -6001,7 +6015,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 236
+  "added": 237
  },
  {
   "id": "UCacTX254VHJwq3RfFwGkMrg",
@@ -6013,7 +6027,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 237
+  "added": 238
  },
  {
   "id": "UCe5tcUnPx2GTaXffqFxLYjg",
@@ -6025,7 +6039,7 @@ window.CHANNELS = [
   "views": 2,
   "subs": 0,
   "week": 0,
-  "added": 238
+  "added": 239
  },
  {
   "id": "UCCpRiEzwMxxs78jiyETKp3A",
@@ -6037,7 +6051,7 @@ window.CHANNELS = [
   "views": 69,
   "subs": 0,
   "week": 0,
-  "added": 239
+  "added": 240
  },
  {
   "id": "UCnOJnMgfHlBYAZt-IXMOUsg",
@@ -6049,7 +6063,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 240
+  "added": 241
  },
  {
   "id": "UCUCPz4XJrwSf_Pu0H4wwQDA",
@@ -6060,7 +6074,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 241
+  "added": 242
  },
  {
   "id": "UCkKhRgGU0SMLUg5ugr_8K1A",
@@ -6071,7 +6085,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 242
+  "added": 243
  },
  {
   "id": "UCphWqNZ7BMta5d1J-48U2Eg",
@@ -6083,7 +6097,7 @@ window.CHANNELS = [
   "views": 1624,
   "subs": 2,
   "week": 0,
-  "added": 243
+  "added": 244
  },
  {
   "id": "UCfqT5ySpWEoO3U7DIyPifZg",
@@ -6094,7 +6108,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 244
+  "added": 245
  },
  {
   "id": "UCl4_8BjtcsejVRIU0EX1PDQ",
@@ -6106,7 +6120,7 @@ window.CHANNELS = [
   "views": 163,
   "subs": 2,
   "week": 30,
-  "added": 245
+  "added": 246
  },
  {
   "id": "UC8QBY6nBohgZXwfylk8G5lQ",
@@ -6117,7 +6131,7 @@ window.CHANNELS = [
   "views": 0,
   "subs": 0,
   "week": 0,
-  "added": 246
+  "added": 247
  },
  {
   "id": "UCD5aPN9phbY_RUk21Sk1dSA",
@@ -6128,7 +6142,7 @@ window.CHANNELS = [
   "views": 42449,
   "subs": 1700,
   "week": 1,
-  "added": 247
+  "added": 248
  },
  {
   "id": "UCG04MGVqWh1fdGTrCxRQYoA",
@@ -6139,7 +6153,7 @@ window.CHANNELS = [
   "views": 15621,
   "subs": 1330,
   "week": 0,
-  "added": 249
+  "added": 250
  },
  {
   "id": "UCFGyvU-4dEcgj-sHucJC3iQ",
@@ -6150,7 +6164,7 @@ window.CHANNELS = [
   "views": 4786,
   "subs": 1110,
   "week": 0,
-  "added": 250
+  "added": 251
  },
  {
   "id": "UCqCPZBYsAPQmy3OpjXbpPew",
@@ -6161,7 +6175,7 @@ window.CHANNELS = [
   "views": 33104,
   "subs": 9590,
   "week": 0,
-  "added": 251
+  "added": 252
  },
  {
   "id": "UCtWPGWebBFM3kwz5C9319Bg",
@@ -6173,7 +6187,7 @@ window.CHANNELS = [
   "views": 1660,
   "subs": 33,
   "week": 0,
-  "added": 252
+  "added": 253
  },
  {
   "id": "UCDuBqDQ3LXblWciwvWeDt4Q",
@@ -6184,7 +6198,7 @@ window.CHANNELS = [
   "views": 1828,
   "subs": 41,
   "week": 0,
-  "added": 253
+  "added": 254
  },
  {
   "id": "UCKdSWu35fDrLuKZq8PE0ETw",
@@ -6195,6 +6209,6 @@ window.CHANNELS = [
   "views": 0,
   "subs": 1,
   "week": 0,
-  "added": 254
+  "added": 255
  }
 ];
