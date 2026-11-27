@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T08:26:20.213Z",
- "data_updated": "2026-11-27T08:26:20.101Z",
+ "generated": "2026-11-27T09:30:13.284Z",
+ "data_updated": "2026-11-27T09:30:13.173Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542844,
-  "views": 20593608,
-  "videos": 12070,
-  "videos_this_week": 644,
-  "videos_scheduled": 11
+  "views": 20593615,
+  "videos": 12072,
+  "videos_this_week": 645,
+  "videos_scheduled": 10
  },
  "channels": [
   {
@@ -224,7 +224,7 @@
    "name": "Dag Heward-Mills Tuesday Services",
    "url": "https://rumble.com/c/daghewardmillstuesdayservices",
    "subscribers": 253,
-   "views": 3331,
+   "views": 3333,
    "videos": 125,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -248,7 +248,7 @@
    "name": "Dag Heward-Mills Wisdom Impartation Services",
    "url": "https://rumble.com/c/c-6257904",
    "subscribers": 253,
-   "views": 2509,
+   "views": 2510,
    "videos": 29,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11520,
+   "views": 11524,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -561,9 +561,9 @@
    "url": "https://www.youtube.com/@LoveGodsWay-x8i",
    "subscribers": 88,
    "views": 39004,
-   "videos": 22,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 23,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 163,
-   "videos": 67,
+   "videos": 68,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""
