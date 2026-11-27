@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T19:08:58.512Z",
- "data_updated": "2026-11-27T19:08:58.402Z",
+ "generated": "2026-11-27T19:42:11.834Z",
+ "data_updated": "2026-11-27T19:42:11.727Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542988,
-  "views": 20611204,
+  "views": 20611205,
   "videos": 12092,
-  "videos_this_week": 546,
+  "videos_this_week": 540,
   "videos_scheduled": 0
  },
  "channels": [
@@ -152,7 +152,7 @@
    "name": "Dag Heward-Mills Flow Prayer Meetings",
    "url": "https://odysee.com/@FlowChurchServices",
    "subscribers": 80,
-   "views": 1925,
+   "views": 1926,
    "videos": 198,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -682,7 +682,7 @@
    "subscribers": 2,
    "views": 838,
    "videos": 18,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -802,7 +802,7 @@
    "subscribers": 10,
    "views": 2569,
    "videos": 20,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1618,7 +1618,7 @@
    "subscribers": 11,
    "views": 2814,
    "videos": 23,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2050,7 +2050,7 @@
    "subscribers": 7,
    "views": 797,
    "videos": 10,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2806,7 +2806,7 @@
    "subscribers": 0,
    "views": 9,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2818,7 +2818,7 @@
    "subscribers": 0,
    "views": 33,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
