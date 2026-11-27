@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T18:35:40.759Z",
- "data_updated": "2026-11-27T18:35:40.641Z",
+ "generated": "2026-11-27T19:08:58.512Z",
+ "data_updated": "2026-11-27T19:08:58.402Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 542988,
   "views": 20611204,
-  "videos": 12091,
-  "videos_this_week": 555,
+  "videos": 12092,
+  "videos_this_week": 546,
   "videos_scheduled": 0
  },
  "channels": [
@@ -766,7 +766,7 @@
    "subscribers": 2,
    "views": 418,
    "videos": 13,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1294,7 +1294,7 @@
    "subscribers": 38,
    "views": 9925,
    "videos": 51,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1413,8 +1413,8 @@
    "url": "https://www.youtube.com/@OverflowingCup-o4e",
    "subscribers": 13,
    "views": 6090,
-   "videos": 43,
-   "videos_this_week": 3,
+   "videos": 44,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1534,7 +1534,7 @@
    "subscribers": 3,
    "views": 1561,
    "videos": 16,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1582,7 +1582,7 @@
    "subscribers": 5,
    "views": 1861,
    "videos": 15,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1774,7 +1774,7 @@
    "subscribers": 7,
    "views": 870,
    "videos": 11,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2674,7 +2674,7 @@
    "subscribers": 0,
    "views": 18,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2686,7 +2686,7 @@
    "subscribers": 0,
    "views": 34,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2770,7 +2770,7 @@
    "subscribers": 0,
    "views": 64,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2782,7 +2782,7 @@
    "subscribers": 0,
    "views": 1,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2794,7 +2794,7 @@
    "subscribers": 0,
    "views": 28,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },

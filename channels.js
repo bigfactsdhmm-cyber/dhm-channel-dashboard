@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-27T18:35:40.641Z";
+window.UPDATED = "2026-11-27T19:08:58.402Z";
 window.LOG_UPDATED = "2026-11-26 12:52 Accra";
 window.CHANNELS = [
  {
@@ -994,7 +994,7 @@ window.CHANNELS = [
   "videos": 13,
   "views": 418,
   "subs": 2,
-  "week": 3,
+  "week": 2,
   "added": 35,
   "scheduled": [
    "29 Sep 17:05, Short 29 Sep 12:05",
@@ -2299,7 +2299,7 @@ window.CHANNELS = [
   "videos": 51,
   "views": 9925,
   "subs": 38,
-  "week": 4,
+  "week": 3,
   "added": 79,
   "scheduled": [
    "29 Sep 17:50, Short 29 Sep 12:50",
@@ -2595,10 +2595,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@OverflowingCup-o4e",
   "icon": "https://yt3.googleusercontent.com/BCQDgcZeHnvpiLXb3j5V13S8eFSOZC57lJbD6YiT1vdpoO1fgn6ln4Ee3Z1zhD3zrB1Km6TxBA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 43,
+  "videos": 44,
   "views": 6090,
   "subs": 13,
-  "week": 3,
+  "week": 4,
   "added": 89,
   "scheduled": [
    "29 Sep 17:00, Short 29 Sep 12:00",
@@ -2952,7 +2952,7 @@ window.CHANNELS = [
   "videos": 16,
   "views": 1561,
   "subs": 3,
-  "week": 3,
+  "week": 2,
   "added": 99,
   "scheduled": [
    "29 Sep 17:55, Short 29 Sep 12:55",
@@ -3086,7 +3086,7 @@ window.CHANNELS = [
   "videos": 15,
   "views": 1861,
   "subs": 5,
-  "week": 3,
+  "week": 2,
   "added": 103,
   "scheduled": [
    "29 Sep 17:45, Short 29 Sep 12:45",
@@ -3610,7 +3610,7 @@ window.CHANNELS = [
   "videos": 11,
   "views": 870,
   "subs": 7,
-  "week": 3,
+  "week": 2,
   "added": 119,
   "scheduled": [
    "29 Sep 18:30, Short 29 Sep 12:30",
@@ -5444,7 +5444,7 @@ window.CHANNELS = [
   "videos": 1,
   "views": 18,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 195,
   "scheduled": [
    "Short 20 Nov 18:40"
@@ -5459,7 +5459,7 @@ window.CHANNELS = [
   "videos": 1,
   "views": 34,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 196,
   "scheduled": [
    "Short 20 Nov 18:50"
@@ -5566,7 +5566,7 @@ window.CHANNELS = [
   "videos": 1,
   "views": 64,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 203,
   "scheduled": [
    "Short 20 Nov 18:36"
@@ -5581,7 +5581,7 @@ window.CHANNELS = [
   "videos": 1,
   "views": 1,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 204,
   "scheduled": [
    "Short 20 Nov 18:46"
@@ -5596,7 +5596,7 @@ window.CHANNELS = [
   "videos": 1,
   "views": 28,
   "subs": 0,
-  "week": 1,
+  "week": 0,
   "added": 205,
   "scheduled": [
    "Short 20 Nov 18:57"

@@ -1,22 +1,22 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-27T18:35:40.759Z   Numbers refreshed: 2026-11-27T18:35:40.641Z   Upload log: 2026-11-26 12:52 Accra
+Generated: 2026-11-27T19:08:58.512Z   Numbers refreshed: 2026-11-27T19:08:58.402Z   Upload log: 2026-11-26 12:52 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 542,988
   Views: 20,611,204
-  Videos on YouTube: 12,091
-  Videos posted in the last 7 days: 555
+  Videos on YouTube: 12,092
+  Videos posted in the last 7 days: 546
   Videos scheduled (go-live time still ahead): 0
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,620 subscribers, 18,856,695 views, 15 videos this week
   Alternative Platforms: 19 channels, 2,302 subscribers, 88,516 views, 0 videos this week
-  Fan channels: 145 channels, 48,812 subscribers, 1,523,279 views, 331 videos this week
+  Fan channels: 145 channels, 48,812 subscribers, 1,523,279 views, 326 videos this week
   Men of God channels: 12 channels, 137 subscribers, 40,084 views, 31 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,301 views, 22 videos this week
-  Camps channels: 40 channels, 28 subscribers, 4,769 views, 22 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,301 views, 23 videos this week
+  Camps channels: 40 channels, 28 subscribers, 4,769 views, 17 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 251 views, 50 videos this week
   Christian Gist channels: 12 channels, 50 subscribers, 37,059 views, 36 videos this week
   People channels: 14 channels, 10 subscribers, 5,250 views, 48 videos this week
