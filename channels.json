@@ -1,16 +1,16 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T16:54:54.401Z",
- "data_updated": "2026-11-27T16:54:54.284Z",
+ "generated": "2026-11-27T17:28:06.622Z",
+ "data_updated": "2026-11-27T17:28:06.498Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 542988,
-  "views": 20611202,
-  "videos": 12081,
-  "videos_this_week": 575,
+  "views": 20611203,
+  "videos": 12085,
+  "videos_this_week": 569,
   "videos_scheduled": 2
  },
  "channels": [
@@ -152,7 +152,7 @@
    "name": "Dag Heward-Mills Flow Prayer Meetings",
    "url": "https://odysee.com/@FlowChurchServices",
    "subscribers": 80,
-   "views": 1923,
+   "views": 1924,
    "videos": 198,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -382,7 +382,7 @@
    "subscribers": 31,
    "views": 7975,
    "videos": 48,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -490,7 +490,7 @@
    "subscribers": 6,
    "views": 902,
    "videos": 16,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -778,7 +778,7 @@
    "subscribers": 29,
    "views": 1945,
    "videos": 19,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -850,7 +850,7 @@
    "subscribers": 4,
    "views": 708,
    "videos": 10,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1042,7 +1042,7 @@
    "subscribers": 30,
    "views": 9472,
    "videos": 43,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1630,7 +1630,7 @@
    "subscribers": 16,
    "views": 6689,
    "videos": 49,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1762,7 +1762,7 @@
    "subscribers": 91,
    "views": 22611,
    "videos": 20,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1798,7 +1798,7 @@
    "subscribers": 38,
    "views": 6639,
    "videos": 48,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1810,7 +1810,7 @@
    "subscribers": 3,
    "views": 757,
    "videos": 26,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2158,7 +2158,7 @@
    "subscribers": 14,
    "views": 295,
    "videos": 12,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2229,8 +2229,8 @@
    "url": "https://www.youtube.com/@WorldScopeNews-h9f",
    "subscribers": 40,
    "views": 35513,
-   "videos": 35,
-   "videos_this_week": 7,
+   "videos": 36,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3249,8 +3249,8 @@
    "url": "https://www.youtube.com/@GlobalReportNetwork-f4j",
    "subscribers": 2,
    "views": 1624,
-   "videos": 4,
-   "videos_this_week": 1,
+   "videos": 7,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
