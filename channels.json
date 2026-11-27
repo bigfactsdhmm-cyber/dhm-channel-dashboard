@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T11:51:42.290Z",
- "data_updated": "2026-11-27T11:51:42.135Z",
+ "generated": "2026-11-27T12:25:14.176Z",
+ "data_updated": "2026-11-27T12:25:14.039Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
-  "subscribers": 542945,
-  "views": 20608775,
-  "videos": 12071,
-  "videos_this_week": 633,
-  "videos_scheduled": 6
+  "subscribers": 542983,
+  "views": 20608976,
+  "videos": 12075,
+  "videos_this_week": 636,
+  "videos_scheduled": 2
  },
  "channels": [
   {
@@ -127,8 +127,8 @@
    "platform": "Odysee",
    "name": "Dag Heward-Mills - Revival at 7 ",
    "url": "https://odysee.com/@daghewardmillsrevivalat7",
-   "subscribers": "",
-   "views": "",
+   "subscribers": 38,
+   "views": 200,
    "videos": 65,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -154,7 +154,7 @@
    "subscribers": 80,
    "views": 1923,
    "videos": 198,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11524,
+   "views": 11525,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -2229,9 +2229,9 @@
    "url": "https://www.youtube.com/@WorldScopeNews-h9f",
    "subscribers": 40,
    "views": 35507,
-   "videos": 31,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 32,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2301,9 +2301,9 @@
    "url": "https://www.youtube.com/@BreakingWorldNews-o8x",
    "subscribers": 3,
    "views": 148,
-   "videos": 16,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 17,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2397,9 +2397,9 @@
    "url": "https://www.youtube.com/@WorldPointNews-b6p",
    "subscribers": 2,
    "views": 490,
-   "videos": 27,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 28,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2433,9 +2433,9 @@
    "url": "https://www.youtube.com/@NewsHubGlobal-e9w",
    "subscribers": 1,
    "views": 326,
-   "videos": 25,
-   "videos_this_week": 2,
-   "scheduled": 1,
+   "videos": 26,
+   "videos_this_week": 3,
+   "scheduled": 0,
    "ministers": ""
   },
   {
