@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T18:01:48.935Z",
- "data_updated": "2026-11-27T18:01:48.816Z",
+ "generated": "2026-11-27T18:35:40.759Z",
+ "data_updated": "2026-11-27T18:35:40.641Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 542988,
   "views": 20611204,
-  "videos": 12086,
-  "videos_this_week": 563,
+  "videos": 12091,
+  "videos_this_week": 555,
   "videos_scheduled": 0
  },
  "channels": [
@@ -21,7 +21,7 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16219822,
-   "videos": 2201,
+   "videos": 2202,
    "videos_this_week": 15,
    "scheduled": 0,
    "ministers": ""
@@ -454,7 +454,7 @@
    "subscribers": 9,
    "views": 3403,
    "videos": 23,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 0,
    "ministers": ""
   },
@@ -826,7 +826,7 @@
    "subscribers": 23,
    "views": 7365,
    "videos": 53,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1006,7 +1006,7 @@
    "subscribers": 14,
    "views": 2585,
    "videos": 37,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1114,7 +1114,7 @@
    "subscribers": 10,
    "views": 5037,
    "videos": 43,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1234,7 +1234,7 @@
    "subscribers": 6,
    "views": 3872,
    "videos": 54,
-   "videos_this_week": 8,
+   "videos_this_week": 7,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1558,7 +1558,7 @@
    "subscribers": 11,
    "views": 4894,
    "videos": 46,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1726,7 +1726,7 @@
    "subscribers": 45,
    "views": 6947,
    "videos": 44,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1930,7 +1930,7 @@
    "subscribers": 8,
    "views": 3861,
    "videos": 39,
-   "videos_this_week": 5,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2038,7 +2038,7 @@
    "subscribers": 14,
    "views": 4823,
    "videos": 43,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2229,8 +2229,8 @@
    "url": "https://www.youtube.com/@WorldScopeNews-h9f",
    "subscribers": 40,
    "views": 35513,
-   "videos": 36,
-   "videos_this_week": 8,
+   "videos": 37,
+   "videos_this_week": 9,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2313,8 +2313,8 @@
    "url": "https://www.youtube.com/@WorldLineNews-q3u",
    "subscribers": 1,
    "views": 672,
-   "videos": 27,
-   "videos_this_week": 3,
+   "videos": 28,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2409,8 +2409,8 @@
    "url": "https://www.youtube.com/@TheGlobalDesk-z1z",
    "subscribers": 2,
    "views": 201,
-   "videos": 17,
-   "videos_this_week": 3,
+   "videos": 18,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2734,7 +2734,7 @@
    "subscribers": 0,
    "views": 59,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2746,7 +2746,7 @@
    "subscribers": 0,
    "views": 51,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2758,7 +2758,7 @@
    "subscribers": 0,
    "views": 17,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2997,8 +2997,8 @@
    "url": "https://www.youtube.com/@GlobalReportNetwork-f4j",
    "subscribers": 2,
    "views": 1624,
-   "videos": 7,
-   "videos_this_week": 4,
+   "videos": 8,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
