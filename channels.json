@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-27T09:30:13.284Z",
- "data_updated": "2026-11-27T09:30:13.173Z",
+ "generated": "2026-11-27T10:03:47.034Z",
+ "data_updated": "2026-11-27T10:03:46.927Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 542844,
   "views": 20593615,
-  "videos": 12072,
-  "videos_this_week": 645,
-  "videos_scheduled": 10
+  "videos": 12078,
+  "videos_this_week": 648,
+  "videos_scheduled": 6
  },
  "channels": [
   {
@@ -2241,9 +2241,9 @@
    "url": "https://www.youtube.com/@WorldViewToday-j5q",
    "subscribers": 0,
    "views": 458,
-   "videos": 25,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 26,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2265,9 +2265,9 @@
    "url": "https://www.youtube.com/@GlobalFocus24-j1n",
    "subscribers": 1,
    "views": 1966,
-   "videos": 26,
-   "videos_this_week": 3,
-   "scheduled": 1,
+   "videos": 27,
+   "videos_this_week": 4,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2373,9 +2373,9 @@
    "url": "https://www.youtube.com/@WorldNewsNow-h4o",
    "subscribers": 0,
    "views": 59,
-   "videos": 6,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 7,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2421,9 +2421,9 @@
    "url": "https://www.youtube.com/@NewsCentral24-g5b",
    "subscribers": 0,
    "views": 66,
-   "videos": 15,
-   "videos_this_week": 1,
-   "scheduled": 1,
+   "videos": 16,
+   "videos_this_week": 2,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -2554,7 +2554,7 @@
    "subscribers": 0,
    "views": 30,
    "videos": 1,
-   "videos_this_week": 1,
+   "videos_this_week": 0,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 163,
-   "videos": 68,
+   "videos": 70,
    "videos_this_week": 30,
    "scheduled": 0,
    "ministers": ""
