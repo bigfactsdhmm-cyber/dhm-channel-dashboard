@@ -1,17 +1,17 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-28T11:17:48.894Z",
- "data_updated": "2026-11-28T11:17:48.763Z",
+ "generated": "2026-11-28T11:53:36.071Z",
+ "data_updated": "2026-11-28T11:53:35.932Z",
  "upload_log_updated": "2026-11-28 09:47 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
   "channels": 279,
   "youtube_channels": 260,
   "subscribers": 543020,
-  "views": 20637391,
-  "videos": 12167,
-  "videos_this_week": 573,
-  "videos_scheduled": 79
+  "views": 20637392,
+  "videos": 12170,
+  "videos_this_week": 572,
+  "videos_scheduled": 77
  },
  "channels": [
   {
@@ -284,7 +284,7 @@
    "name": "Dag Heward-Mills Iron Sharpeneth Iron",
    "url": "https://www.bitchute.com/channel/4MgIaXadefNI/",
    "subscribers": 5,
-   "views": 11531,
+   "views": 11532,
    "videos": 142,
    "videos_this_week": 0,
    "scheduled": 0,
@@ -1209,9 +1209,9 @@
    "url": "https://www.youtube.com/@HappyMarriage-n7j",
    "subscribers": 8,
    "views": 986,
-   "videos": 12,
-   "videos_this_week": 4,
-   "scheduled": 1,
+   "videos": 13,
+   "videos_this_week": 5,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1426,7 +1426,7 @@
    "subscribers": 16,
    "views": 3312,
    "videos": 38,
-   "videos_this_week": 2,
+   "videos_this_week": 1,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1894,7 +1894,7 @@
    "subscribers": 9,
    "views": 1602,
    "videos": 14,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": "Kingsley Okonkwo (marriage, relationships, singleness)"
   },
@@ -2205,9 +2205,9 @@
    "url": "https://www.youtube.com/@CharisTV_",
    "subscribers": 10,
    "views": 340,
-   "videos": 15,
+   "videos": 16,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 175,
-   "videos": 78,
+   "videos": 79,
    "videos_this_week": 27,
    "scheduled": 0,
    "ministers": ""
