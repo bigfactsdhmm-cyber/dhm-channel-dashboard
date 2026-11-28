@@ -1,21 +1,21 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-28T11:53:36.071Z   Numbers refreshed: 2026-11-28T11:53:35.932Z   Upload log: 2026-11-28 09:47 Accra
+Generated: 2026-11-28T12:27:45.580Z   Numbers refreshed: 2026-11-28T12:27:45.447Z   Upload log: 2026-11-28 09:47 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 543,020
   Views: 20,637,392
-  Videos on YouTube: 12,170
-  Videos posted in the last 7 days: 572
-  Videos scheduled (go-live time still ahead): 77
+  Videos on YouTube: 12,174
+  Videos posted in the last 7 days: 573
+  Videos scheduled (go-live time still ahead): 73
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,630 subscribers, 18,877,356 views, 15 videos this week
   Alternative Platforms: 19 channels, 2,303 subscribers, 88,529 views, 0 videos this week
   Fan channels: 145 channels, 48,830 subscribers, 1,527,980 views, 346 videos this week
   Men of God channels: 12 channels, 139 subscribers, 40,605 views, 30 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,484 views, 27 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,484 views, 28 videos this week
   Camps channels: 40 channels, 28 subscribers, 4,787 views, 12 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 267 views, 46 videos this week
   Christian Gist channels: 12 channels, 51 subscribers, 37,127 views, 43 videos this week
@@ -54,8 +54,8 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   6. God & Me (Fan channels): 8
   7. Kingdom Spotlight (Fan channels): 7
   8. Letters to the Church (Fan channels): 7
-  9. Rock of Ages TV (Fan channels): 7
-  10. Fatima Bello (People channels): 7
+  9. Fatima Bello (People channels): 7
+  10. Daily Bread Word (Fan channels): 6
 
 MEN OF GOD CHANNELS
   Next Wave TV: Arome Osayi + Nathaniel Bassey (encounter, worship, the deeper life)

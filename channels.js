@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-28T11:53:35.932Z";
+window.UPDATED = "2026-11-28T12:27:45.447Z";
 window.LOG_UPDATED = "2026-11-28 09:47 Accra";
 window.CHANNELS = [
  {
@@ -180,7 +180,7 @@ window.CHANNELS = [
   "name": "Fresh Impact TV",
   "url": "https://www.youtube.com/@GlobalSpotlight-r7j",
   "icon": "https://yt3.googleusercontent.com/8x-U20OQkYBT4mkrkcf-7WXDOEtFeV0rrXLqpxiylnga5g1a8OcQR83Xcye2g_MJi4r5djzIaA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 23,
+  "videos": 24,
   "views": 2860,
   "subs": 8,
   "week": 5,
@@ -1725,7 +1725,7 @@ window.CHANNELS = [
   "name": "Eagles Rising",
   "url": "https://www.youtube.com/@EaglesRising-c6g",
   "icon": "https://yt3.googleusercontent.com/i-4_o7emXZ0iCThXJLxkz-eADmO6pabY9-DJpGIgitERLdh6r9xy53Vw7uD34UsrfmQ736HN6uU=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 48,
+  "videos": 49,
   "views": 48132,
   "subs": 74,
   "week": 3,
@@ -2829,7 +2829,7 @@ window.CHANNELS = [
   "videos": 49,
   "views": 15322,
   "subs": 55,
-  "week": 7,
+  "week": 6,
   "added": 95,
   "scheduled": [
    "28 Sep 17:45, Short 28 Sep 12:45",
@@ -3043,10 +3043,10 @@ window.CHANNELS = [
   "category": "FLOW Prayer Meeting channels",
   "url": "https://www.youtube.com/@SpiritLedLiving-p5q",
   "icon": "https://yt3.googleusercontent.com/WabIssQWgTqm7mAn0bOIKKZZHvABDfhI8oyC6FNhO3sgfAqry3nu_vVg7sf9faZTqMiG7xl9xA=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 47,
+  "videos": 48,
   "views": 4901,
   "subs": 11,
-  "week": 5,
+  "week": 6,
   "added": 101,
   "scheduled": [
    "30 Sep 17:10, Short 30 Sep 12:10",
@@ -4912,10 +4912,10 @@ window.CHANNELS = [
   "name": "Gospel Pulse News",
   "url": "https://www.youtube.com/@WorldLineNews-q3u",
   "icon": "https://yt3.googleusercontent.com/ttlQiAtiHI9LfFu6fSpXJmMAk44WMJUlug_lkRWGzu8FDkqX_6XwJ6wNinGCqzC1-pKUbL-d3Q=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 28,
+  "videos": 29,
   "views": 673,
   "subs": 1,
-  "week": 4,
+  "week": 5,
   "added": 164,
   "scheduled": [
    "9 Nov 18:00",
