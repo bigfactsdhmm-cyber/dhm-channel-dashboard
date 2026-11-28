@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-28T04:22:46.686Z",
- "data_updated": "2026-11-28T04:22:46.578Z",
+ "generated": "2026-11-28T04:58:23.797Z",
+ "data_updated": "2026-11-28T04:58:23.674Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 543020,
   "views": 20628708,
-  "videos": 12095,
-  "videos_this_week": 535,
+  "videos": 12097,
+  "videos_this_week": 537,
   "videos_scheduled": 0
  },
  "channels": [
@@ -345,8 +345,8 @@
    "url": "https://www.youtube.com/@DailyBreadWord-c4s",
    "subscribers": 32,
    "views": 8189,
-   "videos": 49,
-   "videos_this_week": 4,
+   "videos": 50,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1209,8 +1209,8 @@
    "url": "https://www.youtube.com/@HappyMarriage-n7j",
    "subscribers": 8,
    "views": 985,
-   "videos": 11,
-   "videos_this_week": 3,
+   "videos": 12,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
