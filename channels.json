@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-28T12:27:45.580Z",
- "data_updated": "2026-11-28T12:27:45.447Z",
+ "generated": "2026-11-28T13:01:41.748Z",
+ "data_updated": "2026-11-28T13:01:41.616Z",
  "upload_log_updated": "2026-11-28 09:47 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 543020,
   "views": 20637392,
-  "videos": 12174,
+  "videos": 12178,
   "videos_this_week": 573,
-  "videos_scheduled": 73
+  "videos_scheduled": 69
  },
  "channels": [
   {
@@ -21,7 +21,7 @@
    "url": "https://www.youtube.com/channel/UCmpJUHS40NNiHGCV_K7ya-A",
    "subscribers": 389000,
    "views": 16238418,
-   "videos": 2202,
+   "videos": 2203,
    "videos_this_week": 15,
    "scheduled": 0,
    "ministers": ""
@@ -681,9 +681,9 @@
    "url": "https://www.youtube.com/@StillSpeaking-u5h",
    "subscribers": 2,
    "views": 838,
-   "videos": 19,
+   "videos": 20,
    "videos_this_week": 4,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -971,7 +971,7 @@
    "views": 42138,
    "videos": 15,
    "videos_this_week": 1,
-   "scheduled": 1,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1305,9 +1305,9 @@
    "url": "https://www.youtube.com/@KingdomNotes-u8w",
    "subscribers": 7,
    "views": 1044,
-   "videos": 29,
-   "videos_this_week": 6,
-   "scheduled": 1,
+   "videos": 30,
+   "videos_this_week": 7,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -1317,9 +1317,9 @@
    "url": "https://www.youtube.com/@LetterstotheChurch-o3l",
    "subscribers": 0,
    "views": 974,
-   "videos": 17,
+   "videos": 18,
    "videos_this_week": 7,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1510,7 +1510,7 @@
    "subscribers": 14,
    "views": 3382,
    "videos": 43,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
