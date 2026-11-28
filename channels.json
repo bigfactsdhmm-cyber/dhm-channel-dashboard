@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-28T02:28:49.194Z",
- "data_updated": "2026-11-28T02:28:49.087Z",
+ "generated": "2026-11-28T02:54:00.643Z",
+ "data_updated": "2026-11-28T02:54:00.524Z",
  "upload_log_updated": "2026-11-26 12:52 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,8 +9,8 @@
   "youtube_channels": 260,
   "subscribers": 543010,
   "views": 20628284,
-  "videos": 12093,
-  "videos_this_week": 532,
+  "videos": 12095,
+  "videos_this_week": 534,
   "videos_scheduled": 0
  },
  "channels": [
@@ -441,8 +441,8 @@
    "url": "https://www.youtube.com/@GloriousImpartation",
    "subscribers": 7740,
    "views": 126743,
-   "videos": 74,
-   "videos_this_week": 2,
+   "videos": 75,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1233,8 +1233,8 @@
    "url": "https://www.youtube.com/@HiddenManna-j4h",
    "subscribers": 6,
    "views": 3874,
-   "videos": 54,
-   "videos_this_week": 7,
+   "videos": 55,
+   "videos_this_week": 8,
    "scheduled": 0,
    "ministers": ""
   },

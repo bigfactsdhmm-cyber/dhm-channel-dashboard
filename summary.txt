@@ -1,21 +1,21 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-28T02:28:49.194Z   Numbers refreshed: 2026-11-28T02:28:49.087Z   Upload log: 2026-11-26 12:52 Accra
+Generated: 2026-11-28T02:54:00.643Z   Numbers refreshed: 2026-11-28T02:54:00.524Z   Upload log: 2026-11-26 12:52 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 543,010
   Views: 20,628,284
-  Videos on YouTube: 12,093
-  Videos posted in the last 7 days: 532
+  Videos on YouTube: 12,095
+  Videos posted in the last 7 days: 534
   Videos scheduled (go-live time still ahead): 0
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,620 subscribers, 18,869,703 views, 16 videos this week
   Alternative Platforms: 19 channels, 2,303 subscribers, 88,525 views, 0 videos this week
-  Fan channels: 145 channels, 48,830 subscribers, 1,526,741 views, 317 videos this week
+  Fan channels: 145 channels, 48,830 subscribers, 1,526,741 views, 318 videos this week
   Men of God channels: 12 channels, 139 subscribers, 40,490 views, 31 videos this week
-  FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,427 views, 23 videos this week
+  FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,427 views, 24 videos this week
   Camps channels: 40 channels, 28 subscribers, 4,781 views, 11 videos this week
   Lovely Diamond channels: 3 channels, 4 subscribers, 260 views, 50 videos this week
   Christian Gist channels: 12 channels, 51 subscribers, 37,102 views, 36 videos this week
@@ -50,7 +50,7 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   2. Lovely Diamond Camps (Lovely Diamond channels): 20
   3. Dag Heward-Mills (Official YouTube channels): 16
   4. WorldScope News (Christian Gist channels): 9
-  5. Hidden Manna (FLOW Prayer Meeting channels): 7
+  5. Hidden Manna (FLOW Prayer Meeting channels): 8
   6. God & Me (Fan channels): 6
   7. Kingdom Minded (Fan channels): 6
   8. Kingdom Spotlight (Fan channels): 6
