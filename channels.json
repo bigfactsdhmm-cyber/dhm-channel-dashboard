@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-28T10:43:05.905Z",
- "data_updated": "2026-11-28T10:43:05.767Z",
+ "generated": "2026-11-28T11:17:48.894Z",
+ "data_updated": "2026-11-28T11:17:48.763Z",
  "upload_log_updated": "2026-11-28 09:47 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 543020,
   "views": 20637391,
-  "videos": 12164,
-  "videos_this_week": 574,
-  "videos_scheduled": 82
+  "videos": 12167,
+  "videos_this_week": 573,
+  "videos_scheduled": 79
  },
  "channels": [
   {
@@ -345,9 +345,9 @@
    "url": "https://www.youtube.com/@DailyBreadWord-c4s",
    "subscribers": 32,
    "views": 8208,
-   "videos": 50,
-   "videos_this_week": 5,
-   "scheduled": 1,
+   "videos": 51,
+   "videos_this_week": 6,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -898,7 +898,7 @@
    "subscribers": 28,
    "views": 8667,
    "videos": 22,
-   "videos_this_week": 3,
+   "videos_this_week": 2,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1306,7 +1306,7 @@
    "subscribers": 7,
    "views": 1044,
    "videos": 29,
-   "videos_this_week": 7,
+   "videos_this_week": 6,
    "scheduled": 1,
    "ministers": ""
   },
@@ -1737,9 +1737,9 @@
    "url": "https://www.youtube.com/@ThePilgrimRadio",
    "subscribers": 2,
    "views": 1451,
-   "videos": 20,
+   "videos": 21,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2865,9 +2865,9 @@
    "url": "https://www.youtube.com/@ChineduOkafor-o3h",
    "subscribers": 1,
    "views": 258,
-   "videos": 4,
+   "videos": 5,
    "videos_this_week": 5,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {

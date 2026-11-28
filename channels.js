@@ -4,7 +4,7 @@ window.OFFICIAL = [{"id":"UCmpJUHS40NNiHGCV_K7ya-A","name":"Dag Heward-Mills","u
 window.PENDING = [];
 window.CATEGORIES = ["Christian Gist channels","FLOW Prayer Meeting channels","Association channels","Camps channels","People channels","Other Languages","Men of God channels","Lovely Diamond channels"];
 window.HELD = [{"name":"POPE LEO XIV: JUSTICE NEVER SEPARATE FROM TRUTH AS NIGERIA CHURCH HOLDS REVIVAL","why":{"on hold":1}},{"name":"Christians Rendered Homeless in India's Chhattisgarh Tribal Belt","why":{"on hold":1}},{"name":"\"CHRISTIAN PERSECUTION WORSENED IN 55 PERCENT OF COUNTRIES","why":{"on hold":1}},{"name":"BELGIAN INQUIRY PUTS GHANA-ROOTED GO CHURCH UNDER SCRUTINY","why":{"on hold":1}},{"name":"GHANA MARKS ONE YEAR SINCE NANA KONADU RAWLINGS' PASSING","why":{"on hold":1}},{"name":"\"OHIO PASTOR DEFENDS TWO WIVES","why":{"on hold":1}},{"name":"HE OWES HIS HOUSE TO KENNETH HAGIN","why":{"on hold":1}},{"name":" THEN DIED TWO WEEKS LATER\"","why":{"on hold":1}},{"name":"ROD TAYLOR HOLDS CHRISTIAN HERITAGE PARTY NEWS CONFERENCE ON PARLIAMENT HILL","why":{"on hold":1}}];
-window.UPDATED = "2026-11-28T10:43:05.767Z";
+window.UPDATED = "2026-11-28T11:17:48.763Z";
 window.LOG_UPDATED = "2026-11-28 09:47 Accra";
 window.CHANNELS = [
  {
@@ -12,10 +12,10 @@ window.CHANNELS = [
   "name": "Daily Bread Word",
   "url": "https://www.youtube.com/@DailyBreadWord-c4s",
   "icon": "https://yt3.googleusercontent.com/EHFT9rogwWo7OlfaMvIdsiG9eoKUqFb6WFsmAD0W_mMBQBeBcjOmZXxUEcOPpGtwRDyx-sr6KyM=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 50,
+  "videos": 51,
   "views": 8208,
   "subs": 32,
-  "week": 5,
+  "week": 6,
   "added": 0,
   "scheduled": [
    "28 Sep 18:40",
@@ -1312,7 +1312,7 @@ window.CHANNELS = [
   "videos": 22,
   "views": 8667,
   "subs": 28,
-  "week": 3,
+  "week": 2,
   "added": 46,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -2368,7 +2368,7 @@ window.CHANNELS = [
   "videos": 29,
   "views": 1044,
   "subs": 7,
-  "week": 7,
+  "week": 6,
   "added": 80,
   "scheduled": [
    "29 Sep 18:25, Short 29 Sep 12:25",
@@ -3548,7 +3548,7 @@ window.CHANNELS = [
   "name": "The Pilgrim Radio",
   "url": "https://www.youtube.com/@ThePilgrimRadio",
   "icon": "https://yt3.googleusercontent.com/oMR_aeWmYXVqdGG_BBHODfpZ3t27kHZZkI-U_jxm-ScjKBJfAcpPXyjOSmqnPA4GP_YReiKIRmw=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 20,
+  "videos": 21,
   "views": 1451,
   "subs": 2,
   "week": 5,
@@ -5739,7 +5739,7 @@ window.CHANNELS = [
   "category": "People channels",
   "url": "https://www.youtube.com/@ChineduOkafor-o3h",
   "icon": "https://yt3.googleusercontent.com/BILybmqLHEmee6SUMXn33FfUdIR06SjdhhYsdR-iuKrg63iPsy8R7Iz_zJBsBYkK-ybSterRrg=s176-c-k-c0x00ffffff-no-rj",
-  "videos": 4,
+  "videos": 5,
   "views": 258,
   "subs": 1,
   "week": 5,
