@@ -1,7 +1,7 @@
 {
  "source": "https://dhmm-youtube-channels.netlify.app",
- "generated": "2026-11-28T10:08:44.829Z",
- "data_updated": "2026-11-28T10:08:44.686Z",
+ "generated": "2026-11-28T10:43:05.905Z",
+ "data_updated": "2026-11-28T10:43:05.767Z",
  "upload_log_updated": "2026-11-28 09:47 Accra",
  "notes": "YouTube numbers are exact lifetime figures from the YouTube Data API (views = max(channel total, sum of video views)). Alternative Platforms: Rumble, Odysee and BitChute subscribers = followers. \"scheduled\" = videos with a go-live time still ahead when this file was made.",
  "totals": {
@@ -9,9 +9,9 @@
   "youtube_channels": 260,
   "subscribers": 543020,
   "views": 20637391,
-  "videos": 12153,
-  "videos_this_week": 571,
-  "videos_scheduled": 85
+  "videos": 12164,
+  "videos_this_week": 574,
+  "videos_scheduled": 82
  },
  "channels": [
   {
@@ -441,8 +441,8 @@
    "url": "https://www.youtube.com/@GloriousImpartation",
    "subscribers": 7740,
    "views": 126795,
-   "videos": 75,
-   "videos_this_week": 3,
+   "videos": 76,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -453,9 +453,9 @@
    "url": "https://www.youtube.com/@GodMe-p1y",
    "subscribers": 9,
    "views": 3425,
-   "videos": 24,
-   "videos_this_week": 7,
-   "scheduled": 1,
+   "videos": 25,
+   "videos_this_week": 8,
+   "scheduled": 0,
    "ministers": ""
   },
   {
@@ -502,7 +502,7 @@
    "subscribers": 62,
    "views": 33755,
    "videos": 48,
-   "videos_this_week": 6,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -1017,9 +1017,9 @@
    "url": "https://www.youtube.com/@CrownedWithGlory-l1f",
    "subscribers": 20,
    "views": 6879,
-   "videos": 48,
+   "videos": 49,
    "videos_this_week": 3,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -1054,7 +1054,7 @@
    "subscribers": 74,
    "views": 48132,
    "videos": 48,
-   "videos_this_week": 4,
+   "videos_this_week": 3,
    "scheduled": 2,
    "ministers": ""
   },
@@ -2133,9 +2133,9 @@
    "url": "https://www.youtube.com/@DagHeward-MillsChurch",
    "subscribers": 14400,
    "views": 229212,
-   "videos": 338,
+   "videos": 339,
    "videos_this_week": 3,
-   "scheduled": 2,
+   "scheduled": 1,
    "ministers": ""
   },
   {
@@ -2301,8 +2301,8 @@
    "url": "https://www.youtube.com/@BreakingWorldNews-o8x",
    "subscribers": 3,
    "views": 155,
-   "videos": 18,
-   "videos_this_week": 4,
+   "videos": 19,
+   "videos_this_week": 5,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2361,8 +2361,8 @@
    "url": "https://www.youtube.com/@DailyWorldReport-f1e",
    "subscribers": 0,
    "views": 110,
-   "videos": 11,
-   "videos_this_week": 3,
+   "videos": 12,
+   "videos_this_week": 4,
    "scheduled": 0,
    "ministers": ""
   },
@@ -2421,8 +2421,8 @@
    "url": "https://www.youtube.com/@NewsCentral24-g5b",
    "subscribers": 0,
    "views": 70,
-   "videos": 17,
-   "videos_this_week": 2,
+   "videos": 18,
+   "videos_this_week": 3,
    "scheduled": 0,
    "ministers": ""
   },
@@ -3273,7 +3273,7 @@
    "url": "https://www.youtube.com/@lovelydiamond-l9e",
    "subscribers": 2,
    "views": 175,
-   "videos": 74,
+   "videos": 78,
    "videos_this_week": 27,
    "scheduled": 0,
    "ministers": ""
