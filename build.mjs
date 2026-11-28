@@ -74,14 +74,27 @@ const held = await readFile(new URL('./data/held.json', import.meta.url), 'utf8'
 // the page adds their latest-post times live from the "Official DHM summary" tab.
 // Exact lifetime numbers per channel id from the YouTube API (refresh-stats.py); preferred over
 // page scraping, which rounds subscribers and only sums the views of the videos we have links for.
-const apiStats = await readFile(new URL('./data/stats.json', import.meta.url), 'utf8').then(JSON.parse).catch(() => ({}));
+const readJson = (path, empty) => readFile(new URL(path, import.meta.url), 'utf8').then(JSON.parse).catch(() => empty);
+// data/live/ holds the same files as published (github-sync.sh copies them there). A copy of this repo
+// that keeps its own data/*.json (youtube.flowlive.org's server) still gets fresh numbers: per channel,
+// whichever record has the later YouTube API time (api_at) wins.
+const newer = (a, b) => (!a ? b : !b ? a : (b.api_at || '') >= (a.api_at || '') ? b : a);
+const apiStats = await (async () => {
+  const own = await readJson('./data/stats.json', {}), live = await readJson('./data/live/stats.json', {});
+  for (const [id, r] of Object.entries(live)) own[id] = newer(own[id], r);
+  return own;
+})();
 // Official channels on other platforms (Odysee, Rumble) from fetch-platforms.py.
-const platformList = await readFile(new URL('./data/platforms.json', import.meta.url), 'utf8').then(JSON.parse).catch(() => []);
+const platformList = await readJson('./data/live/platforms.json', null) || await readJson('./data/platforms.json', []);
 // Which men of God a channel features, and its focus (Men of God channels tab).
 const ministers = await readFile(new URL('./data/ministers.json', import.meta.url), 'utf8').then(JSON.parse).catch(() => ({}));
 const norm2 = t => t.toLowerCase().replace(/[‘’]/g, "'").replace(/\s+/g, ' ').trim();
 const ministerOf = new Map(Object.entries(ministers).map(([k, v]) => [norm2(k), v]));
-const officialList = await readFile(new URL('./data/official.json', import.meta.url), 'utf8').then(JSON.parse).catch(() => []);
+const officialList = await (async () => {
+  const own = await readJson('./data/official.json', []), live = await readJson('./data/live/official.json', []);
+  const byId = new Map(live.map(o => [o.id, o]));
+  return own.length ? own.map(o => newer(o, byId.get(o.id))) : live;
+})();
 // data/categories.txt: "## Category" headings, channel names under each (as they appear on the page).
 const catText = await readFile(new URL('./data/categories.txt', import.meta.url), 'utf8').catch(() => '');
 const categories = [], categoryOf = new Map(), spelled = new Map();

@@ -12,6 +12,8 @@ rsync -a --delete \
   --exclude '.live-sheet*' --exclude .odysee-token --exclude update.sh \
   --exclude data/live-sheet-id.txt --exclude .DS_Store --exclude '.playwright-mcp' \
   $R/ $G/
+# fresh numbers also under data/live/, for copies (the .org server) that keep their own data/*.json
+mkdir -p data/live && cp data/stats.json data/official.json data/platforms.json data/live/
 mkdir -p netlify/functions
 cp $N/netlify/functions/stats.mjs $N/netlify/functions/channels.json netlify/functions/
 cp ~/1000-channels/dashboard-website.sh ~/1000-channels/dashboard-auto.sh ~/1000-channels/github-sync.sh .

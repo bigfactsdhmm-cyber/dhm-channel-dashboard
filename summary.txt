@@ -1,19 +1,19 @@
 DAG HEWARD-MILLS YOUTUBE CHANNEL NETWORK - DASHBOARD SUMMARY
 Source: https://dhmm-youtube-channels.netlify.app   (full data: https://dhmm-youtube-channels.netlify.app/channels.json , spreadsheet: https://dhmm-youtube-channels.netlify.app/channels.csv)
-Generated: 2026-11-28T04:09:12.184Z   Numbers refreshed: 2026-11-28T04:09:12.072Z   Upload log: 2026-11-26 12:52 Accra
+Generated: 2026-11-28T04:22:46.686Z   Numbers refreshed: 2026-11-28T04:22:46.578Z   Upload log: 2026-11-26 12:52 Accra
 
 TOTALS
   Channels tracked: 279 (260 on YouTube)
   Subscribers/followers: 543,020
   Views: 20,628,708
   Videos on YouTube: 12,095
-  Videos posted in the last 7 days: 534
+  Videos posted in the last 7 days: 535
   Videos scheduled (go-live time still ahead): 0
 
 SECTIONS
   Official YouTube channels: 8 channels, 488,630 subscribers, 18,869,832 views, 16 videos this week
   Alternative Platforms: 19 channels, 2,303 subscribers, 88,525 views, 0 videos this week
-  Fan channels: 145 channels, 48,830 subscribers, 1,526,999 views, 318 videos this week
+  Fan channels: 145 channels, 48,830 subscribers, 1,526,999 views, 319 videos this week
   Men of God channels: 12 channels, 139 subscribers, 40,507 views, 31 videos this week
   FLOW Prayer Meeting channels: 26 channels, 3,025 subscribers, 55,436 views, 24 videos this week
   Camps channels: 40 channels, 28 subscribers, 4,782 views, 11 videos this week
@@ -51,7 +51,7 @@ MOST ACTIVE THIS WEEK (videos posted in the last 7 days)
   3. Dag Heward-Mills (Official YouTube channels): 16
   4. WorldScope News (Christian Gist channels): 9
   5. Hidden Manna (FLOW Prayer Meeting channels): 8
-  6. God & Me (Fan channels): 6
+  6. God & Me (Fan channels): 7
   7. Kingdom Minded (Fan channels): 6
   8. Kingdom Spotlight (Fan channels): 6
   9. Love, God's Way (Fan channels): 6
